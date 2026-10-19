@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020057
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-081 transcribe
+prompt Read scan pg-081.png and transcribe printed English to part-81.md
+think Scanned page 38 of Brihat Jataka (Chidambaram Iyer, Madras 1885). Running head BRIHAT JATAKA, chapter marker [CH. 4. Page is continuous prose with stanza 22 and its notes (a) (b) (c). No Greek. No Sanskrit terms requiring transliteration. No illegible words.
+obs Page begins mid-sentence ("rius.") -- continuation from pg-080. Footnote letters (a)(b)(c) are inline in body and expanded in Notes section. All text clear and readable.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-81.md -- transcription written, one reading pass
+recommend Stage and commit the Brihat batch covering pg-081 once the full batch is complete.

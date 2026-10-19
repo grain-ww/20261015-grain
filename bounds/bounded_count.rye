@@ -1,0 +1,32 @@
+//! bounds/bounded_count.rye -- count from zero to a named bound, and assert the count never passes it.
+//! The first code in this tree. It is small enough to read in one sitting, and it prints one green line
+//! only when every assert above it holds.
+const std = @import("std");
+const assert = std.debug.assert;
+const print = std.debug.print;
+
+// invariant: the bound is one named constant, so every loop reads the same value.
+// Why u32: a count held in memory is bounded by a named constant, so u32 is wide enough (TAME core, reflex 3).
+const bound: u32 = 16;
+
+fn count_up_to(limit: u32) u32 {
+    // invariant: the limit is at least one, so the loop takes at least one step.
+    assert(limit > 0);
+    // invariant: the limit does not pass the named bound, so the loop cannot run past it.
+    assert(limit <= bound);
+    var n: u32 = 0;
+    while (n < limit) : (n += 1) {
+        // invariant: n stays below limit inside the loop, so each step stays within the bound.
+        assert(n < limit);
+    }
+    // invariant: when the loop ends, n equals the limit exactly.
+    assert(n == limit);
+    return n;
+}
+
+pub fn main() void {
+    const result = count_up_to(bound);
+    // invariant: the count returned equals the bound it was asked to reach.
+    assert(result == bound);
+    print("green: counted to {d} within bound {d}\n", .{ result, bound });
+}

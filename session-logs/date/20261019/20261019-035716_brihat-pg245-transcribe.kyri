@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.035716
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-245 transcription
+prompt Read scan pg-245.png and transcribe printed English to part-245.md
+think Page is printed page 202, running head BRIHAT JATAKA, CH. 24. -- text runs mid-sentence from prior page (word "pied") and ends mid-sentence at page bottom. Trimsamsa transliterated as printed. No Greek on this page. No illegible words.
+obs One reading pass; text clear throughout. "Trimsamsa" and "Trimsamsa" appear as printed -- kept as-is. "Marry" appears capitalised mid-sentence as printed -- kept.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-245.md -- transcription of scan page 245
+recommend commit the day's session logs and transcription files when the batch is complete

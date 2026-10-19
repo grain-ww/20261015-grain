@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023542
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-129 transcribe
+prompt Read scan pg-129.png and write part-129.md with printed English transcription
+think Image shows printed page 86 of Brihat Jataka, CH. 8, running head BRIHAT JATAKA. Text covers dasa periods of Venus and Saturn (stanzas 18-19) then begins Notes section. No Greek on page. Sanskrit terms present: Sastras, dasa, Lagna, Upachaya -- transcribed as printed, marked uncertain by policy.
+obs Page ends mid-sentence at "But if the planets suffer defeat in conjunction, be" -- transcribed exactly as printed, no invented continuation.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-129.md transcription of scan pg-129
+recommend check part-130 booking to continue the Brihat batch sequence

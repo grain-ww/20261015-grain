@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.032219
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-195 transcribe
+prompt Read scan at pg-195.png, transcribe printed English, write to part-195.md
+think Single reading pass; scan page 195 = printed page 152, CH. 14; continues four-planet combinations (32-35) then opens IV. OF FIVE PLANETS (1-6)
+obs No Greek on this page; no Sanskrit requiring transliteration; one word "and" printed as "aub" in item (4) -- transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-195.md -- transcription of scan page 195
+recommend continue to pg-196 to carry on the five-planet combinations

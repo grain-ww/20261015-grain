@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.041733
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-273 transcribe
+prompt Read scan pg-273.png and write part-273.md with printed English transcribed
+think Single reading pass; page is printed page 230, running head BRIHAT JATAKA. [CH. 27.
+think Sections 20-23: Drekkana descriptions for 2nd/3rd Libra and 1st/2nd Scorpio, with Notes after each
+think Preserved double-comma in "down,," and "appearence" misspelling as printed; "Drekkna" typo in last Notes kept as printed
+obs No Greek on this page; no Sanskrit; no illegible words; clean print
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-273.md -- transcription of scan pg-273
+recommend continue to pg-274 to maintain batch sequence

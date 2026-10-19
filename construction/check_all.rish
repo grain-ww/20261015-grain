@@ -1,0 +1,38 @@
+# construction/check_all.rish -- run every strand check in one command: the living links, the spell strand, the voice pages, the booked batches, the shed rows, the standfast, and the o learnings.
+#
+# Usage:  rishi/bin/rishi run construction/check_all.rish
+# Each check is a small shell step whose exit status Rishi reads. The run is green only when all three pass, and a red names the check.
+
+let links = run ["sh" "construction/links.sh"]
+assert links.ok else "check: the living links are not clean"
+say "links: ${links.out_brief}"
+
+let spells = run ["sh" "construction/spells_check.sh"]
+assert spells.ok else "check: the spell strand is not whole"
+say "spells: ${spells.out_brief}"
+
+let voices = run ["sh" "construction/voices_check.sh"]
+assert voices.ok else "check: a voice page is missing"
+say "voices: ${voices.out_brief}"
+
+let batches = run ["sh" "construction/batch_round_check.sh"]
+assert batches.ok else "check: a booked batch is off round 1 or past the count"
+say "batches: ${batches.out_brief}"
+
+let shed = run ["sh" "construction/shed_rows_check.sh"]
+assert shed.ok else "check: a shed row disagrees with the tree"
+say "shed: ${shed.out_brief}"
+
+let standfast = run ["sh" "construction/standfast_check.sh"]
+assert standfast.ok else "check: a held standfast has a booking under it"
+say "standfast: ${standfast.out_brief}"
+
+let ocheck = run ["sh" "construction/o_learnings_check.sh"]
+assert ocheck.ok else "check: o is ahead of xy without a tablecloth note"
+say "o learnings: ${ocheck.out_brief}"
+
+let outputs = run ["sh" "construction/batch_output_check.sh"]
+assert outputs.ok else "check: a batch reached its count without its output on disk"
+say "batch outputs: ${outputs.out_brief}"
+
+say "all strand checks: green"

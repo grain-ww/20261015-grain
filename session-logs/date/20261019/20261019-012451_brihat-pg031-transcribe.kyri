@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012451
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg031 transcribe
+prompt Read scan pg-031.png and transcribe printed English to part-31.md
+think Scanned page 31 is printed page 22, running head INTRODUCTION. Full page readable. No Greek present. Sanskrit terms: amsas, cadjan, Dhruvanadi, Nadigrandham, Nadigrandhams -- marked uncertain by policy but left as printed since they appear as English proper nouns in context. One apparent misprint in the original: "Nadigraud-hams" (line break) retained as printed.
+obs Page ends mid-sentence at bottom; consistent with prior batches -- no text invented.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-31.md transcription written, one reading pass
+recommend transcribe pg-032 next to continue the batch-021-040 run

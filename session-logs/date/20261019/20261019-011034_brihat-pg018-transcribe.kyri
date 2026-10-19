@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.011034
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-018 transcription
+prompt Read scan pg-018.png and transcribe printed English to part-18.md with heading, policy marks, one reading pass
+think Scan is printed page 9, running head INTRODUCTION. Two paragraphs visible. First continues Vishnu/Rama/Ravana narrative from prior page. Second opens the double-Sun/Moon astronomy passage. Bottom of page carries signature numeral 2 (gathering mark). No Greek on this page. Sanskrit names (Bhrigu, Dasaratha, Sukshma, Sthula, Ravana, etc.) transliterated as printed, not marked uncertain because they are proper names rendered in roman by the 1885 edition itself.
+obs Page cuts off mid-sentence at the bottom; the gathering signature 2 appears below the last line of text and is noted in a bracketed line.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-18.md -- transcription of scan page 18
+recommend transcribe pg-019 next to continue the Introduction batch

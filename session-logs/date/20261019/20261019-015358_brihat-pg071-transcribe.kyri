@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015358
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-071 transcribe
+prompt Read scan pg-071.png, transcribe printed English to part-71.md with heading and policy marks
+think Single-pass read of scan page 71 (printed page 28, running head BRIHAT JATAKA, CH 3). Text covers stanzas d, 2, 3 and their Notes sections -- sexual union conditions, setting sign, Navamsas. No Greek present. Sanskrit terms: Navamsas, Yoga, Upachaya -- left as printed (policy: transliterate uncertain; these are already romanised in the source). Page ends mid-sentence at bottom.
+obs Page ends mid-sentence "or if Mars and the Moon should" -- transcribed as printed, no text invented.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-71.md single-pass transcription of scan page 71
+recommend transcribe pg-072 next to continue the interrupted sentence

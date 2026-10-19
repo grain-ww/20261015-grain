@@ -1,0 +1,21 @@
+# context/lib/calendar.brix -- the calfour and calfive calendar, fused into one descriptor.
+# Stamp: 20261018.211159. Status: living. Read beside rota-base.brix, rota.brix and rota-of-fifteen.brix.
+#
+# One count drives both rings. It is git rev-list --count HEAD, read once, never carried in a name.
+#
+# base count_source git rev-list --count HEAD
+#
+# calfour -- the eight-round orbit, nested by fours. Arithmetic lives in construction/calfour.sh.
+# calfour round_rule (count - 1) mod 8 + 1
+# calfour orbit_rule (count - 1) div 8 + 1
+# calfour quest_rule ((count - 1) div 8) mod 4 + 1
+# calfour journey_rule ((count - 1) div 32) mod 4 + 1
+# calfour equinox_rule ((count - 1) div 512) + 1
+#
+# calfive -- the fifteen-round orbit, composed from the shared base, rota-base.brix. Its rows live in rota-of-fifteen.brix.
+# calfive base rota-base.brix
+# calfive round_rule ((count - 1) mod 15) + 1
+# calfive rows context/lib/rota-of-fifteen.brix
+#
+# calendar_record.sh reads the calfive sign from rota-of-fifteen.brix, so that file stays the one place its rows live.
+# This page names the two rings beside each other. It does not rewire any script; that is a separate, witnessed change.

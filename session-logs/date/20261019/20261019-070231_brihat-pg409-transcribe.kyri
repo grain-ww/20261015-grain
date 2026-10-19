@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.070231
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe scan page 409 -- Taylor Plato Wellcome 1793
+prompt Read pg-409.png and transcribe printed English to part-409.md
+think Printed page 378, running head INTRODUCTION. One block of continuous prose, no footnotes. Greek inline (kata scheisin) -- marked by policy, not transcribed. Long-s rendered as s throughout. Catchword "which" at foot.
+obs Page ends mid-sentence with catchword; "6" is a signature mark, not a page number. Greek phrase left as policy marker.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-409.md -- transcription of scan page 409
+recommend commit the session logs batch from today's transcription work, then check whether part-409.md closes the final gap in the Wellcome batch

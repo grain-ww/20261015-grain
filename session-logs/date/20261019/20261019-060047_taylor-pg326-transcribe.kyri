@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.060047
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 326
+prompt Read scan pg-326.png and transcribe printed English to part-326.md
+think Scanned page is printed page 295, running head INTRODUCTION.
+think Latin passage present -- transcribed as printed. Footnote dagger contains Greek -- marked not transcribed by policy.
+think Catchword "fect" at foot of page (continuation of "perfect") -- kept as printed.
+obs Page ends mid-sentence; catchword U 4 / fect indicates continuation to next page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-326.md -- transcription written, one reading pass
+recommend transcribe pg-327 next to continue the interrupted sentence

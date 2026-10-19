@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.040220
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-252 transcribe
+prompt Read scan pg-252.png and transcribe printed English to part-252.md
+think Single reading pass; image showed CH. 25 / p.209, running head BRIHAT JATAKA
+think Sanskrit terms present: Sarpa, Nigala Drekkana -- transliterated as printed (roman in source)
+think No Greek present on this page
+think Page ends mid-sentence at bottom (stanza 6, last line); transcribed as printed
+obs Heading set to printed page 209 with running head BRIHAT JATAKA
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-252.md -- transcription written
+recommend continue with pg-253 scan to complete stanza 6 and the chapter

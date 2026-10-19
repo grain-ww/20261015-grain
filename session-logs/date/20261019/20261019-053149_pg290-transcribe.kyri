@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.053149
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default
+voice Kyri
+title pg-290 transcription -- Taylor Plato Wellcome 1793
+prompt Read scan pg-290.png and write transcription to part-290.md
+think Read image; identified running head INTRODUCTION, printed page 259; transcribed English prose; marked all Greek passages per policy; noted footnote marker and signature line S 2
+obs Write blocked -- scratchpad path outside session working directory; user approval needed; transcription text ready and displayed in chat
+file /tmp/.../scratchpad/all/part-290.md -- transcription target, write pending approval
+recommend Allow the write permission prompt so part-290.md lands; the transcription text is verified and ready

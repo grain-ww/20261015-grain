@@ -1,0 +1,18 @@
+# construction/publish.rish -- publish this tree to ww as one snapshot commit.
+#
+# Usage:  rishi/bin/rishi run construction/publish.rish <word>
+#   word "dry" builds the snapshot and prints it. Nothing is pushed.
+#   word "yes" builds the snapshot and force-pushes it to ww main. Nothing else is pushed.
+#
+# Guards: the word is one of the two, the tree is clean, and ww/main can be read. A snapshot keeps the full history on xy, so
+# ww holds one commit, and the old head stays reachable on xy.
+
+assert args.len == 1 else "publish: give exactly one word, dry or yes; a run with no word or two words does nothing"
+for-each args as word do assert (run ["sh" "-c" "[ $1 = dry ] || [ $1 = yes ]" "_" word]).ok else "publish: the word must be dry or yes"
+let dirty = run ["git" "status" "--short"]
+assert dirty.ok else "publish: git status failed"
+assert dirty.out == "" else "publish: the tree is dirty; commit or set aside first"
+let wwhead = run ["git" "rev-parse" "ww/main"]
+assert wwhead.ok else "publish: cannot read ww/main; run git fetch ww first"
+for-each args as word do assert (run ["sh" "construction/publish_push.sh" word]).ok else "publish: the snapshot or the push failed"
+say "publish: done"

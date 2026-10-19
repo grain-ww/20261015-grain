@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.061924
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Taylor Parmenides scan page 351 transcribe
+prompt Read scan pg-351.png and transcribe printed English to part-351.md
+think Single reading pass; no Greek on page; long-s rendered as s per rule
+obs Page ends mid-sentence at "neither mid- / dle" -- caught and preserved
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-351.md -- transcription of scan page 351, printed page 320, THE PARMENIDES
+recommend continue batch transcription with next scan page (pg-352)

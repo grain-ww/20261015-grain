@@ -1,0 +1,19 @@
+format session-log-v1
+stamp 20261017.181909
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title survey for active-designing layout, measured-work spec search, and clean-slate broken links
+prompt Keaton: sort active-designing by date, or by category; find the elder fusion build efficiency spec and the productive-activity foundation; list the 20261015 references not yet copied; then expand a Realidream testnet prompt.
+think Searched foundations, active-designing, and context for an elder fusion build efficiency spec and a productive-activity foundation. Neither exists under those names; efficiency hits are incidental.
+think Counted broken relative links in tracked clean-slate markdown: 66 links across 7 files, 39 of them in gratitude/SimpleMadeEasy.md and 18 in context/TWO_ROOMS.md.
+obs gratitude/MeasureWhatMatters.md exists in the field tree, so the measure-what-matters gratitude is held there, not in the clean slate.
+obs The Realidream testnet, Puddle, and Mycelium MUR goals were not started. They exceed one round, and no witness exists for them.
+file session-logs/date/20261017/20261017-181909_active-designing-organization-survey.kyri -- this log, born on its day's shelf
+recommend check in (Claude) -- choose the active-designing layout and whether to create projects/ before any file moves.

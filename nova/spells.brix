@@ -1,0 +1,72 @@
+# spells -- the one strand for the one-word spells
+# One fact per line. Add a new alias here and nowhere else. A later Glow core may lower this file to a Rye struct.
+format spells-brix-v1
+spell a suggest-only
+spell i run-last
+spell improve suggest-only
+trigger i after a run-last-suggestion
+trigger i after improve kg-step
+trigger i after i kg-step
+trigger chain a i a run-then-suggest
+limit i never-chooses-removal
+limit a never-acts
+limit all counts-only-as-bare-line
+trigger i fallback jena-suggestion-from-last-printed-lines
+limit i fallback-suggests-only-in-the-jena-voice
+alias kg i
+alias g i
+spell output-update project-measure-update-from-project-brix
+spell o project-write-and-improve
+limit o writes-the-unstored-learnings-into-tablecloth-before-the-push-so-the-record-outlives-the-reply
+trigger i after o kg-step
+limit o never-removes-content
+trigger o send-push-to-xy-fast-forward-only
+limit o push-never-goes-to-ww-and-never-force-pushes
+trigger combo i-a run-last-then-suggest-next
+combo i a valid-on-one-line-with-a-space
+limit a runs-at-any-time
+spell reduce rota-audit-queue-balanced-over-eight-themes
+spell shed-prep prepare-for-shed-verify-the-prep-list-and-record-the-walk-back-cuts-nothing
+limit shed-prep never-cuts-and-never-removes-a-file
+spell r shed-prep-then-review-and-audit-with-the-rota-and-the-tame-core-audit-of-the-tracked-scripts
+limit reduce single-strand-first-then-condense-then-molt-or-breach-never-shed
+limit reduce suggests-the-queue-and-acts-on-nothing
+alias b i
+trigger i after b kg-step
+trigger b after a suggest-then-one-build-suggestion
+trigger i-a-chain every-i-a-run-ends-with-a-fresh-a-suggestion-so-the-next-i-a-has-something-to-run
+trigger b-any any-b-command-may-follow-any-command
+trigger g-any any-g-command-may-follow-any-command
+combo a b valid-on-one-line-with-a-space
+combo i b valid-on-one-line-with-a-space
+spell br build-in-rishi-the-last-build-step-then-suggest-the-next-build-step
+limit br acts-only-on-the-named-build-step-and-ends-with-one-build-suggestion
+trigger br suggestion-at-end-like-b
+combo b r build-in-rishi-the-last-build-step-then-suggest-the-next-build-step
+trigger combo i-b run-last-then-suggest-expand-build-step
+spell t reword-the-previous-output-in-twilight-style-and-offer-four-next-options-from-the-spells
+limit t reads-the-scripts-and-changes-nothing
+spell f forward
+limit f changes-nothing
+spell w publish-ww-as-one-snapshot-of-the-current-tree-after-a-checkpoint
+limit w checkpoint-the-ww-head-first-and-never-removes-content
+spell s z-study-then-l-r-a-t
+spell bn b-for-nova-using-nova-and-s-l-r-o-w-beside
+trigger s continue-the-last-s-if-s-was-the-very-last-command-else-draw-at-random
+limit s reads-only-texts-accepted-in-study-manifest-md-never-outside-the-gate
+spell * radiant-pass-over-living-pages-measured-against-the-gauge-ceiling-keeping-every-meaning
+limit * never-touches-dated-testimony-and-never-removes-a-refusal-or-a-boundary
+spell l learn-the-last-things-referenced-in-the-last-chat-output-down-to-their-dependencies
+trigger l every-l-is-l-o-a-so-the-o-step-and-the-a-suggestion-follow-the-learning
+limit l the-learning-reads-and-changes-nothing-until-the-o-step
+spell m molt-the-last-referenced-then-run-l-r-l-o-a-with-r-as-construction-check-all-and-shed-rows-check
+spell c continue-calfour-calendar-and-l-b
+spell z run-the-spells-that-follow-within-the-named-path-folder
+spell y r-15-rota-fifteen-themes
+spell x r-8-rota-eight-themes
+limit m molt-is-prep-on-a-referenced-file-never-a-cut-and-the-chain-keeps-its-own-limits
+spell elder-learn read-the-elder-field-source-and-report-no-change
+spell e explain-expand-and-explore-using-jena-bhakti-prema-for-radha-radiant-twilight-style-and-provide-a-suggestion
+limit e reads-the-elder-and-acts-on-nothing
+
+spell n nova

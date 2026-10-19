@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020712
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 90 transcription
+prompt Read scan image pg-090.png and transcribe printed English to part-90.md
+think Image shows printed page 47, running head BRIHAT JATAKA, CH. 5. Text continues mid-sentence from prior page, then Notes section with commentary from Saravali, the Commentator, and Laghu Jataka on birth-room and house-storey determinations. Page ends mid-sentence at bottom (page number 7 is a section footer, not page number).
+obs The word "cocur" on line 8 of Notes section appears to be a misprint for "occur" -- transcribed as printed. "Agnihotra Sala" is a Sanskrit compound, retained as printed (roman). No Greek on this page. No illegible words.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-90.md -- transcription of scan page 90
+recommend check part-90.md against prior and next pages to confirm sentence continuity at page boundaries

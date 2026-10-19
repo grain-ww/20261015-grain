@@ -1,0 +1,317 @@
+# files changed per commit, since 2026-10-17, head 07bc6cea592d
+## 9cf2900
+M	.gitignore
+A	session-logs/date/20261017/20261017-150314_asana-summary-downloads-send.kyri
+A	session-logs/date/20261017/20261017-150602_tablecloth-categories-edt.kyri
+A	tablecloth/README.md
+A	tablecloth/documents/counsel/date/20261015/20261015-204008_kernels-in-the-zig-grain-and-the-license-fork.md
+A	tablecloth/documents/notes/date/20261017/20261017-144713_the-documents-filetree.md
+A	tablecloth/documents/projects/date/20261017/20261017-145715_asana-project-summary-20261015-grain.md
+A	tablecloth/documents/projects/date/20261017/20261017-150305_asana-project-summary-20261015-grain.md
+A	tablecloth/documents/research/date/20261015/20261015-225351_grain-within-grain-the-fold-the-surface-and-the-wasm-question.md
+## 57fd86f
+A	.claude/rules/waymark-ladders.md
+A	.cursor/rules/waymark-ladders.mdc
+M	.gitignore
+A	constel/LADDER.md
+A	constel/MODULES.md
+A	constel/README.md
+A	construction/domain-registry.kyri
+A	context/TWO_ROOMS.md
+## ff46187
+M	tablecloth/README.md
+A	tablecloth/documents/projects/20261015-grain-spec.md
+A	tablecloth/documents/projects/date/20261017/20261017-153408_asana-project-summary-20261015-grain.md
+## 53565e5
+D	.cursor/rules/git-signing.mdc
+D	.cursor/rules/session-logs.mdc
+D	.cursor/rules/vocabulary.mdc
+D	.cursor/rules/waymark-ladders.mdc
+D	.cursor/rules/writing-style.mdc
+M	.gitignore
+D	publish-seed.sh
+D	tools/fixtures/f/fascia_metric.sh
+D	tools/g/grain_prefix.sh
+## efc9c84
+D	.claude/rules/waymark-ladders.md
+## 5310a22
+M	README.md
+M	construction/grain-prefix.kyri
+M	docs-geode/tutorials/the-first-hour.md
+M	tablecloth/documents/projects/20261015-grain-spec.md
+## 5ccce4d
+A	session-logs/date/20261017/20261017-174915_clean-slate-fix-pass.kyri
+A	session-logs/date/README-index-20261017.md
+## 2da8051
+M	constel/LADDER.md
+M	constel/MODULES.md
+A	session-logs/date/20261017/20261017-175647_constel-links-rewrite.kyri
+M	session-logs/date/README-index-20261017.md
+## 66e0f8f
+A	session-logs/date/20261017/20261017-181909_active-designing-organization-survey.kyri
+## 1f6e08d
+M	.gitignore
+A	projects/20261015-grain/README.md
+A	projects/20261015-grain/date/20261017/20261017-183219_atlas-compass-check-in.md
+A	projects/README.md
+A	projects/_template/MEASURES.md
+A	projects/_template/README.md
+A	projects/output-over-activity/MEASURES.md
+A	projects/output-over-activity/README.md
+A	projects/output-over-activity/date/20261017/20261017-183219_development-summary.md
+A	projects/output-over-activity/date/20261017/20261017-183219_expanding-prompt.md
+A	session-logs/date/20261017/20261017-183219_output-over-activity-project.kyri
+M	session-logs/date/README-index-20261017.md
+A	tablecloth/documents/research/date/20261017/20261017-183219_output-over-activity-foundations-research.md
+## c8580fd
+R100	active-designing/20261015-155216_paths-not-yet-molted.md	active-designing/date/20261015/20261015-155216_paths-not-yet-molted.md
+A	session-logs/date/20261017/20261017-183623_fold-20261015-design.kyri
+M	session-logs/date/README-index-20261017.md
+## 689a58d
+M	projects/output-over-activity/README.md
+## d4b49a6
+A	docs-geode/tutorials/20261017-185218_permissioning-and-constellations.md
+## a55c433
+A	.claude/rules/vocabulary-nib.md
+## 66e7119
+A	projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in-2.md
+A	session-logs/date/20261017/20261017-185823_molt-breach-lens-and-atlas-two.kyri
+M	session-logs/date/README-index-20261017.md
+A	tablecloth/documents/research/date/20261017/20261017-185823_molt-breach-debride-infuse-lens.md
+## 134788d
+R089	projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in-2.md	projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in.md
+R093	session-logs/date/20261017/20261017-185823_molt-breach-lens-and-atlas-two.kyri	session-logs/date/20261017/20261017-185823_molt-breach-lens-and-atlas.kyri
+A	session-logs/date/20261017/20261017-190239_stamp-and-name-audit.kyri
+M	session-logs/date/README-index-20261017.md
+## d0ffb8f
+M	.gitignore
+A	patterns/README.md
+A	patterns/output-over-activity/MEASURES.md
+A	patterns/output-over-activity/README.md
+A	patterns/send-and-publish/README.md
+A	patterns/slc-path/README.md
+R100	projects/output-over-activity/MEASURES.md	projects/20261015-grain/output-over-activity/MEASURES.md
+R092	projects/output-over-activity/README.md	projects/20261015-grain/output-over-activity/README.md
+R100	projects/output-over-activity/date/20261017/20261017-183219_development-summary.md	projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_development-summary.md
+R100	projects/output-over-activity/date/20261017/20261017-183219_expanding-prompt.md	projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_expanding-prompt.md
+M	projects/README.md
+A	session-logs/date/20261017/20261017-190914_patterns-decoupled.kyri
+M	session-logs/date/README-index-20261017.md
+## 3f38081
+A	.claude/rules/recommend-from-the-log.md
+A	session-logs/date/20261017/20261017-191817_recommend-from-the-log.kyri
+M	session-logs/date/README-index-20261017.md
+## a42c56f
+M	foundations/README.md
+R100	foundations/20261015-000002_gall-and-conway.md	foundations/date/20261015/20261015-154757_gall-and-conway.md
+R100	foundations/20261015-000003_single-stranded.md	foundations/date/20261015/20261015-154757_single-stranded.md
+R093	foundations/20261015-000001_the-immutable-date-prefix.md	foundations/date/20261015/20261015-154757_the-immutable-date-prefix.md
+R100	foundations/20261015-000004_the-words-a-round-uses.md	foundations/date/20261015/20261015-154757_the-words-a-round-uses.md
+## 3172862
+M	foundations/date/20261015/20261015-154757_the-immutable-date-prefix.md
+## 3f36b05
+A	context/TAME_CORE.md
+## 1e875ea
+A	active-development/date/20261017/20261017-210113_errata-the-20261016-names.md
+## 03b93c2
+M	README.md
+A	context/KEYS.md
+## 8ca157d
+M	context/KEYS.md
+## 8b013d5
+A	context/BRIX.md
+## a7cf4cd
+M	context/BRIX.md
+## 4a7fcec
+A	tablecloth/documents/research/date/20261017/20261017-233626_infuse-bundle.md
+## 5422779
+M	.claude/rules/recommend-from-the-log.md
+M	.gitignore
+A	tablecloth/documents/notes/date/20261018/20261018-000323_ad-ideas-resin.md
+A	tablecloth/documents/notes/date/20261018/20261018-000323_heygen-script.md
+R100	constel/LADDER.md	yonder/constel/LADDER.md
+R100	constel/MODULES.md	yonder/constel/MODULES.md
+R100	constel/README.md	yonder/constel/README.md
+R100	patterns/README.md	yonder/patterns/README.md
+R100	patterns/output-over-activity/MEASURES.md	yonder/patterns/output-over-activity/MEASURES.md
+R100	patterns/output-over-activity/README.md	yonder/patterns/output-over-activity/README.md
+R100	patterns/send-and-publish/README.md	yonder/patterns/send-and-publish/README.md
+R100	patterns/slc-path/README.md	yonder/patterns/slc-path/README.md
+R100	projects/20261015-grain/README.md	yonder/projects/20261015-grain/README.md
+R100	projects/20261015-grain/date/20261017/20261017-183219_atlas-compass-check-in.md	yonder/projects/20261015-grain/date/20261017/20261017-183219_atlas-compass-check-in.md
+R100	projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in.md	yonder/projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in.md
+R100	projects/20261015-grain/output-over-activity/MEASURES.md	yonder/projects/20261015-grain/output-over-activity/MEASURES.md
+R100	projects/20261015-grain/output-over-activity/README.md	yonder/projects/20261015-grain/output-over-activity/README.md
+R100	projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_development-summary.md	yonder/projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_development-summary.md
+R100	projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_expanding-prompt.md	yonder/projects/20261015-grain/output-over-activity/date/20261017/20261017-183219_expanding-prompt.md
+R100	projects/README.md	yonder/projects/README.md
+R100	projects/_template/MEASURES.md	yonder/projects/_template/MEASURES.md
+R100	projects/_template/README.md	yonder/projects/_template/README.md
+## 28a105b
+A	active-development/date/20261018/20261018-001012_removal-verbs-plan.md
+## 569422a
+R100	tablecloth/documents/research/date/20261017/20261017-185823_molt-breach-debride-infuse-lens.md	active-designing/date/20261017/20261017-185823_molt-breach-debride-infuse-lens.md
+M	context/BRIX.md
+A	context/REMOVAL.md
+## 10ed623
+M	.gitignore
+A	bounds/README.md
+A	bounds/bounded_count.rye
+## 505472d
+A	active-development/date/20261018/20261018-001752_zig-0-17-witness-and-open-question.md
+M	bounds/README.md
+A	bounds/run_witness.sh
+## 51dca72
+A	active-development/date/20261018/20261018.001912_changelog-slice-one.md
+## ea9d6af
+M	active-development/date/20261017/20261017-210113_errata-the-20261016-names.md
+## 6e6103d
+A	tablecloth/documents/notes/date/20261018/20261018.002038_scripture-review-request.md
+## d0d1e35
+M	.gitignore
+A	tablecloth/study/MANIFEST.md
+A	tablecloth/study/README.md
+## bb05ae2
+M	tablecloth/study/MANIFEST.md
+## 7ae78a5
+M	tablecloth/study/MANIFEST.md
+## d049785
+M	tablecloth/study/MANIFEST.md
+## c592f53
+M	tablecloth/study/MANIFEST.md
+## c20db51
+M	tablecloth/study/MANIFEST.md
+A	yonder/refusals/20261018.014350_study-refusals.md
+## 371768d
+M	tablecloth/study/MANIFEST.md
+R100	yonder/refusals/20261018.014350_study-refusals.md	yonder/refusals/20261018-014350_study-refusals.md
+## 7b28c69
+M	yonder/constel/LADDER.md
+M	yonder/constel/MODULES.md
+M	yonder/constel/README.md
+M	yonder/projects/20261015-grain/README.md
+M	yonder/projects/20261015-grain/output-over-activity/README.md
+## acd891f
+M	context/TWO_ROOMS.md
+M	gratitude/20261002-111449_the-durability-study.md
+M	gratitude/SimpleMadeEasy.md
+M	gratitude/andrew-kelley-zig.md
+M	gratitude/buckminster-fuller-tensegrity.md
+M	gratitude/sel4-microkit.md
+M	tablecloth/README.md
+## 862f386
+M	README.md
+## 6fd54bf
+M	context/RADIANT_STYLE.md
+A	context/lib/README.md
+A	context/lib/devotional-register.md
+A	context/lib/shared-register.md
+## 5ca1fbf
+M	.claude/rules/writing-style.md
+M	SOURCE.md
+M	context/BRIX.md
+M	context/TWO_ROOMS.md
+R100	context/GAUGE_STYLE.md	context/styles/gauge.md
+R100	context/lib/README.md	context/styles/lib/README.md
+R100	context/lib/devotional-register.md	context/styles/lib/devotional-register.md
+R100	context/lib/shared-register.md	context/styles/lib/shared-register.md
+R100	context/RADIANT_STYLE.md	context/styles/radiant.md
+R068	context/KYRI.md	context/voices/kyri.md
+M	gratitude/20261002-111449_the-durability-study.md
+M	yonder/constel/LADDER.md
+M	yonder/constel/MODULES.md
+M	yonder/constel/README.md
+## 7c6cbf8
+A	context/voices/README.md
+A	context/voices/jena.md
+A	context/voices/keat.md
+## bcc6a2f
+M	context/styles/lib/README.md
+A	context/styles/lib/precision.md
+A	context/styles/lib/voice-limits.md
+M	context/voices/jena.md
+M	context/voices/keat.md
+M	context/voices/kyri.md
+## da37ee8
+M	context/styles/gauge.md
+## 6eaa88b
+M	context/voices/README.md
+A	context/voices/djin.md
+A	context/voices/shmr.md
+## 4581548
+M	context/voices/README.md
+A	context/voices/sara.md
+## 6e96069
+A	construction/BATON.md
+## 42b1a56
+A	context/SPELLBOOK.md
+## 46483be
+M	tablecloth/study/MANIFEST.md
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 453e518
+A	tablecloth/documents/notes/date/20261018/20261018-020312_study-sort.md
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 007cd9d
+M	tablecloth/documents/notes/date/20261018/20261018-020312_study-sort.md
+M	yonder/refusals/20261018-014350_study-refusals.md
+## f15cab0
+M	tablecloth/study/MANIFEST.md
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 87fbcc4
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 31c722c
+M	.gitignore
+M	construction/BATON.md
+A	expanding-prompts/date/20261018/20261018-020905_passed-sources-tutorial-plan.md
+## 2ea0f16
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 288460b
+M	yonder/refusals/20261018-014350_study-refusals.md
+## cd43d4a
+M	tablecloth/study/MANIFEST.md
+M	yonder/refusals/20261018-014350_study-refusals.md
+## 6199d72
+A	construction/PROJECT.md
+A	construction/prompts/round.md
+A	construction/round.sh
+## 08c27f5
+M	construction/BATON.md
+M	construction/PROJECT.md
+M	context/styles/radiant.md
+## 47fbe0c
+A	expanding-prompts/date/20261018/20261018-022327_replay-session-prompt.md
+A	tablecloth/documents/context-data/dependencies/links.tsv
+A	tablecloth/documents/context-data/fascia/fascia.md
+A	tablecloth/documents/context-data/replay.sh
+A	tablecloth/documents/context-data/replay/commits.txt
+A	tablecloth/documents/context-data/replay/files.txt
+A	tablecloth/documents/context-data/summary/20261018-022327_session-summary.md
+## ff06ca2
+M	context/SPELLBOOK.md
+A	docs-geode/tutorials/a-round-step-by-step.md
+A	tablecloth/documents/notes/date/20261018/20261018-022557_round-steps-tutorial.md
+## 34b3601
+M	construction/PROJECT.md
+A	construction/links.sh
+## dae8301
+A	construction/links.rish
+A	construction/links_page.sh
+## 53160d0
+A	docs-geode/tutorials/link-check-in-rishi.md
+## 3e52412
+M	context/SPELLBOOK.md
+## 168741b
+A	active-development/date/20261018/20261018-022948_bhakta-to-radha-molt.md
+M	docs-geode/tutorials/a-round-step-by-step.md
+M	docs-geode/tutorials/link-check-in-rishi.md
+M	docs-geode/tutorials/the-first-hour.md
+## 00f41e9
+A	active-development/date/20261018/20261018-023114_open-question-at-the-door.md
+## 080fc74
+R100	active-development/20261015-155216_the-new-tree-round.md	active-development/date/20261015/20261015-155216_the-new-tree-round.md
+M	active-development/date/20261018/20261018-001012_removal-verbs-plan.md
+## dcb71bf
+A	tablecloth/documents/notes/date/20261018/20261018-023528_tablecloth-audit.md
+## 07bc6ce
+M	tablecloth/README.md
+M	tablecloth/documents/context-data/fascia/fascia.md

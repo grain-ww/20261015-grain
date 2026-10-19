@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.013945
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-051 transcription
+prompt Read scan pg-051.png and transcribe printed English to part-51.md
+think Page 51 is printed page 10, running head BRIHAT JATAKA [CH. I.
+think Content: closing sentence on Neecha signs, NOTES on exaltation/depression table, verse 14 on Vargottama, and its NOTES
+think Table has seven planets with Uccha signs, Neecha signs, and degree columns -- transcribed as plain text table
+think No Greek text present; Sanskrit terms (Neecha, Uccha, Navamsas, Vargottama, Moolatrikona) kept as printed
+obs The word "eTh" at start of second note paragraph is likely a print artifact for "The" -- transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-51.md one-pass transcription of scan page 51
+recommend commit the Brihat batch covering pages 051 onward once all pages in the batch are transcribed

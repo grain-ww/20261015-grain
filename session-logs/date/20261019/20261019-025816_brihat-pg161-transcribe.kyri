@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.025816
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka scan page 161 transcription
+prompt Read scan pg-161.png and transcribe printed English to part-161.md
+think Opened image; identified printed page 118, chapter 11, running head BRIHAT JATAKA
+think Page contains stanzas 14-16 (partial) with Notes sections between them
+think Sanskrit terms Swakshetra and Lagna marked uncertain per policy; no Greek present
+think Stanza 16 cuts off at bottom of scan -- transcribed through the last visible line
+obs "plants" appears in body text where "planets" is likely intended -- kept as printed
+obs Footnote letter markers (a)(b)(c)(d) in stanza 16 kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-161.md -- transcription of scan page 161
+recommend commit the untracked session logs from today's brihat batches so the day's work is sealed

@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.084956
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 556 transcription
+prompt Read scan pg-556.png and write part-556.md with printed English transcribed
+think Read image; printed page 525, running head OF PLATO.; one column of body text
+think No Greek on this page; no Sanskrit; one italic word (difference); page ends mid-word "roundings"
+obs Page ends at the bottom with a catch-word fragment "roundings" -- kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-556.md -- transcription of scan page 556
+recommend check part-556.md against the scan for the catch-word line, then continue to pg-557

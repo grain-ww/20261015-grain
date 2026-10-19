@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.073850
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 458
+prompt Read scan pg-458.png, transcribe printed English to part-458.md with heading, Greek not transcribed, one reading pass.
+think Scan is clear; printed page number is 427, running head INTRODUCTION. Bottom third is Greek block -- policy says do not transcribe Greek, mark as [Greek, not transcribed by policy].
+obs Long-s forms rendered as plain s per instruction. Dash run at end of English block rendered as ---- to preserve print character.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-458.md -- transcription of printed English, pg 427 INTRODUCTION
+recommend commit the untracked session logs from today's Brihat and Taylor batches, then resume the remaining Taylor transcription pages

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042547
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-283 transcription -- Table B oblique ascension
+prompt Read scan pg-283.png and transcribe printed English to part-283.md
+think Image is a rotated numerical table (TABLE B) -- G. and V. columns likely Ghatikas/Vighatikas; no printed page number visible; section marker IV. at top right serves as running head
+obs Many cell values in the inner rows (Cancer through Capricorn) are small and partially obscured; marked [illegible] rather than guessing; outer rows (Aries, Taurus, Aquarius, Pisces) legible with reasonable confidence
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-283.md -- transcription of scan page 283 written
+recommend check part-283.md cell values against a second scan pass or the elder tree's copy if one exists, because the rotated small-print table leaves several inner cells uncertain

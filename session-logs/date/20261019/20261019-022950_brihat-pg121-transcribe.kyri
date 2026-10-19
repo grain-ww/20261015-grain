@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.022950
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-121 transcribe
+prompt Read scan pg-121.png and transcribe printed English to part-121.md
+think Scanned page 78 of the printed text, CH. 8, running head BRIHAT JATAKA. Stanza 3 and its notes (a) and (b) on antardasa periods. No Greek present. Sanskrit terms (Antardasa, dasa, Lagna-dasa, Apoklina) kept as printed. Fractions rendered as inline text from the proportion line at the page foot.
+obs Page ends mid-sentence -- "If there be" continues on the next scan.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-121.md -- transcription of scan page 121
+recommend transcribe pg-122 to continue the interrupted sentence from note (b)

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.071502
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Transcribe scan page 426 -- Taylor Plato Wellcome 1793
+prompt Read pg-426.png and write part-426.md with the printed English transcribed under the standard heading
+think Single reading pass; printed page 395, running head INTRODUCTION; long-s resolved to s as instructed; no Greek present on this page; page ends mid-word "con-" at foot
+obs Page is clean and legible; centred italic line "The chain continues, but its links unknown." treated as a display quotation, kept on its own line
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-426.md -- transcription written
+recommend check part-426.md against the scan for any word missed at the foot before closing the batch

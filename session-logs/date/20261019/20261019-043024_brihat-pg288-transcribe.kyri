@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.043024
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat pg-288 transcription -- Table E, Vernal Equinox culmination
+prompt Read scan pg-288.png and transcribe printed English to part-288.md
+think Page is a single numerical table (Table E): columns Month, Date, Sun's culmination h. and m., Culmination of V. equinox h. and m. Two side-by-side panels covering January through December in six-day steps. No prose, no Greek, no Sanskrit. Transcribed all rows into markdown tables with heading per the given template.
+obs One figure in January row 25 Sun's culmination minutes was slightly unclear (print artefact); noted inline as [figure partially unclear, reads 12 or 13]. All other cells legible.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-288.md -- transcription of Table E, scan page 288
+recommend check-in -- confirm part-288.md rows match the scan before committing the batch

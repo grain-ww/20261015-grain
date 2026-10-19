@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.033333
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-211 transcribe
+prompt Read scan pg-211.png and write part-211.md with printed English transcription
+think Single reading pass; printed page 168, running head BRIHAT JATAKA, Ch. 18
+think No Greek present; one spelling variant noted -- "sigh" for "sign" in Sagittari paragraph, kept as printed
+think "handicraft" rendered as printed (one word); "Sagittari" kept as printed (no terminal i)
+obs Scan clean; all text legible; no illegible words; no Sanskrit or Greek requiring policy note
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-211.md -- transcription of scan pg-211
+recommend commit the open session-log batch (pg021--pg211) so the day's transcription work lands on xy

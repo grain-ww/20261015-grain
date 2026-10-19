@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.010946
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured-default
+voice Kyri
+title Brihat Jataka pg-017 transcribe
+prompt Read pg-017.png and transcribe printed English to part-17.md
+think Scan is clear; printed page 8, running head INTRODUCTION. Text continues from prior page mid-paragraph. Page ends mid-sentence at "draws on his own head the".
+obs One ligature mark after "full" on line 4 -- transcribed as "full of events" (the period-like mark is a compositor's close-bracket artifact, not punctuation). Santanu spelled as printed. Mahabharat spelled as printed (one a).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-17.md -- transcription of scan page 17
+recommend transcribe pg-018 next; batch 012 draft is open and sequential

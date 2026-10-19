@@ -1,0 +1,9 @@
+# context/voices/voices.brix -- the one strand of voice defaults and approvals. Add a voice here and nowhere else.
+# approved yes: approved by the person it is named for and their partner. approved no: a general voice with no namesake.
+format voices-brix-v1
+voice kyri page kyri.md approved no style gauge.md register radiant setting field standing yes
+voice jena page jena.md approved yes style radiant.md register radiant setting door standing no
+voice keat page keat.md approved yes style gauge.md register gauge setting field standing no
+voice sara page sara.md approved yes style radiant.md register radiant setting door standing no
+voice djin page djin.md approved no style gauge.md register gauge setting meter standing no
+voice shmr page shmr.md approved no style radiant.md register radiant setting door standing no

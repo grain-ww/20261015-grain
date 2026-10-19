@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.055557
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 320 transcription
+prompt Read scan pg-320.png and transcribe printed English to part-320.md
+think Scan is printed page 289, running head INTRODUCTION. Text continues mid-word from prior page ("gible triad?"). One footnote carries Greek quotation (three instances); all marked per policy as [Greek, not transcribed by policy]. Catchword "the" and signature mark "U" at foot retained. Long s rendered as s throughout.
+obs Footnote attributes variant reading to Damascius vs. printed Homer editions -- the Greek variants are left per policy.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-320.md -- transcription of scan page 320
+recommend continue with pg-321 if the Taylor batch sequence continues there

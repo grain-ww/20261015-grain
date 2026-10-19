@@ -1,0 +1,6 @@
+# context/lib/project.brix -- the one default for the project: its name, its output measure, and its reading file. Change it here only.
+format project-brix-v1
+project name 20261015-grain
+project reading construction/PROJECT.md
+project measure whole-tree-output
+project partner broken-living-links

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.070444
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 412
+prompt Read pg-412.png and transcribe printed English to part-412.md with heading, policy markers, one reading pass
+think Viewed image: printed page 381, running head INTRODUCTION; one column of text, footnote marker * citing In Tim. p. 152, catchword "tive" at foot
+obs No Greek on this page; long-s spellings normalized per policy (long s written as s); "confubsistent" kept as printed; footnote and catchword included
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-412.md -- transcription of scan page 412, printed page 381
+recommend commit the Taylor batch session logs and transcription drafts accumulated today once the batch run is complete

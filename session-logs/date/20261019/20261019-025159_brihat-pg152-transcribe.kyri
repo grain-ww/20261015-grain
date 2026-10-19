@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.025159
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 152 transcription
+prompt Read scan pg-152.png and transcribe printed English to part-152.md
+think One reading pass; image is Ch. 9, printed page 109, running head BRIHAT JATAKA
+obs "3 4" appears as printed -- likely "3/4" with broken fraction; kept as printed
+obs "Eksadhipatya" -- Sanskrit term, kept as printed (not marked uncertain, it is printed clearly)
+obs "Trikona" -- Sanskrit term, kept as printed
+obs No Greek text present on this page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-152.md -- transcription written, one reading pass
+recommend commit the untracked session logs from today's brihat batches before the next publish

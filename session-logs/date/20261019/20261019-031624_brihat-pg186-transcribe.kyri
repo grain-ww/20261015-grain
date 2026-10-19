@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031624
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg 186 transcription
+prompt Read scan at pg-186.png and transcribe printed English to part-186.md
+think Scan shows CH. 14 / BRIHAT JATAKA. / printed page 143. Top carries the tail of a verse on cloth-work and re-married women; then Notes (a) and (b); then sloka 3 on double-planet pairs (Mars+Mercury through Mars+Saturn); then sloka 4 on Mercury+Jupiter through Jupiter+Saturn. No Greek present. Sanskrit term Punarbhu appears in note (b) -- transcribed as printed.
+obs Page number at footer is 19 (signature mark), not a page number; printed page is 143. Running head is BRIHAT JATAKA. Heading constructed as printed page 143.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-186.md -- transcription of scan page 186
+recommend commit the open session logs from today's Brihat batch before the next transcription round

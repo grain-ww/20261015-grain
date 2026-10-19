@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015935
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-079 transcribe
+prompt Read scan pg-079.png and transcribe to part-79.md with heading, policy notes for Greek/Sanskrit, one reading pass
+think image shows printed page 36, running head BRIHAT JATAKA, CH. 4 -- verses 19-20 and notes on dwarf, limbless, and blind births
+obs Sanskrit term Nisheka appears at bottom; no Greek on this page; no illegible words; all text clear
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-79.md one-pass transcription of printed page 36
+recommend commit the session log batch and the part-79.md transcription once the full batch is complete

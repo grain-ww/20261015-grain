@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.040814
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-260 transcribe
+prompt Read scan pg-260.png and transcribe printed English to part-260.md
+think Image shows CH. 26, printed page 217, running head BRIHAT JATAKA. Two main text sections (c) and stanza 4, followed by Notes (a) and (b). No Greek. Sanskrit: Drekkana, Lagna sphuta, Prasna Lagna, ghatika, Sagittari, Tithi -- all transliterated in the printed text already; kept as printed. Header word "halfsDrekkana" appears as "half Drekkana" with a small superscript mark -- transcribed as "half Drekkana" with a space.
+obs Page bottom cuts mid-sentence at "a person from the Prasna Lagna." -- text continues on next page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-260.md -- transcription of scan page 260
+recommend transcribe pg-261 next to continue the Notes section that ends mid-page here

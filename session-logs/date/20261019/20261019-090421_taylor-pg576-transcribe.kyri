@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.090421
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 576 transcription
+prompt Read scan image at pg-576.png and transcribe printed English to part-576.md
+think Single reading pass; long-s rendered as s per instruction; catchword "creafe" noted in brackets at page foot; no Greek on this page; no illegible words; page is mid-sentence at top and breaks mid-sentence at foot
+obs Page 545, running head "OF PLATO." -- text is from Timaeus, on venereal intemperance and diseases of the soul rooted in bodily habit and civic vices
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-576.md -- transcription of scan page 576
+recommend continue with next scan page in the batch, if one is queued

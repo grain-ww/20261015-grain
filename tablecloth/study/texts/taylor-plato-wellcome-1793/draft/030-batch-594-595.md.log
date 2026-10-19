@@ -1,0 +1,9 @@
+Scan page 594 is a blank leaf -- bare brown paper with no text. The output file carries a bracketed note to that effect, and the session log is written.
+
+recommend: continue with next scan page in the Taylor batch
+done 594
+Scan page 595 is the back board of the bound volume -- plain cloth, no text. `part-595.md` records that note. The batch appears to end here.
+
+Recommend: confirm whether pg-595 is the last scan in the batch; if so, the batch is complete and ready to commit.
+done 595
+loop finished 594..595

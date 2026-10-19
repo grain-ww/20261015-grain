@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012103
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka scan page 26 transcription
+prompt Read pg-026.png and transcribe printed English to part-26.md
+think Scanned page is printed page 17, running head INTRODUCTION. -- one reading pass, no Greek present, Sanskrit terms Angavidya, Cheshta Shastra, Rahu transliterated as printed -- degree symbol rendered as "degrees" per ascii-first rule -- footnote numeral 3 at page foot noted in brackets
+obs Page continues mid-sentence from previous page and ends mid-sentence; bottom page number "3" appears to be a signature mark, not a page number -- kept in brackets to distinguish from running page number 17
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-26.md one-pass transcription of scan page 26
+recommend commit the batch-021-040 draft and untracked session logs once the remaining pages in the batch are transcribed

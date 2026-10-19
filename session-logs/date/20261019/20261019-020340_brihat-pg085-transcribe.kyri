@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020340
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-085 transcribe
+prompt Read scan image pg-085.png and transcribe printed English to part-85.md
+think Scanned page 85 is printed page 42, running head BRIHAT JATAKA, chapter 5. Contains stanza 13 with notes (a) on birth-place signs. Notes list zodiac signs Mesha through Tula with their represented places. Page ends mid-list at Tula, text continues on next page.
+obs No Greek text present. Sanskrit sign names (Mesha, Virshbha, Mithuna, Kataka, Simha, Kanya, Tula) transcribed as printed -- these are romanized Sanskrit, not uncertain. Footnote marker (b) in stanza 13 referenced but note (b) not present on this page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-85.md -- transcription of scan page 85
+recommend transcribe pg-086 next -- the Tula list and remaining signs are cut off at the page break

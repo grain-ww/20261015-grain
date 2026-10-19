@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012148
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status system-reminder confirmed
+voice Kyri
+title Brihat Jataka pg-027 transcription
+prompt Read scan pg-027.png, transcribe printed English, write to part-27.md
+think Scan is printed page 18, running head INTRODUCTION. Two full paragraphs and one incomplete paragraph visible. One typo in original: "inportance" kept as printed. "aset of" kept as printed (apparent typesetting join). Italicised word "After" marked with asterisks.
+obs No Greek on this page. No Sanskrit. Page ends mid-sentence at "These numbers are the" -- text continues on next page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-27.md transcription written, one reading pass
+recommend transcribe pg-028 to continue the Nadigrandhams passage, which ends mid-sentence

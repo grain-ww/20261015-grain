@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042653
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-284 transcribe -- Table C Antardasa periods
+prompt Read scan pg-284.png and transcribe printed English to part-284.md
+think Page is a sideways-printed table: Table C, Antardasa periods for seven Dasa lords (Sun, Moon, Jupiter, Rahu, Mars, Saturn, Venus). No Greek. No Sanskrit body text. Handwritten pencil marks at foot -- not transcribed per policy.
+obs Many digit cells are small and slightly blurred; marked uncertain readings with [?]. The Moon, Ketu, and Mars sub-table rows were hardest to read cleanly. Venus 20-year rows were the clearest.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-284.md -- transcription of scan pg-284, one reading pass
+recommend check part-284.md digit columns against a clean reference print of Table C to resolve [?] marks before the batch is closed

@@ -1,0 +1,83 @@
+Transcription written to `part-261.md`. The page is printed page 218, chapter 26, containing verse 5 (on determining the lunar month of birth from Navamsa position) and the beginning of note (a), which includes a three-column table mapping Navamsa positions to eight lunar months (Kartikam through Jyeshtha). The brace notation in the original print is rendered as a flat markdown table.
+
+Recommend: proceed to pg-262 transcription if the batch continues.
+done 261
+Transcription written to `part-262.md`. The page is printed page 219, running head BRIHAT JATAKA, Ch. 26. It contains the tail of the Nakshatra table (rows 9--12), note (b) closing the table, sloka 6 with its two notes (a) and (b), and the opening of sloka 7 -- which breaks off mid-sentence at the page foot.
+
+recommend check part-263 booking -- the page ends mid-sentence and the next scan is needed to complete sloka 7
+done 262
+Transcription written to `part-263.md`. Printed page 220, running head BRIHAT JATAKA, Ch. 26 -- the page runs from a mid-sentence continuation through note (a) under sloka 7, all of sloka 8, and note (a) under sloka 8, ending mid-sentence. No Greek or Sanskrit required marking on this page; italic words rendered with asterisks.
+
+recommend check part-264 booking to continue the Brihat batch sequence
+done 263
+Transcription written to `part-264.md`. Printed page 221, chapter 26, running head BRIHAT JATAKA. The page covers stanza 9 on Prasna Lagna multipliers (by rising sign and by occupying planet) and notes explaining Nakshatra discovery, Rasi Gunakara, and Graha Gunakara, with two footnote examples -- the second running off the bottom of the page mid-sentence. No Greek present; Sanskrit terms transcribed as printed.
+
+Recommend: commit the session logs batch for today's transcription work once the full run is complete.
+done 264
+`part-265.md` written -- printed page 222, chapter 26, covering section 10 (Nakshatra of querent via sphuta arithmetic) and notes (a) and (b) on Drekkana adjustment and Lagna sphuta offsets for brother, son, enemy, and wife. "Substract" and the unclosed note-(b) parenthesis kept as printed. Session log at `session-logs/date/20261019/20261019-041210_brihat-pg265-transcribe.kyri`.
+
+Recommend: proceed to pg-266 if the batch continues, or commit the day's session logs -- no reds open.
+done 265
+Transcription written to `part-266.md`. Printed page 223, running head BRIHAT JATAKA, CH. 26 -- stanzas 11-13 with their Notes, catchword "E" at foot included. "Substract" kept as printed; no Greek or Sanskrit on this page.
+
+recommend: continue with pg-267 scan; this batch is in sequence.
+done 266
+Transcription written to `part-267.md`. Printed page 224, CH. 26, running head BRIHAT JATAKA -- Notes on stanzas 13-15 covering the four-product method, remainder shapes, and the Matras/shadow rule for Nakshatra. One word kept as printed: "substracted" (stanza 14 notes, second paragraph).
+
+Next page pg-268 awaits transcription if the batch continues.
+done 267
+Transcription written to `part-268.md`. The page covers the tail of Chapter 26 Notes (stanzas 16-17 on finding the Nakshatra from a lost horoscope via Dik numbers) and the opening of Chapter 27, "On the Drekkanas," with stanza 1 describing the 1st Drekkana of Aries.
+
+recommend check part-268.md against the scan for the Dik table alignment before committing the batch
+done 268
+Transcription written to `part-269.md`. The page is printed page 226, running head "BRIHAT JATAKA, CH. 27" -- it covers items 2 through the opening of item 6 (3rd Drekkana of Taurus), which is cut mid-sentence at the page foot.
+
+recommend: continue with pg-270 to complete the cut sentence at item 6
+done 269
+Transcription written to `part-270.md`. Printed page 227, chapter 27 (BRIHAT JATAK), covering Drekkana descriptions 7 through 10 -- the closing lines of Taurus's 3rd Drekkana, all three Gemini Drekkanas, and the opening of Cancer's 1st. No illegible words, no Greek on this page.
+
+recommend: continue to next scan page in the batch
+done 270
+Transcription written to `part-271.md`. Page 228, running head "BRIHAT JATAKA CH. 27" -- items 11-14 covering Drekkana notes for Cancer (2nd and 3rd) and Leo (1st and 2nd). Two print oddities kept as printed: "separted" and the doubled "a" before "bent nose." No Greek, no illegible words.
+
+recommend continue to pg-272 scan if batch continues
+done 271
+Transcribed to `part-272.md`. Printed page 229, ch. 27, running head BRIHAT JATAKA -- items 15 through 19 covering the 3rd Drekkana of Leo and all three Drekkanas of Virgo, ending mid-description on the 1st Drekkana of Libra. No Greek, no illegible words.
+
+recommend: continue with the next scan page in the batch.
+done 272
+Transcription written to `part-273.md`. Printed page 230, running head BRIHAT JATAKA. [CH. 27. -- sections 20-23 covering the 2nd and 3rd Drekkana of Libra and the 1st and 2nd Drekkana of Scorpio, with Notes after each. Preserved two print oddities: the double-comma in "down,," and the "Drekkna" typo in the final Notes block.
+
+recommend: continue to pg-274 to maintain batch sequence
+done 273
+Transcription written to `part-274.md`. The page is printed page 231, chapter 27, running head BRIHAT JATAKA -- it covers five Drekkana descriptions (sections 24-28): the 3rd Drekkana of Scorpio through the 1st Drekkana of Capricorn, each followed by a short Notes paragraph. Two small oddities preserved as printed: "Drekkanua" in section 27's note and "coverd" in section 28. The catchword "F" at the foot of the page is kept.
+
+recommend check-in -- confirm part-274.md matches the next batch sequence before booking a commit
+done 274
+Transcription written to `part-275.md`. The page is printed page 232, CH. 27, covering Drekkana descriptions 29-34 (section 34 cuts off at the bottom of the scan). A few printer irregularities were kept as printed: "flanuel" (likely "flannel"), "acelestial," and a doubled "a" before "quiver" in section 30.
+
+recommend: check part-275.md heading label matches the running series before batch commit.
+done 275
+Transcription written to `part-276.md`. Printed page 233, running head CH. 28 / BRIHAT JATAKA -- contains the tail of the Pisces Drekkana descriptions (items 35-36), the closing Notes paragraph on Drekkana use in Yatra and thief-tracing (citing Prithuyasas's Shadpanchasika), then the Chapter XXVIII / Conclusion heading and opening sentence. Two apparent printer's errors preserved as printed: "ornamentes" and "theives."
+
+recommend check-in -- confirm part-276.md is accepted before booking the next page batch
+done 276
+Transcription written to `part-277.md`. Printed page 234, running head BRIHAT JATAKA, CH. 27 -- a numbered list of 27 chapter subjects followed by the opening of a Yatra summary. Two compositor spellings preserved as printed: "Planetaay" (item 8) and "Horscopy" (item 24).
+
+recommend check part-278.md is next in sequence and continue batch
+done 277
+Transcription written to `part-278.md`. The page is CH. 28, printed page 235, running head BRIHAT JATAKA -- a numbered list of 20 subjects (items 4-20 visible, with Sanskrit terms and a few English glosses), followed by three closing paragraphs (7-9) where Varaha Mihira describes his work and his lineage from the Brahmin Adityadasa.
+
+One note: item 7 in the list reads "Lagua Nischaya" -- the "u" is as printed. Paragraph 9 has a small superscript mark after "son" that appears to be a typographic artifact; transcribed as plain "son of."
+
+recommend: next page pg-279 transcription remains open if the batch continues.
+done 278
+Transcription complete. Printed page 236, the final text page of the book -- two short paragraphs closing Chapter 28, then "END." The doubled "the the" in stanza 10 is present in the original and kept as printed.
+
+recommend: check whether pg-279 is the last scan in the batch and close the batch if so
+done 279
+Transcription written to `part-280.md`. The page is the APPENDIX worked example -- computing the Lagna Sphutam for sunrise on Friday 28th May 1886, Latitude 11 degrees, walking through oblique ascension arithmetic in ghatikas/vinadikas and arriving at 8 Sagittarius 29° 26'. Ends with a note that the Bhavasphutam process is referred to Baskaracharya.
+
+recommend check part-280.md arithmetic layout against scan, then continue to next batch page
+done 280
+loop finished 261..280

@@ -1,0 +1,85 @@
+`part-121.md` written -- printed page 78, CH. 8, covering stanza 3 and notes (a) and (b) on antardasa periods. The page ends mid-sentence ("If there be"); recommend transcribing pg-122 to continue note (b).
+done 121
+`part-122.md` written -- printed page 79, running head BRIHAT JATAKA. The page carries the tail of antardasa rule 4 (the fractions note working through the 12:6:4:3 example), rule 5 naming Sampoorna / Rikta / Anishta, and the opening note (a) for rule 5. Two as-printed oddities kept: "occupyng" (missing second i) and "knowns" (likely a typo for "known as").
+
+recommend: commit the open session-log batch (pg021 through pg122) once the full Brihat transcription run is complete.
+done 122
+Transcription written to `part-123.md`. The page is printed page 80, CH. 8, running head BRIHAT JATAKA -- covering dasa classifications (Purna, Rikta, Avarohini, Madhyama, Arohini, Adhama, Misraphala) through section 7 and the start of Notes. The page ends mid-sentence in note (b); the continuation is on the next scan.
+
+recommend transcribe pg-124 to continue the cut note (b) and resume the batch sequence
+done 123
+Transcription written to `part-124.md`. Page is printed page 81, running head "BRIHAT JATAKA.", Ch. 8 -- covering dasa period rules for planets in Navamsa (section c-e) and Lagna dasa quality by rising Drekkana and sign type (common/movable/fixed), with a notes section. All text was legible; no Greek present; Sanskrit terms kept as printed.
+
+recommend check part-124.md against the scan for any term that may have been mis-read before closing the batch
+done 124
+Transcription written to `part-125.md`. Printed page 82, running head BRIHAT JATAKA [CH. 8], covering stanzas 9 and 10 on Naisargika dasas and the Lagna conditions for prosperous dasa periods. One note: stanza 9's note (*b*) has a stray "p" after the closing parenthesis in the original -- kept as printed.
+
+Recommend: Transcribe next scan page (pg-126) to continue the Brihat batch.
+done 125
+Transcription written to `part-126.md`. The page is printed page 83, running head BRIHAT JATAKA, chapter 8 -- notes (b) through (i) on dasa period effects, then verse 11 on the Moon's sign position at dasa commencement.
+
+Two flags in the log: "Atisatru[planet" has a broken character after "Atisatru" that may be a closing parenthesis or letter -- left with an open bracket to mark uncertainty; and "p erson" on the final line is a word-break artifact in the print, kept as printed.
+
+Recommend: check part-126.md against adjacent pages to confirm chapter and section numbering continuity.
+done 126
+Transcription written to `part-127.md`. Printed page 84, Chapter 8 -- stanzas 12 through the opening of 14, with notes (a) and (b). The Sanskrit term *mantras* was italicised in the original; "Sampurna" and "Adhama" are Sanskrit technical names, transcribed as printed. Stanza 14 continues onto the next page.
+
+recommend continue with pg-128 transcription, as stanza 14 continues on the next page
+done 127
+Transcription written to `part-128.md`. Printed page 85, running head BRIHAT JATAKA, CH. 8. One note kept in the log: "horus" in the Mercury benefic paragraph is likely a misprint for "horses" but is kept as printed. The page breaks off mid-sentence at the foot of the Venus benefic section.
+
+recommend: transcribe pg-129 to continue the Venus dasa section that breaks off at the foot of this page
+done 128
+`part-129.md` written -- printed page 86, running head BRIHAT JATAKA [CH. 8], covering the malefic Venus dasa paragraph, stanzas 18--19 on Saturn dasa, and the opening of the Notes section. Page ends mid-sentence; transcribed exactly as printed.
+
+recommend check part-130 booking to continue the Brihat batch sequence
+done 129
+Transcription written to `part-130.md`. Printed page 87, running head BRIHAT JATAKA, Chapter 8. The page covers sections 20 and 21 (dasa periods, metals, occupation, complexion) and the opening of the Notes section -- ending mid-sentence at the foot with the continuation marker "12".
+
+recommend: check part-131 exists or book next page -- page ends mid-sentence and the continuation is on the next scan
+done 130
+Transcribed. Printed page 88, running head BRIHAT JATAKA, CH. 8 -- five quoted stanzas on elemental complexions (earth, water, fire, air, ether), then prose on dasa periods and elemental properties. The page ends mid-sentence; the text continues onto the next scan.
+
+recommend: transcribe pg-132 to continue the interrupted sentence about the properties of fire/light
+done 131
+`part-132.md` written -- printed page 89, CH. 8, covering verse 22, notes (a) and (b), and the opening line of verse 23 (cut at the page edge).
+
+recommend: continue to pg-133 to pick up the cut sentence at verse 23
+done 132
+Transcription written to `part-133.md`. The page is printed page 90, running head BRIHAT JATKA, Chapter 8. It contains a closing sentence on conflicting planet effects, then a Notes section on the Udu/Nakshatra dasa system -- nine dasa lords with their year-periods in a table, followed by the list of triangular asterisms mapped to each lord. No Greek present; all Sanskrit names kept as printed.
+
+recommend check-in next batch page (pg-134) when ready
+done 133
+`part-134.md` written -- printed page 91, CH. 8, BRIHAT JATAKA. The page covers the method for finding elapsed and remaining dasa time from the Moon's passage over an asterism, with a full worked example (Krittika, Sun dasa, yielding 3 years 8 months 29 days 51 gh. 39 vigh.), and closes mid-sentence at the start of the antardasa paragraph.
+
+recommend check part-135.md when pg-135.png is ready, as the antardasa paragraph is incomplete at page break
+done 134
+`part-135.md` written. The page is printed page 92, running head BRIHAT JATAKA [CH. 9]. It closes the chapter 8 antardasa arithmetic (including the fraction calculation for Venus in Jupiter's dasa = 2 years 8 months), then opens Chapter IX "On Ashtakavaargas" with verse 1 listing the benefic houses of the Sun.
+
+recommend: commit the batch of untracked session logs from today before they grow further.
+done 135
+Transcription written to `part-136.md`. Two notes from the reading pass:
+
+- Paragraph 4 has a likely printing error: "the st," where the text almost certainly intends "the 1st," -- kept as printed per instructions.
+- A superscript "s" on "houses" in paragraph 3 (printed as "house^s") was rendered as plain "houses" in ASCII.
+- Handwritten marginal annotations (pencil figures on the right margin) were not transcribed -- printed text only.
+
+Recommend: check part-136.md against the next page scan (pg-137) to confirm paragraph 5 continues correctly.
+done 136
+Transcription written to `part-137.md`. Printed page 94, running head BRIHAT JATAKA, CH. 9 -- covers the benefic house lists for Venus (sloka 6) and Saturn (sloka 7), the closing summary (sloka 8), and the page ends mid-sentence on "or their friendly." The Sanskrit term Upachaya appears at the foot and is transcribed as printed. A marginal pencil annotation is visible but not part of the printed text and was not transcribed.
+
+Recommend: next page is pg-138 -- transcribe in the same session if continuing the batch.
+done 137
+Transcription written to `part-138.md`. Printed page 95, chapter 9, running head BRIHAT JATAKA. The page carries two footnotes on Ashtakavarga: note (a) lists the malefic houses for the Sun and Moon, note (b) introduces a Mars Ashtakavarga table with a four-column horoscope grid (Lagna/Venus, Sun, Moon/Mercury, and a fourth column; Rasi Chakra in the centre; Mars and Saturn named in their cells). The page ends mid-sentence leading into the next.
+
+recommend: transcribe pg-139 to continue the Ashtakavarga Mars table example that ends mid-page here
+done 138
+Transcription written to `part-139.md`. The page is printed page 96, running head BRIHAT JATAKA, CH. 9. It contains two tables (the Ashtaka Varga of Mars in dot/line notation, then the same reduced to benefic-dot counts only) and two prose paragraphs explaining the table meaning and the common preparation convention. No Greek present; Sanskrit terms kept as printed.
+
+recommend check part-139.md against the scan for table cell alignment before committing the batch
+done 139
+Transcription written to `part-140.md`. Page 140 is printed page 97, chapter 9, running head BRIHAT JATAKA. It covers the A.V. tables introduction, the four Trikona reduction rules, and the start of the Ekadhipattya reductions -- the page ends mid-sentence at rule 2.
+
+Recommend: transcribe pg-141 to continue the Ekadhipattya reductions section cut off at the page turn.
+done 140
+loop finished 121..140

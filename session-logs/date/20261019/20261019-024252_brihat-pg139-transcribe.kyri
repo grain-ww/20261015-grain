@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.024252
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-139 transcribe
+prompt Read scan pg-139.png and transcribe printed English to part-139.md
+think Scanned page 96 of printed text, running head BRIHAT JATAKA, CH. 9. Two tables present: the Ashtaka Varga of Mars with dot/line notation, and a condensed benefic-dots-only version. Prose explains the table meaning and notes the common preparation convention.
+obs Centre columns of the first table carry the label "Ashtaka Varga of Mars" and are otherwise blank in the middle rows; transcribed as label spanning those cells. Fraction notation (3/8, 5/8, 2/8) rendered with slashes. Sanskrit "Ashatakavarga" and "Ashtaka Varga" kept as printed (no diacritics visible). No Greek present.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-139.md -- one-pass transcription of scan page 139
+recommend check part-139.md against the scan for table cell alignment before committing the batch

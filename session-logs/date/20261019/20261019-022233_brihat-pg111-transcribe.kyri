@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.022233
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 111 transcription
+prompt Read scan image pg-111.png and transcribe printed English to part-111.md
+think Image is printed page 68, Chapter 7 of Brihat Jataka (Chidambaram Iyer, Madras 1885). Running head BRIHAT JATAKA, chapter marker [CH. 7.]. Content covers stanzas 9 and 10 on planetary years and Jeevasarma / Satyacharya doctrines. Sanskrit names (Jeevasarma, Satyacharya, Pindayurdaya, Navamsa, Sphuta) kept as printed. Final line crops at page bottom -- last character after "115 degrees 1" is illegible.
+obs No Greek present. No policy conflict. Page cuts mid-sentence at bottom; marked [illegible] on the partial final character.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-111.md -- transcription of scan page 111
+recommend check part-111.md against adjacent pages when the batch is assembled, to confirm the cut line matches the opening of page 112

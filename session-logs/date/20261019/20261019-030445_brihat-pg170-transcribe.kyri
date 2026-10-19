@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.030445
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 170 transcription
+prompt Read scan pg-170.png and transcribe printed English to part-170.md
+think One reading pass; no Greek on the page; one Sanskrit term (Vajra, Yava, Yupa) transliterated as printed
+obs Page 127 of printed book, ch. 12, running head BRIHAT JATAKA; diagram line W---E with M N labels rendered as ASCII; section 7 begins at foot and cuts off with catch-word "they" and page number 16
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-170.md transcription written, one pass
+recommend check-in next batch page (pg-171) is ready for transcription

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.035054
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-236 transcribe
+prompt Read scan pg-236.png and transcribe printed English to part-236.md
+think Image shows printed page 193, CH. 23, BRIHAT JATAKA -- Notes to stanzas 4-6 of Ch. 22, then Ch. XXIII heading and stanza 1 on Malefic Yogas
+obs No Greek on this page; Sanskrit terms (Kendra, Prishtodaya, Sirodaya, Sira-Prishtodaya, dasa, Siraprishtodaya) left as printed, not transliterated separately since they appear in English-language prose without diacritics; page ends mid-sentence at bottom
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-236.md -- transcription of scan page 236, printed page 193
+recommend check part-237 booking; next scan in sequence is pg-237

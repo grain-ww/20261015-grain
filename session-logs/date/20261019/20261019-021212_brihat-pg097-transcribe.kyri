@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.021212
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-097 transcription
+prompt Read scan pg-097.png and transcribe printed English to part-97.md
+think Single reading pass; printed page 54, running head BRIHAT JATAKA, CH. 6
+think Degrees shown as superscript 0 in print; rendered as "degrees" in prose
+think Page ends mid-sentence at "malefic planet" -- bottom of scan
+obs No Greek on this page; Sanskrit "Sandhyakala" transliterated as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-97.md transcription written
+recommend continue with pg-098 to complete the interrupted sentence at page foot

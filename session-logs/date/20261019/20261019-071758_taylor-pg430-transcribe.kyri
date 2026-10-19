@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.071758
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 430
+prompt Read scan pg-430.png, transcribe printed English to part-430.md, mark Greek as not transcribed by policy
+think Scan shows two text blocks: upper half (printed page 399, running head INTRODUCTION) and lower half continuing the same page after a gap; Greek inline passage left as policy marker
+obs Page number in scan header reads 399; sig mark "2" and catchword "hundred" at foot; one inline Greek passage present, marked per policy
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-430.md -- transcription of scan page 430
+recommend check part-430.md heading label matches the batch driver's expected filename before committing the batch

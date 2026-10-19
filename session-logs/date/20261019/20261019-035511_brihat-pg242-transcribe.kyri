@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.035511
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-242 transcribe
+prompt Read scan pg-242.png and write part-242.md with heading and printed text
+think Single reading pass; printed page 199, ch. 23, running head BRIHAT JATAKA.
+think Sanskrit terms (Navamsa, Drekkana, Sarpa, Pasa) kept as printed and noted as transliterated.
+think No Greek on this page. Catchword "B" at foot kept as printed.
+obs Slant/wear on some letters (Gemini bottom of page) read carefully; transcribed as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-242.md -- transcription of scan page 242
+recommend check part-243 is next unwritten batch page, then continue the sequence

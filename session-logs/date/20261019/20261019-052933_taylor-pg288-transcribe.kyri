@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.052933
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 288
+prompt Read scan pg-288.png and write transcription to part-288.md
+think Page is printed p. 257, running head INTRODUCTION. Contains dense Greek quotation blocks (opening passage, Brotinus citation, Syrianus passage, closing line, footnote). Policy: Greek not transcribed. English body transcribed as printed (long-s rendered as s). Footnote preserved. Signature letter S and catch-word at foot preserved with Greek policy note.
+obs All Greek -- inline quotations and footnote -- marked [Greek, not transcribed by policy]. English prose transcribed clean. File write required approval for out-of-working-dir path.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-288.md -- transcription of scan page 288, printed p. 257
+recommend check-in -- confirm part-288.md landed after approval, then continue batch sequence to next scan page

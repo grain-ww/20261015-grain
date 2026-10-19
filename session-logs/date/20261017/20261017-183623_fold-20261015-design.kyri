@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261017.183623
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title fold the last flat active-designing file of the clean slate into date/20261015
+prompt Keaton: fold the 20261015 file into date.
+think Moved the single flat dated design into active-designing/date/20261015/ with git mv, keeping its basename.
+obs No file cited it by path and it carries no relative links, so no repoint or link repair was needed.
+file active-designing/date/20261015/20261015-155216_paths-not-yet-molted.md -- moved from the flat folder
+file session-logs/date/20261017/20261017-183623_fold-20261015-design.kyri -- this log, born on its day's shelf
+recommend keep-going -- push to xy as a fast-forward when Keaton says so.

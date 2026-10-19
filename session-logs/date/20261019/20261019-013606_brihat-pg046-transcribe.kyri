@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.013606
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-046 transcribe
+prompt Read scan pg-046.png and transcribe printed English to part-46.md
+think Page is printed page 5, running head BRIHAT JATAKA, chapter I
+think Carries tail end of stanza 5 (ka ... scorpion), stanza 6 full, and Notes section
+think Notes cover Shadvarga divisions, Navamsa count derivation, Dwadasamsa naming rule
+think No Greek present; Sanskrit names transliterated as printed (Mesha, Simha, etc.)
+think Degree symbols rendered as prose (30 degrees, 15 degrees) since scan used degree sign
+obs One heading line split across columns required reading carefully for stanza 6
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-46.md -- transcription of scan page 46
+recommend check-in -- confirm batch range and whether pg-047 scan is ready to continue

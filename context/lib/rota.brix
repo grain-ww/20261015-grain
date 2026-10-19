@@ -1,0 +1,15 @@
+# context/lib/rota.brix -- the rota template: eight themes in order, and one active index base.
+# Add or reorder a theme here and nowhere else. The index base is one-indexed for the live rota.
+# The count, row rule and row shape come from context/lib/rota-base.brix, the shared base the fifteen-round rota also composes from.
+format rota-brix-v1
+rota themes 8
+index base one
+row 1 leo-fire
+row 2 cancer-fire
+row 3 leo-water
+row 4 cancer-water
+row 5 leo-air
+row 6 cancer-air
+row 7 leo-earth
+row 8 cancer-earth
+row-of-count rule ((count - 1) mod 8) + 1

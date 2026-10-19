@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.033054
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 207 transcription
+prompt Read pg-207.png and transcribe printed English to part-207.md
+think Single reading pass; image shows printed page 164, running head BRIHAT JATAKA, ch. 17
+obs Page ends chapter 17 with stanza 13 and two footnotes (a) and (b); no Sanskrit or Greek present
+obs One apparent typo preserved as printed: "de fond" (stanza 11), "fealing" (stanza 11)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-207.md -- transcription written, one reading pass
+recommend check part-207.md against prior batch parts to confirm heading numbering is consistent before committing the batch

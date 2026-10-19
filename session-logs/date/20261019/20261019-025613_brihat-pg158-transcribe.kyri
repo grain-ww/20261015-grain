@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.025613
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-158 transcribe
+prompt Read scan pg-158.png and transcribe to part-158.md
+think Single reading pass; page is CH. 11, printed page 115, running head BRIHAT JATAKA.
+think Content: planet-group lists (7)-(15) for groups of four, then six groups of five, then prose on yogas (22 groups, 528 by Mandavya), then section 4 on Saturn/king combinations.
+obs Page ends mid-sentence ("Venus sign") -- text continues on next scan page.
+obs "Varguthama" appears once (paragraph 3) alongside "Vargothama" (paragraph 2) -- kept as printed.
+obs "44x12" rendered with ASCII x as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-158.md transcription of scan page 158
+recommend transcribe pg-159 to continue the interrupted sentence and the next section

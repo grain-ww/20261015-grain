@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.012409
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-030 transcribe
+prompt Read scan pg-030.png and transcribe printed English to part-30.md
+think Single reading pass; page is printed page 21, running head INTRODUCTION.
+think Page ends mid-sentence ("I long suspected that such a law") -- transcribed as printed.
+think Italic terms (Kaliyuga, amsas, Vasudha etc.) preserved with markdown italics.
+think No Greek on this page. Sanskrit terms transliterated as printed in the source.
+obs "basis" printed as "basis" with what looks like a broken b -- transcribed as "basis".
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-30.md -- transcription of scan page 30
+recommend commit batch 021-040 draft and session logs once all pages in the batch are transcribed

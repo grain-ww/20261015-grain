@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.043112
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-289 -- Table F transcription
+prompt Read scan pg-289, transcribe printed English to part-289.md, heading with label and running head, mark Greek by policy, transliterate Sanskrit uncertain, mark illegible.
+think Page is the final leaf: Table F showing star culmination times after Vernal Equinox. Two-column table, 41 stars, h. and m. columns each side. Followed by a short precession note. Wellcome Library stamp at foot.
+obs No Greek on this page. Star names are Sanskrit transliterated in the original printed text -- kept as printed. "P. Bhadradada" and "U Bhadrapada" spellings vary slightly in the scan; transcribed as seen. "Vasishtta" double-t as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-289.md -- transcription of scan page 289, Table F
+recommend confirm batch is complete -- pg-289 appears to be the final page of the Brihat Jataka scan set

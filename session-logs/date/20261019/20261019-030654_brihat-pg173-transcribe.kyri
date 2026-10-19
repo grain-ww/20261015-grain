@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.030654
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg 173 transcribe
+prompt Read scan pg-173.png and transcribe printed English to part-173.md
+think Single reading pass; printed page 130, running head BRIHAT JATAKA [CH. 12.
+think Notes (a) on yogas not to be confounded; stanzas 11-13 partial; text cuts at page foot
+obs Page ends mid-sentence in stanza 13 -- transcribed up to the page break, no invention
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-173.md -- transcription written
+recommend continue with pg-174 scan to pick up stanza 13 continuation

@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.024046
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-136 transcription
+prompt Read scan pg-136.png and transcribe printed English to part-136.md
+think Single reading pass; image is CH. 9, printed page 93, BRIHAT JATAKA
+obs Marginal pencil annotations (12h, 5h) present on right margin -- not transcribed as they are handwritten, not printed
+obs "the st," in paragraph 4 appears to be a printing error for "the 1st," -- kept as printed
+obs "houses" appears once as "houses" with superscript s (house^s) in paragraph 3 -- rendered as "houses" in plain ASCII
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-136.md -- transcription output
+recommend check part-136.md against the next page scan (pg-137) to confirm paragraph 5 continues correctly

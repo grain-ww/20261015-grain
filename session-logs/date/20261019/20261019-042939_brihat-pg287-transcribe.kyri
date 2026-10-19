@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042939
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat scan pg-287 transcribe
+prompt Read scan pg-287.png and transcribe printed English to part-287.md
+think Image shows chapter VIII, section "II. AT NIGHT" -- instructions for meridian observation using plumblines and strings, no Greek or Sanskrit present
+obs Single-pass read; "regidly" kept as printed (likely "rigidly" in original but printed as shown); opening bracket before "looking" kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-287.md transcription written
+recommend commit the session log batch when the day's pages are complete

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012913
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-037 transcription
+prompt Read scan pg-037 and transcribe printed English to part-37.md
+think Page is an index of astrological terms, letters D through G, two-column (Ch. Stanza). Running head: ASTROLOGICAL TERMS. No Greek script appeared -- one entry names Greek names for Zodiacal signs but the entry itself is plain English; policy note not needed. Transcribed all entries verbatim.
+obs "planetery" in "Garments, planetery divisions of" is printed with that spelling; kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-37.md -- transcription of scan page 37
+recommend continue with pg-038 to advance the batch 021-040 run

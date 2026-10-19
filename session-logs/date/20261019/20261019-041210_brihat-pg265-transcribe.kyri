@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041210
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Brihat Jataka pg-265 transcribe
+prompt Read scan pg-265.png and transcribe to part-265.md with heading, policy marks, one reading pass.
+think Page 265 is printed page 222, chapter 26 (BRIHAT JATAKA). Content is arithmetic on Nakshatra calculation (section 10) plus notes (a) and (b) on Drekkana and Lagna sphuta. No Greek present. Sanskrit terms: Nakshatra, Sphuta, Drekkana, Lagna -- all transliterated as printed, marked by policy as uncertain transliteration.
+obs The printed text uses "substract" (not "subtract") in section 10 -- kept as printed. Note (b) opens without a closing parenthesis in the original -- kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-265.md transcription of scan pg-265, one reading pass
+recommend Proceed to pg-266 if the batch continues, or commit the day's session logs -- no reds open.

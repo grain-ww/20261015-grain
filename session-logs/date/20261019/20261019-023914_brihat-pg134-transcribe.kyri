@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023914
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka pg-134 transcribe
+prompt Read scan pg-134.png and write part-134.md with heading, printed English only, one reading pass.
+think Scan shows CH. 8 / BRIHAT JATAKA. / p.91. Prose describes how to find elapsed and remaining dasa time from Moon's passage over an asterism, with a worked example using Krittika (64 gh. 42 vigh. full period, 6 years Sun dasa). Calculation block uses fraction arithmetic yielding 3 years 8 months 29 days 51 gh. 39 vigh. Closes with antardasa paragraph that continues onto next page. No Greek. No Sanskrit requiring transliteration beyond proper nouns (Krittika, Rahu left as printed). Page ends mid-sentence.
+obs Calculation layout is tabular with horizontal rules rendered as dashes; preserved as ASCII art in the markdown. The word "sub-divisons" is printed with one 'i' (possible print error); kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-134.md -- transcription of scan page 134
+recommend check part-135.md when pg-135.png is ready, as the antardasa paragraph is incomplete at page break

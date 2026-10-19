@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015319
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Samhita pg-070 transcribe
+prompt Read scan pg-070.png and transcribe printed English to part-70.md
+think Scan shows printed page 27, running head BRIHAT SAMHITA, ch. 4 header area plus Chapter IV heading and stanza 1 with notes (a)(b)(c)
+obs No Greek present; Sanskrit terms Navamsa, Annupachaya, Anupachaya, Upachaya, Saravali left as printed; note (d) referenced in stanza but note (d) text not present on this page -- bottom of page cuts off before it
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-70.md transcription of scan page 70
+recommend continue with pg-071 to capture note (d) which is cut from this page

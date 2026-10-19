@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.033908
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-219 transcribe
+prompt Read scan pg-219.png and transcribe printed English to part-219.md
+think Single reading pass; printed page 176, running head BRIHAT JATAKA, ch. 19; page ends mid-sentence on the Libra paragraph
+obs No Greek on this page; one preserved printing variant: "vigilent" kept as printed; "Servant" capitalised as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-219.md transcription written
+recommend transcribe pg-220 next to continue the Libra paragraph that ends mid-sentence here

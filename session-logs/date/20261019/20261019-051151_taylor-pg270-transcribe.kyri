@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.051151
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 270 transcription
+prompt Read scan pg-270.png and write transcription to part-270.md
+think Read image; running head "OF PLATO.", printed page 239; full column of text ending mid-sentence with "rest" at page foot
+obs Page ends with catchword "rest" -- continuation on next scan; no Greek on this page; no Sanskrit; long-s rendered as s throughout
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-270.md -- transcription of scan page 270, printed page 239
+recommend transcribe pg-271 next -- page 270 ends mid-sentence and the scan sequence continues

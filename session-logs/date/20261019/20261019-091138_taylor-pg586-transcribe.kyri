@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.091138
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 586
+prompt Read scan pg-586.png and transcribe printed English to part-586.md
+think Page is an errata leaf -- four correction entries, no running head in the usual sense; heading centred as ERRATA.
+obs italic words in the original rendered as markdown italic; indented second line of first entry preserved with spaces
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-586.md -- errata leaf transcribed, four entries
+recommend check that part-586.md lands cleanly in the batch assembly pass before the next batch commit

@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.070014
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 406
+prompt Read pg-406.png and write part-406.md with transcription of printed English
+think Scan is clear; printed page 375, running head INTRODUCTION
+think No Greek visible on this page; no Sanskrit; footnote marker and signature line present
+obs Page ends mid-sentence "verges towards bo-" with catchword "dies," and signature "B b 4" -- recorded as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-406.md -- transcription of scan page 406, one reading pass
+recommend continue to pg-407 -- next scan in the batch sequence not yet transcribed

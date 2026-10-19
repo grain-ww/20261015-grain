@@ -1,0 +1,83 @@
+Transcription written to `part-41.md`. Scan page 41 is the final page of the index (printed page vi, running head ASTROLOGICAL TERMS), covering letters T through W -- ten T entries, four U entries, five V entries, and one W entry. No Greek letterforms appear on this page; the Greek names (Tavuri, Toukshika) are already rendered in Latin script in the printed text.
+
+recommend: commit batches 002 and 003 drafts and the session logs from today's transcription run
+done 41
+Transcribed and written to `part-42.md`. This is the title page / first content page: book title ("BRIHT JTAKA" as printed -- likely type drop for "BRIHAT JATAKA"), author Varaha Mihira, Chapter I heading "Definitions and Elementary Principles (Zodiacal.)," stanza 1, and note (a) with the Brihat Samhita quote about the Moon receiving light from the Sun. No Greek present; Sanskrit names were already in Roman and carried through as printed.
+
+recommend: commit the batch-041-060 draft and session logs once remaining pages in the batch are transcribed
+done 42
+`part-43.md` written -- printed page 2, running head BRIHAT JATAKA [CH. I. Contains the closing Moon quotation, stanzas 2--4, and note (a). No Greek text present; Sanskrit names kept as printed; italic *hora* and *Ahoratri* marked in markdown.
+
+recommend commit batches 002 and 003 drafts and session logs once all pages in the run are complete
+done 43
+Transcribed. Printed page 3, running head BRIHAT JATAKA., chapter I notes: a 12-sign Rasi/Sign/Part-of-body table followed by the 27-asterism table. Greek star letters throughout the asterism column are replaced with the policy placeholder. A few spellings kept as printed: VirginiSpica (no space), Aritares (likely Antares), Andremedae, Staabhishak. Page ends mid-sentence after "Nakshatrapadas. There".
+
+recommend transcribe pg-045 next to continue the Nakshatrapadas sentence and chapter I notes
+done 44
+`part-45.md` written -- printed page 4, CH. I, running head BRIHAT JATAKA. The page opens mid-paragraph on the 108-part ecliptic division, then carries verse 5 on zodiac sign shapes, then begins NOTES (a) and (b), ending mid-sentence at "Cancer (Kata-". No Greek on this page; all Sanskrit names kept as printed.
+
+recommend: commit the remaining untracked session logs and draft files from the day's Brihat batches so the tree stays clean.
+done 45
+Transcription written to `part-46.md`. The page is printed page 5, running head BRIHAT JATAKA, CH. I. It carries the tail of stanza 5, the full text of stanza 6 (lords of Signs, Navamsas, and Dwadasamsas), and a substantial Notes section covering the six Shadvarga divisions, the 108 Navamsa derivation, Trikona groupings, and the Dwadasamsa naming rule. Degree symbols from the scan were rendered in prose; no Greek was present.
+
+recommend check-in -- confirm batch range and whether pg-047 scan is ready to continue
+done 46
+`part-47.md` written. Printed page 6, running head BRIHAT JATAKA [CH. I. -- prose on Navamsa/Dwadasamsa lords, the Rasi Chakra table, verse 7 on Trimsamsas (five, five, eight, seven, five parts for the odd signs), and the opening of the Notes section. One spelling note: the table bottom-right cell reads "Kanya" where the surrounding prose spells it "Kannya" -- kept as printed in each place.
+
+recommend check part-47.md against the scan for the table row layout, then continue with pg-048
+done 47
+Transcription written to `part-48.md`. The page is printed page 7, running head BRIHAT JATAKA -- it covers the Trimsamsa degree lords for odd and even signs, stanza 8's zodiac term names with the note on Greek origins, stanza 9 on Varga divisions, and the opening of stanza 10 (page ends mid-sentence). No Greek characters appear on the page itself; the note names them in Roman transliteration only.
+
+recommend transcribe pg-049 next; the series is running in order and pg-048 ends mid-sentence
+done 48
+Transcription written to `part-49.md`. Notes on the two compositor errors I preserved as printed: "anh" (should be "and") and "Aquairus" (should be "Aquarius") in note (b) under stanza 11. Also bracketed the truncated "Sagittari[o]" in note (b) under stanza 10 where the closing letter appears cut at the line break.
+
+recommend: check part-50 booking or commit the batch once all assigned pages are done
+done 49
+Transcription written to `part-50.md`. The page covers the tail of stanza 11 (direction signs and a Drekkana example), stanza 12 with its three notes on Garga's school and the Sagittari horas/Drekkanas, and the opening of stanza 13 on Uccha signs -- cut off mid-sentence at the bottom of the scan after "The 7th or".
+
+Recommend: continue with pg-051.png, the next scan in the Brihat batch.
+done 50
+`part-51.md` written. Printed page 10, running head BRIHAT JATAKA [CH. I. -- the page contains the closing note on Neecha depression degrees, the seven-planet exaltation/depression table, verse 14 on Vargottama positions, and its three-part note on Navamsas. One note-paragraph opens with "eTh" (apparent print artifact for "The") -- transcribed as printed.
+
+recommend: commit the Brihat batch covering pages 051 onward once all pages in the batch are transcribed.
+done 51
+Part-52.md written. Printed page 11, running head BRIHAT JATAKA. The page carries the tail of the Navamsa paragraphs, the seven-planet Moola Trikona table, sloka 15 on house significations, and the opening of notes section (a) -- the house list breaks off at the 3rd house entry.
+
+recommend: transcribe pg-053.png next; page 52 ends mid-list and the notes continue
+done 52
+Transcription written to `part-53.md`. Printed page 12, running head BRIHAT JATAKA [CH. I.], covering the house significations list (4th through 12th), note (b) on Garga and the Upachaya exception, stanza 16 on the twelve signs and their technical names, the NOTES header, and the opening of stanza 17 -- which the page breaks off mid-sentence at "quadrants or."
+
+recommend: continue with pg-054 to complete the next scan in sequence.
+done 53
+`part-54.md` written -- printed page 13, running head BRIHAT JATAKA, CH. I.] The page carries the tail of the angular-house sloka with its notes on sign classifications, then sloka 18 on Panaphara/Apoklima house names, then the opening of sloka 19 on the ascendant lord; it ends mid-sentence after "and those."
+
+recommend transcribe pg-055 next to continue the Mana table and sloka 19
+done 54
+Transcription written to `part-55.md`. The page is printed page 14, running head BRIHAT JATAKA [CH. II. -- it carries the tail of stanza 20 and its note, then the Chapter II heading "Definitions and Elementary principles continued.--(Planetary)" and stanza 1 on the planets' roles for Kalapurusha. One editorial join: "un sellors" at the line break was read as "counsellors."
+
+recommend: continue to pg-056 transcription, which is the next scan in the batch.
+done 55
+`part-56.md` written: printed page 15, CH. II, covering sloka 2 through sloka 5 (three paragraphs of notes included). All Sanskrit names kept as printed; footnote letters (a), (b), (c) retained; no Greek present on this page.
+
+recommend: continue with pg-057 to maintain batch sequence
+done 56
+Transcription written to `part-57.md`. Printed page 16, running head BRIHAT JATAKA, CH. II -- covers the close of verse 5 notes (malefic planets), verse 6 (planet genders and elements), verse 7 (caste assignments), and the opening Guna paragraph, which ends mid-sentence at the page break.
+
+Recommend: transcribe pg-058 next, continuing the Guna paragraph.
+done 57
+Transcribed. The page is printed page 17, running head "BRIHAT JATAKA", Chapter II. It covers sections 8 through the opening of 12 -- planetary descriptions for Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn -- plus note (a) on Jupiter's size and the Hindus' awareness of it. The page ends mid-sentence ("that of") at the foot of section 12's garment list; the next page will carry it forward.
+
+recommend: continue to pg-059.png -- the cut sentence at the foot of page 58 resumes there.
+done 58
+`part-59.md` written. The page is printed page 18, running head BRIHAT JATAKA, CH. II. It covers the planetary presidencies over metals, the seasonal ascendants (Sisira through Hemanta), a footnote on Jupiter and gold, then section 13 on planetary aspect strengths and the start of its notes -- cut off mid-sentence at "330 degrees, and."
+
+recommend transcribe pg-060 to continue the interrupted notes section on planetary aspect points
+done 59
+Transcription written to `part-60.md`. Printed page 19, running head BRIHAT JATAKA (CH. II.).
+
+One note: the last line is clipped at the bottom margin -- the house number before "th" (between "12th," and "9th") reads as a partial digit and is marked `[illegible]th`. Everything else transcribed cleanly from one reading pass.
+
+recommend continue with pg-061 -- batch sequence ongoing
+done 60
+loop finished 41..60

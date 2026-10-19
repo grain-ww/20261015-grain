@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.011702
+editor Claude Code
+provider Anthropic
+product Grain -- tablecloth transcription
+model claude-sonnet-4-6
+model_status unverified
+voice Kyri
+title Brihat Jataka scan page 21 transcription
+prompt Read scan pg-021.png (Brihat Jataka, Madras 1885) and write part-21.md with printed English transcribed
+think Read the image; identify printed page number (12) and running head (INTRODUCTION.)
+think Text runs from mid-paragraph ("heavens. Such being the case...") through end of page ("calendars therefore prepared by the native astrologers do")
+think Sanskrit verse block in Devanagari -- four lines -- not transcribed per policy; marked with bracketed note
+think Page ends mid-sentence (text continues on next page)
+obs No Greek present on this page; Devanagari verse block handled with bracketed policy note rather than transliteration attempt
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-21.md -- transcription of scan page 21, printed page 12
+recommend continue with scan page 22 (part-22.md) to carry the Introduction forward

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.030356
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-169 transcribe
+prompt Read scan pg-169.png and transcribe printed English to part-169.md
+think Scan shows printed page 126, running head BRIHAT JATAKA, CH. 12 -- one paragraph of prose before a four-line Devanagari verse, then a quoted translation and a long explanatory paragraph about the 12 Bhavas and trisection method
+obs Devanagari verse lines are Sanskrit, not Greek -- policy says do not transcribe Sanskrit; marked as [Sanskrit verse, not transcribed by policy] with a note about the four lines of script
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-169.md -- transcription of printed English, heading labels printed page 126 and running head
+recommend check part-169.md against the scan for any missed word before the batch closes

@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.011120
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-019 transcription
+prompt Read scan image pg-019.png and transcribe printed English to part-19.md
+think Single reading pass; page is printed page 10, running head INTRODUCTION.
+think Full page text, no Greek present, no illegible words; italic his marked with asterisks.
+think Shakespeare quotation at foot of page transcribed as blockquote.
+obs Nisheka, Parasara, Vedavyasa, Salivahana are Sanskrit proper nouns -- left as printed, not marked uncertain since they appear in roman type as the author's own transliteration.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-19.md -- transcription of scan page 19
+recommend check remaining untracked session logs and commit the brihat draft batch -- nine logs from 20261019 still unstaged

@@ -1,0 +1,19 @@
+format session-log-v1
+stamp 20261019.071932
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 432 transcription
+prompt Read scan pg-432.png and transcribe printed English to part-432.md
+think Single reading pass of scan page 432 (printed page 401, running head INTRODUCTION.)
+think Page is a continuation mid-sentence: begins "is said by Plato to be generated..."
+think Ends at page foot with catchword "soul" and signature "D d"
+think Footnote: "* Metaphys. lib. 5."
+think No Greek, no Sanskrit on this page -- policy note not needed in output
+think Long-s modernized to s per standing instruction; italics preserved in markdown
+obs Page is clean and legible throughout; no illegible words
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-432.md -- transcription of scan page 432
+recommend commit the Taylor batch session logs when the full batch is complete

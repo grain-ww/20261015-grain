@@ -1,0 +1,24 @@
+# construction/scripts_audit.rish -- count the TAME markers in the tracked scripts again, so the audit's figures can be rerun.
+#
+# Usage:  rishi/bin/rishi run construction/scripts_audit.rish
+# Prints counts only. It fixes nothing and reds on nothing. The figures are free: rerun this rather than trusting a page.
+
+let sh_total = run ["sh" "-c" "git ls-files '*.sh' | wc -l"]
+assert sh_total.ok else "audit: could not list the shell scripts"
+say "shell scripts tracked: ${sh_total.out_brief}"
+
+let sh_strict = run ["sh" "-c" "git ls-files '*.sh' | xargs grep -l '^set -e' | wc -l"]
+assert sh_strict.ok else "audit: could not count set -e"
+say "shell scripts with set -e: ${sh_strict.out_brief}"
+
+let sh_inv = run ["sh" "-c" "git ls-files '*.sh' | xargs grep -l 'invariant:' | wc -l"]
+assert sh_inv.ok else "audit: could not count invariant lines in shell"
+say "shell scripts with an invariant line: ${sh_inv.out_brief}"
+
+let rish_total = run ["sh" "-c" "git ls-files '*.rish' | wc -l"]
+assert rish_total.ok else "audit: could not list the rish drivers"
+say "rish drivers tracked: ${rish_total.out_brief}"
+
+let rish_inv = run ["sh" "-c" "git ls-files '*.rish' | xargs grep -l 'invariant:' | wc -l"]
+assert rish_inv.ok else "audit: could not count invariant lines in rish"
+say "rish drivers with an invariant line: ${rish_inv.out_brief}"

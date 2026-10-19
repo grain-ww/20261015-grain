@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.020420
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-086 transcription
+prompt Read scan pg-086.png and transcribe printed English to part-86.md
+think Single reading pass; heading follows CH. 5 / printed page 43 / running head BRIHAT JATAKA
+obs Stain obscures two words in the Makara paragraph -- readable in context as "represents" and "ditches"
+obs Page ends mid-sentence at bottom; no text invented for the cut
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-86.md transcription written
+recommend commit the new session logs and part files accumulated today -- several untracked logs remain unstaged

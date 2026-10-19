@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.055202
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Transcribe scan page 315 -- Taylor Plato Wellcome 1793
+prompt Read pg-315.png and write part-315.md with heading and transcribed English text
+think Single reading pass. Printed page 284, running head INTRODUCTION. Page is a continuation of Damascius on the transcendent object -- the triad of father, power, paternal intellect. Footnote dagger carries Greek text (not transcribed by policy). Greek inline terms (haplotes, pollotes, pantotes) left as policy markers. Long-s rendered as s per instructions.
+obs Bottom footnote is Greek only; marked not transcribed by policy. Inline Greek terms in italicized pairs also marked. Page ends mid-sentence with catchword "these."
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-315.md -- transcription of scan page 315
+recommend continue with pg-316.png if the batch continues sequentially

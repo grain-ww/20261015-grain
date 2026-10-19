@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.054412
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 305 transcription
+prompt Read scan pg-305.png and transcribe printed English to part-305.md
+think Scanned page 305 carries printed page 274, running head INTRODUCTION.
+think Text is continuous prose on the intelligible triad -- being, life, intellect -- and their superessential character.
+think No Greek on this page. No Sanskrit. One word "characteristric" appears in the original as printed (possible compositor error, kept as printed).
+think Page ends mid-sentence: "...are at the same time united with the first" -- page turn, not omission.
+obs Long s appears in scan; written as s throughout per instruction.
+obs Italics in original rendered with markdown asterisks.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-305.md -- transcription of scan page 305
+recommend check part-306 scan exists before booking the next batch, so the sequence stays unbroken

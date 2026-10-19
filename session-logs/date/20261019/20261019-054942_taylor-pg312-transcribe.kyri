@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.054942
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 312 transcription
+prompt Read scan pg-312.png and transcribe printed English to part-312.md
+think Scan is clear; printed page 281, running head INTRODUCTION; one reading pass
+obs Page ends mid-sentence with "with" at foot -- normal page break, not a fault
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-312.md -- transcription of scan page 312
+recommend continue to pg-313 -- this batch sequence is still open

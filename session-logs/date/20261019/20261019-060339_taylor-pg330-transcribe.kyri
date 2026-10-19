@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.060339
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 330
+prompt Read pg-330.png, transcribe printed English to part-330.md, heading with label and running head, keep text as printed, mark Greek as not transcribed, mark illegible words, one reading pass.
+think Printed page 299, running head INTRODUCTION. Text legible throughout. Two verse quotations set as block indents. Catchword THE at foot. No Greek. No illegible words.
+obs The page closes the Introduction section; catchword THE signals the next section begins on the following page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-330.md -- transcription of scan page 330, printed page 299
+recommend check whether part-331.md is next in the batch queue, as the catchword THE suggests the text continues on the following page

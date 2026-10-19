@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.010313
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 8 -- dedication leaf transcription
+prompt Read pg-008.png and transcribe printed English to part-8.md with heading and policy notes
+think Page is an unnumbered dedication leaf; no running head present; blackletter display type for "Brahma Sree" noted in bracket
+obs No Greek, no Sanskrit on this page; blackletter noted rather than transcribed as a style observation
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-8.md -- dedication leaf, one reading pass
+recommend Continue to next scan page in the Brihat Jataka batch; pg-009 not yet transcribed

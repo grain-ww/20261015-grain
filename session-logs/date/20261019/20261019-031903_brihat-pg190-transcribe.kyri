@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031903
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka pg-190 transcription
+prompt Read scan image pg-190.png and transcribe printed English to part-190.md
+think Single reading pass; image is printed page 147, Ch. 14, running head BRIHAT JATAKA
+obs Items (9) through (20), Sun/Moon triple-planet combinations; one print artifact: "wil'" in item (19) kept as printed; "and" after "good" in item (20) read from "and" (scan shows "and" clearly)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-190.md -- transcription written
+recommend commit the open session logs and transcription batch once the full run completes

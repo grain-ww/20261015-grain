@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.030855
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka pg-176 transcribe
+prompt Read scan pg-176.png and write part-176.md with transcription
+think Single reading pass; image is printed English with some Sanskrit proper names (yoga names: Kedara, Sula, Yuga, Gola, Vajra, Vallaki, Damini, Pasa, Asraya, Akriti, Sankhya, Nabhasa, Dala -- kept as printed)
+obs Page ends mid-sentence ("they cease to be Asraya") -- text continues on next page; noted in transcript by leaving line open
+obs Note (b) on this page references stanza 14 but is introduced under stanza 19 notes -- kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-176.md transcription of scan page 176, printed page 133
+recommend transcribe pg-177 next to continue the mid-sentence carry from this page

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.054328
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 304
+prompt Read scan pg-304.png and transcribe printed English to part-304.md
+think Scan shows printed page 273, running head INTRODUCTION; one Greek phrase mid-page (kata schesin); all else plain English prose with italic runs
+obs Greek inline phrase marked as policy-excluded; page ends mid-sentence with catchword "and" -- trailing line included as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-304.md -- transcription of scan page 304
+recommend Stage and commit the completed Taylor batch session logs and transcription files when the batch is full.

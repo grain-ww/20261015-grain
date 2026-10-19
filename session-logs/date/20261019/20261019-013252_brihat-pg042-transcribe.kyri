@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.013252
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-042 transcribe
+prompt Read scan pg-042, transcribe printed English to part-42.md with heading format
+think Page is the title page / first content page: book title, author, Chapter I heading, stanza 1, and note (a). Title block reads "BRIHT JTAKA" with missing letters visible in scan -- transcribed as printed. Sanskrit names (Atma, Deva, Devas, Brihat Samhita) transliterated as already in Roman in the text; no Greek present.
+obs The title "BRIHT JTAKA" appears to have missing letters due to scan damage or type drop (likely "BRIHAT JATAKA" but transcribed as printed per instructions). Running head taken from the chapter heading since no separate running head line is visible.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-42.md -- transcription of scan page 42, one reading pass
+recommend commit the batch-041-060 draft and session logs once remaining pages in the batch are transcribed

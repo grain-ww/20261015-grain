@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.090941
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 583 transcription
+prompt Read scan pg-583.png and transcribe printed English to part-583.md
+think Scan is clear; printed page 552, running head THE TIMAEUS; one reading pass; no Greek on this page; long-s normalized to s as instructed
+obs Text ends mid-sentence with "culties," -- page break, not transcription error
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-583.md -- transcription of scan page 583
+recommend commit the pending session-log batch (20+ untracked logs) so the day's transcription work is sealed before the next batch opens

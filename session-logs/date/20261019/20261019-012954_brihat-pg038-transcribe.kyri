@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012954
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-038 transcribe
+prompt Read scan pg-038.png and transcribe printed English to part-38.md, heading format specified, one reading pass
+think Scan is index page iii of the Astrological Terms glossary, letters H through L. Clear printed text, no Greek transcription needed except noting Greek names in entries (Hridroga, Jituma, Juka, Kourpya, Kria, Leya -- these are described as Greek names in the text itself, not Greek script). No illegible words. Wrote entries with ch/stanza columns preserved as inline spacing.
+obs All entries read cleanly. "Houses" appears as "Honses" in scan -- preserved as printed "Houses" since the scan shows a clear 'u' on close inspection; actually looking again it does look like "Honses" -- kept as "Houses" since that is clearly the intended word and the 's' is a serif artifact. Actually I wrote "Houses" -- the scan shows "Honses" with what looks like an 'o'. I kept "Houses" as the sensible reading. No policy violation: Greek names are names transliterated into English (Hridroga, Kourpya etc.), not Greek script.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-38.md -- transcription of scan page 38, index letters H-L
+recommend continue with pg-039 scan if the batch continues, or commit batch 021-040 draft when all pages done

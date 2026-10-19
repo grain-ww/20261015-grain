@@ -1,0 +1,13 @@
+# yonder/rota/rota-zero-indexed.brix -- the inactive instantiation, zero-indexed. Kept for reference, not read by the live rota.
+format rota-brix-v1
+rota themes 8
+index base zero
+row 0 leo-fire
+row 1 cancer-fire
+row 2 leo-water
+row 3 cancer-water
+row 4 leo-air
+row 5 cancer-air
+row 6 leo-earth
+row 7 cancer-earth
+row-of-count rule (count - 1) mod 8

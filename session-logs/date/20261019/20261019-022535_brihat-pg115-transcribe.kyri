@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.022535
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka scan page 115 transcription
+prompt Read scan pg-115.png and transcribe printed English to part-115.md
+think Single reading pass; page is printed page 72, running head BRIHAT JATAKA, ch. 7
+think Content: numbered yogas 5(partial) through 11, with footnote (a) on Amsas
+think No Greek on this page; Sanskrit terms (Trikona, Kendra, Navamsa, Simhasanamsa, Gopuramsa, Mridvamsa, Devalokamsa) transcribed as printed and left unmarked-uncertain as they are proper technical terms rendered clearly
+obs Italic word "mantras" in paragraph 5 rendered with markdown italics
+obs Footnote separator rendered as horizontal rule
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-115.md -- transcription of scan page 115
+recommend check part-116.md booking or continue sequential batch; no red open

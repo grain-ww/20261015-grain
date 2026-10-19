@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.010903
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-016 transcription
+prompt Read scan pg-016.png and transcribe printed English to part-16.md
+think Page is printed page 7, running head INTRODUCTION; text runs mid-sentence at foot
+obs Two Sanskrit terms kept as printed: Karmavipaka Grandha, Japa; no Greek on this page
+obs Sentence ends mid-page at "do not bring about" -- continues on scan 17
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-16.md -- transcription of scan page 16
+recommend transcribe pg-017 next to continue the unbroken sentence and the batch

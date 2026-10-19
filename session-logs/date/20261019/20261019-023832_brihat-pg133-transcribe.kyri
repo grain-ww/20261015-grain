@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023832
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-133 transcribe
+prompt Read scan pg-133.png and write transcription to part-133.md
+think Single reading pass of the scan image; page is printed page 90, running head BRIHAT JATKA, chapter 8
+obs Page contains a concluding sentence, then a Notes section on Udu/Nakshatra dasas with a table of nine dasa lords and years, then a list of triangular asterisms mapped to dasa lords; no Greek present; Sanskrit names transliterated as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-133.md transcription of scan page 133
+recommend check-in next batch page (pg-134) when ready

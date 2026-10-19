@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.065443
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 398 transcription
+prompt Read scan pg-398.png and transcribe printed English to part-398.md
+think Scan is a title page only -- five display lines, no body text, no running head, no printed page number
+obs No Greek, no Sanskrit, no illegible words; the page carries only the work's title spread across five centred lines
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-398.md -- title page transcription written, one reading pass
+recommend continue to next scan page in the batch

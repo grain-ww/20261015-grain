@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.064201
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Transcribe scan page 381 -- Taylor Parmenides 350
+prompt Read pg-381.png and write part-381.md with printed English transcribed under the heading format.
+think Single reading pass from image. Printed page 350, running head THE PARMENIDES. Page ends mid-sentence with "others," -- catchword at foot.
+obs Italics on "the one" and "if the one is" rendered with markdown asterisks. No Greek on this page. No Sanskrit. No illegible words.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-381.md -- transcription of scan page 381
+recommend commit the open session logs from today's Brihat batches before the next publish

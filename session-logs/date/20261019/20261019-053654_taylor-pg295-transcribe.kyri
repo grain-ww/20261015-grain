@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.053654
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 295
+prompt Read scan pg-295.png and transcribe printed English to part-295.md
+think Single reading pass; printed page 264, running head INTRODUCTION
+think Greek passage after "best." left as [Greek, not transcribed by policy] per standing rule
+think Footnote marker and text at foot preserved; page ends mid-sentence "being"
+obs Long-s rendered as s throughout; italics kept with asterisk markdown
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-295.md -- transcription written
+recommend continue to pg-296 to pick up the sentence that ends at "being"

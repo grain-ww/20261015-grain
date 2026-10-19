@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.071716
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Transcribe scan page 429 -- Taylor Plato Wellcome 1793
+prompt Read pg-429.png and write part-429.md with printed English transcribed
+think Single reading pass; Greek block marked per policy; footnotes included at foot
+obs Page carries a Greek passage (Marcellus quotation in Greek) -- marked not transcribed per policy; two footnotes at page bottom transcribed in full; page ends mid-sentence ("an island" / "direction") consistent with scan
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-429.md -- transcription of printed page 398 INTRODUCTION
+recommend next batch page 430 if the Taylor Plato transcription run continues

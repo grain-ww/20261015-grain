@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.032839
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-204 transcribe
+prompt Read scan pg-204.png and transcribe printed English to part-204.md
+think Single reading pass; heading carries printed page label 161 and running head BRIHAT JATAKA
+obs Page opens with closing Notes for Ch. 16, then full Chapter XVII heading and signs 1 (Aries), 2 (Taurus), and start of 3 (Gemini); Sakti marked italic as Sanskrit proper noun; no Greek on this page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-204.md -- transcription written
+recommend continue with pg-205 to carry Gemini entry through to completion

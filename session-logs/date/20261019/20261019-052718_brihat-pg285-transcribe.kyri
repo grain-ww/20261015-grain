@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.052718
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 285
+prompt Read pg-285.png and write part-285.md with transcription of printed English
+think Scan shows printed page 254, running head INTRODUCTION. Two paragraphs: first on the soul's partial intellect vs. a first intellect above soul (entire, outside time/place/motion), identified with the vital nature marked in Greek as animal-itself, the Demiurge's exemplar in the Timaeus. Second paragraph opens the argument that the artificer must be a god, producing essentially, making the universe its own image, and containing its causes paradigmatically as ideas; page ends mid-sentence.
+obs Greek phrase autozoion (animal itself) present -- marked [Greek, not transcribed by policy] per standing rule. Italic *animal itself* appears as printed. No Sanskrit on this page. No illegible words. Page ends with the word "subsists" as a catch-word leading to the next page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-285.md -- transcription of scan page 285, one reading pass
+recommend transcribe pg-286 next to continue the unbroken run through the Introduction

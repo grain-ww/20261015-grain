@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.055909
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 324 transcribe
+prompt Read scan pg-324.png and transcribe printed English to part-324.md
+think Single reading pass; page is INTRODUCTION printed p. 293; text continues mid-sentence from prior page and breaks at foot with "Eu-" / "demus:"
+obs Footnote carries two Greek words per policy not transcribed; catchword "demus:" and signature "U 3" recorded as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-324.md -- transcription of scan page 324
+recommend commit the Taylor batch session logs and transcription files once the full batch is complete

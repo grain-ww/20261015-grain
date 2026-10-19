@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031745
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg 188 transcribe
+prompt Read scan at pg-188.png and transcribe printed English to part-188.md
+think Image shows printed page 145, ch. 14, BRIHAT JATAKA -- 17 planetary-pair aphorisms (4) through (17), no Greek, no Sanskrit on this page
+obs Clean scan, all 17 entries legible; no illegible words; no Greek or Sanskrit present
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-188.md -- transcription of pg 188, entries 4-17
+recommend commit the session logs and scratchpad batch when the full run is complete

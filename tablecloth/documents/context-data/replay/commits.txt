@@ -1,0 +1,77 @@
+# replay of commits since 2026-10-17, head 07bc6cea592d
+9cf2900 2026-10-17 tablecloth: the personal Documents tree, filed by category
+57fd86f 2026-10-17 docs: Constel becomes Constels in the copied pages
+ff46187 2026-10-17 tablecloth: a living spec page and a fresh dated summary
+53565e5 2026-10-17 clean: remove the tooling and the Cursor mirror from the clean slate
+efc9c84 2026-10-17 clean: remove the waymark ladder rule from the clean slate
+5310a22 2026-10-17 fix: the living pages name the 20261015 prefix, not 20261016
+5ccce4d 2026-10-17 session-logs: record the clean-slate fix pass
+2da8051 2026-10-17 constel: rewrite dangling links as plain names in the clean slate
+66e0f8f 2026-10-17 session-logs: survey active-designing layout and broken links
+1f6e08d 2026-10-17 projects: root projects room, template, and output-over-activity
+c8580fd 2026-10-17 active-designing: fold the 20261015 design into date/
+689a58d 2026-10-17 projects: add the efficiency-spec locate task
+d4b49a6 2026-10-17 docs-geode: copy the permissioning tutorial into the clean slate
+a55c433 2026-10-17 rules: copy the nib vocabulary page into the clean slate
+66e7119 2026-10-17 research: the molt, breach, debride, infuse lens and atlas two
+134788d 2026-10-17 projects: retire ordinal names from the atlas check-ins
+d0ffb8f 2026-10-17 patterns: decouple output-over-activity from the 1015 instance
+3f38081 2026-10-17 rules: check the recommend line before naming it
+a42c56f 2026-10-17 foundations: one-clock names, folded to date/20261015
+3172862 2026-10-17 foundations: name the 20261015 tree in the date-prefix example
+3f36b05 2026-10-17 context: add the TAME core reflexes for the first code
+1e875ea 2026-10-17 active-development: errata for the 20261016 names in the round note
+03b93c2 2026-10-17 context: document where signing keys live and why git never tracks them
+8ca157d 2026-10-17 context: fix the single-stranded link in the keys page
+8b013d5 2026-10-17 context: describe Brix as a declaration and the filesystem it describes
+a7cf4cd 2026-10-17 context: say that Brix is a file kind, not a module
+4a7fcec 2026-10-17 tablecloth: index the infuse bundle, two pages and their hashes
+5422779 2026-10-18 yonder: move constel, projects, and patterns out of the keep list
+28a105b 2026-10-18 active-development: plan one definitions page for the removal verbs
+569422a 2026-10-18 context: define the removal verbs once, and move the lens to active-designing
+10ed623 2026-10-18 bounds: the first Rye program, a bounded count with asserts
+505472d 2026-10-18 bounds: pin the witness to Zig 0.17.0 and record the changelog question
+51dca72 2026-10-18 active-development: record the first slice of the Zig 0.17.0 changelog check
+ea9d6af 2026-10-18 active-development: state the redate question as open in the errata
+6e6103d 2026-10-18 tablecloth: draft a review request for the scripture lines in the resin
+d0d1e35 2026-10-18 study: add the intake room with a strict public-domain gate
+bb05ae2 2026-10-18 study: refuse the Arnold Gita copy at the strict gate and record why
+7ae78a5 2026-10-18 study: accept the Wellcome Gita edition at the gate and refuse the CCEL Gregory page
+d049785 2026-10-18 study: refuse the Taylor Wellcome page and the CCEL Dionysius page at the gate
+c592f53 2026-10-18 study: accept the Taylor Plato record at the gate and refuse the Wikisource Blok page
+c20db51 2026-10-18 study: single-strand every refusal into yonder/refusals
+371768d 2026-10-18 yonder: rename the refusals file to the hyphen-stamp filename
+7b28c69 2026-10-18 yonder: repoint eight links that broke when the design folders moved
+acd891f 2026-10-18 context, tablecloth, gratitude: name missing targets as plain text, not dead links
+862f386 2026-10-18 README: rewrite the front door in Radiant warmth, same facts
+6fd54bf 2026-10-18 context: add a shared register library and point Radiant at it
+5ca1fbf 2026-10-18 context: organize voices and styles into their own folders
+7c6cbf8 2026-10-18 context: add the Jena and Keat grain voices and a voices index
+bcc6a2f 2026-10-18 context: single-strand the shared voice rules into styles/lib
+da37ee8 2026-10-18 styles: point Gauge's shared moves at the library and keep its own rules
+6eaa88b 2026-10-18 context: add the general voices Djin and Shmr, built from the shared library
+4581548 2026-10-18 context: add the Sara voice for study reading notes
+6e96069 2026-10-18 construction: add a living baton for handoff between sessions
+42b1a56 2026-10-18 context: learn the spellbook, keeping the words whose homes this tree can name
+46483be 2026-10-18 study: accept the Wellcome Brihat Jataka record and refuse an unclear Pickthall copy
+453e518 2026-10-18 tablecloth: sort one search round into a finds-and-refusals index
+007cd9d 2026-10-18 study: record the second search round, with four refusals and one unread source
+f15cab0 2026-10-18 study: accept the Standard Ebooks Legge Tao Te Ching and refuse two Giles Chuang Tzu copies
+87fbcc4 2026-10-18 study: record the Bhagavata and Jiva search round, with five refusals and one unread source
+31c722c 2026-10-18 expanding-prompts: plan a tutorial from the four passed sources, and pass the baton onward
+2ea0f16 2026-10-18 study: refuse the Observatory Douglass copy under its CC BY-NC-SA license
+288460b 2026-10-18 study: record the Federalist copy as refused and the Atthowe and Jivamukti searches as empty
+cd43d4a 2026-10-18 study: accept three Standard Ebooks titles on CC0 footers and refuse the Jeffers PDFs
+6199d72 2026-10-18 construction: add the project document, a step-by-step round prompt, and a flag-driven composer
+08c27f5 2026-10-18 styles: give Radiant its own identity section, and close round 10
+47fbe0c 2026-10-18 tablecloth: add the replay context data, a fascia link page, and a replay prompt
+ff06ca2 2026-10-18 docs-geode: add a round tutorial, copy it to tablecloth, and add the tc spell
+34b3601 2026-10-18 construction: add a link-check script and record the round drift
+dae8301 2026-10-18 construction: port the link check to a Rishi driver with a shell helper per page
+53160d0 2026-10-18 docs-geode: add a tutorial for the Rishi link check
+3e52412 2026-10-18 context: name each spellbook gap in one line
+168741b 2026-10-18 docs-geode: retire the Bhakta register name for Radha on living pages
+00f41e9 2026-10-18 active-development: open question on what "at the Door" means, with three suggestions
+080fc74 2026-10-18 active-development: fold the new-tree round note and mark the removal plan done
+dcb71bf 2026-10-18 tablecloth: audit the 21 files with a keep, move, silo, or hold verdict each
+07bc6ce 2026-10-18 tablecloth: affirm the two living keep verdicts with a reviewed-and-kept line

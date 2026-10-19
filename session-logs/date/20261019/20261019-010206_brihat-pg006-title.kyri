@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.010206
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka scan page 6 -- title page transcription
+prompt Read scan pg-006.png, transcribe printed English, write to part-6.md with heading
+think Page is the title page: no printed page number, running head is the series title ARYAN MISCELLANY
+think Handwritten accession number 43247 in top right -- noted in brackets as non-printed element
+think Translator credentials: B. A., F. T. S. -- copied exactly as printed
+think Printer line partially obscured by scan edge but readable: Foster Press, 23 Lundall's Road, Vepery
+think No Greek or Sanskrit on this page; no illegible words
+obs Title page carries no page number in the printed sequence; label noted as [title page] in heading
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-6.md -- transcription of scan page 6
+recommend Continue with pg-007.png as the next scan page in the Brihat Jataka batch

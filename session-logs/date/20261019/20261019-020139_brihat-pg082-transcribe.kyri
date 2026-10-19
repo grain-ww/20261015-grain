@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020139
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-082 transcribe
+prompt Read scan pg-082.png and transcribe printed English to part-82.md
+think Scan is printed page 39, Chapter V header and sloka 1-4 (partial), running head BRIHAT JATAKA. No Greek present. Sanskrit terms: Drekkana, kana -- marked as-is (English transliterations already in the text). Sloka 3 note (a) lists sign names in English. Line "the issue wil" appears to be a linebreak mid-word ("wil" for "will") -- kept as printed. Page ends mid-sentence at sloka 4 with catchword "6".
+obs The word "wil" at end of sloka 3 body is likely a print dropout of the second "l" -- kept as printed per instruction.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-82.md -- transcription of scan page 82
+recommend transcribe pg-083 next to continue Chapter V sloka 4 and beyond

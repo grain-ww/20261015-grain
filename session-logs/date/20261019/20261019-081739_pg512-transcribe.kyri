@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.081739
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status unverified
+voice Kyri
+title Transcribe scan page 512 -- Taylor Plato Wellcome 1793
+prompt Read scan image pg-512.png and transcribe printed English to part-512.md with heading, keeping text as printed, marking Greek by policy, transliterating Sanskrit.
+think Read the image; printed page label is 481, running head OF PLATO.; italic passages marked with asterisks; catchword "such" and signature "I i" at foot retained.
+obs No Greek or Sanskrit found on this page; all text is English prose. Long-s rendered as s per instruction. Italic passages in original rendered with markdown italics.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-512.md -- transcription of scan page 512, printed page 481
+recommend check part-512.md against the scan for any missed italics or misread words before batching into the Taylor draft

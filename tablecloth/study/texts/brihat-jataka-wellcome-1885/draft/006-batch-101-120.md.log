@@ -1,0 +1,99 @@
+`part-101.md` written. Printed page 58, running head BRIHAT JATAKA, [CH. 6] -- Notes section: item (a) on the Moon's revolutions and the eight counteracting yogas (item 8 runs off the bottom of the page). One observation: item 5 reads "malefic plant" -- almost certainly a misprint for "planet"; transcribed as printed.
+
+Recommend: stage and commit the Brihat pg-101 transcription alongside any other open batch files.
+done 101
+`part-102.md` written. The page carries the tail of Chapter 6 (stanzas 9-16 on conditions preventing early death) and the opening of Chapter 7 (Ayurdaya -- determination of length of life), ending mid-sentence at "deter-". Two apparent print errors kept as printed: "palnet" (stanza 11) and "occupynig" (stanza 12).
+
+recommend: continue with pg-103 to capture the Notes section that begins at the bottom of this page
+done 102
+Transcription written to `part-103.md`. Printed page 60, running head BRIHAT JATAKA, Ch. 7. The page opens mid-sentence continuing from page 102, covers the Pindayurdaya table of planetary exaltation years (Sun 19, Moon 25, Mars 15, Mercury 12, Jupiter 15, Venus 21, Saturn 20), stanza 2 on reductions, and breaks mid-sentence at the bottom of note (a). No Greek present; Sanskrit terms (Pindayurdaya, Navamsas, Lagna, Astangata) transcribed as printed.
+
+recommend: commit the session logs from today's Brihat batches (many untracked .kyri files pending)
+done 103
+Transcription written to `part-104.md`. The page is printed page 61, chapter 7 commentary, covering notes (b) through (f) -- Lagnayurdaya, Manittha's school, zodiac-sign year rules, planetary period, and the start of the Astangata definition. The page ends mid-sentence before the disappearance/re-appearance table.
+
+One uncertain character: after "71 degrees give us 71 x ... years = 3 years, 11" the next mark looks like "8" or "S" -- marked `[8?]` in the file.
+
+recommend: transcribe pg-105 next to complete the disappearance/re-appearance table begun at the foot of this page
+done 104
+Transcription written to `part-105.md`. Printed page 62, running head BRIHAT JATAKA [CH. 7.
+
+A few notes from the reading pass:
+
+- The table lists combustion degrees for Mercury, Jupiter, Venus, Saturn, and the Moon (with retrograde variants for Mercury and Venus).
+- Note (g) names the Sanskrit term *Vakra* -- kept as printed, marked in italics.
+- "nterpreted" at the start of a line appears to be a broken "i" at the column edge; kept exactly as printed without correction.
+- The page ends mid-sentence in section 4, so the transcription closes there.
+
+recommend: continue with pg-106.png if the batch extends further, as page 105 ends mid-sentence in section 4.
+done 105
+Transcribed. Notes on two judgment calls:
+
+- The line beginning "/2 years" -- the `1` was split at the left margin; context (dog lifespan) confirms it reads **12 years**, transcribed as such.
+- Stanza 6 ends mid-sentence at the page foot; transcribed exactly as printed, no closing punctuation added.
+
+recommend: transcribe pg-107 next; stanza 6 continues on that page.
+done 106
+Transcription written to `part-107.md`. The page is printed page 64, running head BRIHAT JATAKA, CH. 7 -- Notes section with a Rasi Chakra horoscope table, commentary on Mercury's years calculation (arriving at 7 years, 6 months and 5 days), a second calculation via Navamsas giving a table of planetary years, and the opening of a paragraph on Chakrapataharana that continues past the scan edge.
+
+recommend: commit the Brihat batch when all assigned pages are done.
+done 107
+Transcription written to `part-108.md`. Printed page 65, running head BRIHAT JATAKA -- Chapter 7 continuation covering the Pindayurdaya planetary-years table (Sun through Lagna, total 120 years 5 days), stanza 7 on Vishnugupta/Devaswami/Siddhasena, and Notes (a)(b)(c), the last of which ends mid-sentence at "Mercury, Jupiter," where the scan page cuts off. No Greek on this page; Sanskrit names kept as the author printed them.
+
+recommend check-in -- confirm part-108.md reads cleanly before committing the Brihat batch that includes page 108
+done 108
+`part-109.md` written. Printed page 66, running head BRIHAT JATAKA, CH. 7. The Rasi Chakra table is rendered as a markdown table; "s ffer" is kept as printed (likely a broken "suffer"); fractions are in plain ASCII. The page ends mid-sentence on Jupiter's year reduction.
+
+recommend transcribe pg-110 to continue the unfinished sentence about Jupiter's year reduction
+done 109
+Transcription written to `part-110.md`. A few notes on uncertain readings:
+
+- The Saturn entry in the table has a handwritten or damaged figure -- I read it as `[1 0 a?]` years; the printed digit is unclear.
+- The Krurodaya harana fractions (90/108 and 18/108) are inferred from the typeset layout and rendered as inline fractions.
+- The page ends mid-sentence on "consi-" -- the next scan will carry the continuation.
+
+recommend: transcribe pg-111 to continue the mid-sentence carried from pg-110.
+done 110
+Transcription complete. Printed page 68, Chapter 7 -- the page covers stanza 9 (Jeevasarma's one-seventh rule for planetary years, with Satyacharya's Navamsa-count alternative) and stanza 10 (the Sphuta-to-minutes conversion method). The page crops mid-sentence at the bottom; the final partial character after "115 degrees 1" is marked [illegible].
+
+recommend: check part-111.md against adjacent pages when the batch is assembled, to confirm the cut line matches the opening of page 112
+done 111
+Transcription written to `part-112.md`. Page 69, chapter 7 (BRIHAT JATAKA): the Sun's Navamsa calculation example concludes, stanza 11 gives the trebling/doubling rule for exaltation/retrograde and Vargottama/Swakshetra/Drekkana positions, stanza 12 introduces Satyacharya's method for the Lagna, and two Notes sections follow. Fractions are rendered in plain ASCII. No Greek or uncertain Sanskrit on this page.
+
+recommend check part-113 booking -- next batch page in sequence not yet confirmed written
+done 112
+Transcription written to `part-113.md`. Printed page 70, running head BRIHAT JATAKA, Ch. 7 -- notes on Satyacharya's Ayurdaya method (stanza 13 and its notes on Mercury's years, doubling, and trebling), ending mid-sentence at stanza 14.
+
+recommend: continue with pg-114 to pick up the cut sentence at the bottom of pg-113
+done 113
+`part-114.md` is written. Printed page 71, CH. 7, "BRIHAT JATAKA." -- a mid-sentence continuation followed by Notes (a) and four numbered longevity-yoga examples. No Greek, no illegible words; Sanskrit terms kept as romanised in the original.
+
+recommend: continue to pg-115 transcription if the batch continues.
+done 114
+Transcription written to `part-115.md`. The page is printed page 72, running head BRIHAT JATAKA [CH. 7], covering yogas 5 (partial) through 11 with the footnote on Amsas. No Greek on this page; Sanskrit technical terms transcribed as printed.
+
+recommend check part-116.md booking or continue sequential batch; no red open
+done 115
+Transcription written to `part-116.md`. The page is printed page 73, running head BRIHAT JATAKA, CH. 7s]. Items 12 through 19 are present; item 19 is cut off mid-sentence at the foot of the page. No Greek appeared; Sanskrit terms (Vargottama, Paravatamsa, Kendra, Navamsa, Trikona, Gopuramsa, Amsas, Gulika, yuga) are kept as printed. Gulika's parenthetical gloss -- "the higher apsis of a planet's course" -- is retained verbatim from the original.
+
+recommend: continue with pg-117 scan if the batch sequence continues there
+done 116
+Transcription written to `part-117.md`. One printer's error to flag: the page numbers items 20 through 25 and then repeats "23" for the final paragraph -- I kept the label as printed rather than correcting it.
+
+recommend: commit the session logs from today's Brihat batch once all pages are done.
+done 117
+Transcription written to `part-118.md`. The page is printed page 75, running head BRIHAT JATAKA, Ch. 7. It contains sloka 27 (Muni yoga) and the *Amsas explained* section through Shodasamsa and the opening line of Shashtyamsa -- the paragraph breaks at the bottom of the page.
+
+recommend: transcribe pg-119 to continue the Shashtyamsa paragraph that breaks at the bottom of this page
+done 118
+Transcribed. The page is printed page 76 under chapter 8, running head BRIHAT JATAKA. It contains the numbered list of 60 Shashtyamsa names (1--60) for the odd signs, a note that the even signs run the same list in reverse (Indurekha to Ghora), and a closing paragraph on the Varga classification scheme from Parijatamsa through Vaiseshikamsa.
+
+One note: items 19 and 20 ("Mridu" and "Komala") appear in the printed text without a trailing period -- transcribed as printed.
+
+recommend: commit the open session-log batch from today (20+ untracked .kyri files) before opening new work.
+done 119
+Transcribed to `part-120.md`. The page is printed page 77, Chapter VIII, running head "BRIHAT JATAKA" -- the chapter opens on planetary divisions and sub-divisions of life (dasas and antardasas), with two stanzas and their notes; the page ends mid-sentence at "and lasts."
+
+Recommend: stage and commit the new session logs and part files when the batch is complete.
+done 120
+loop finished 101..120

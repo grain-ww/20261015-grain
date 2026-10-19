@@ -1,0 +1,25 @@
+format session-log-v1
+stamp 20261017.190914
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title decouple output-over-activity into general patterns; the 1015 project becomes an instance; SLC path and send-and-publish drafted
+prompt Keaton: draft the SLC path and measure links, decouple output-over-activity from the 1015 project into general patterns, and make send-and-publish the default.
+think Moved projects/output-over-activity to projects/20261015-grain/output-over-activity with git mv, so the instance keeps its baseline and dated files.
+think Wrote general pages under patterns/: output-over-activity with a measure table that holds no baseline, slc-path with its steps and measure links, and send-and-publish as the default ship pattern.
+obs The move broke one link in projects/README.md, now repointed to the instance and the patterns room. Dated files that name the old path were left as testimony.
+obs patterns/ was gitignored by default; a root allow line was added in the same commit.
+file patterns/README.md -- the patterns room and its index
+file patterns/output-over-activity/README.md -- the general pattern
+file patterns/output-over-activity/MEASURES.md -- the general measure table, no baselines
+file patterns/slc-path/README.md -- the SLC path with measure links
+file patterns/send-and-publish/README.md -- the default ship pattern
+file projects/20261015-grain/output-over-activity/README.md -- the 1015 instance, now citing the pattern
+file projects/README.md -- points to the instance and the patterns room
+recommend keep-going -- check the remotes after the push and read each pattern page against its measure row.

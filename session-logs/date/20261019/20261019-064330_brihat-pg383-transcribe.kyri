@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.064330
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe scan page 383 -- Taylor Parmenides p. 352
+prompt Read pg-383.png and write part-383.md with printed English transcribed under the standard heading.
+think Single reading pass. Page is printed page 352, running head THE PARMENIDES. No Greek on this page. Text ends mid-word "suf- / fer" at page foot -- carried to next page.
+obs The "5" at page bottom is a signature mark, not a footnote number; included as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-383.md -- transcription of scan page 383
+recommend continue to pg-384 to complete the interrupted sentence and the next page of the batch

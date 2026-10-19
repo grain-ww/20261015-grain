@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031541
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-185 transcribe
+prompt Read scan pg-185.png and transcribe printed English to part-185.md
+think Scan shows printed page 142, running head BRIHAT JATAKA, CH 14 -- tail of Ch 13 (d)(e) then full Chapter XIV heading and stanzas 1 and note (a) and stanza 2 partial
+obs Page ends mid-sentence at "if they be the Moon and Venus, the" -- next page continues; no Greek on this page; Sanskrit terms (Kemadruma, Upachaya, yoga) transliterated as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-185.md one-pass transcription of scan pg-185
+recommend transcribe pg-186 next to continue stanza 2 and remainder of Chapter XIV

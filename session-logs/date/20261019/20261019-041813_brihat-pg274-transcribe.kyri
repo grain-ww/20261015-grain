@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.041813
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg 274 transcription
+prompt Read scan pg-274.png and write part-274.md with transcribed printed English
+think Read image; identified printed page 231, chapter 27, running head BRIHAT JATAKA
+think Transcribed sections 24-28: Drekkana descriptions for Scorpio 3rd, Sagittari 1-3, Capricorn 1st
+obs Catchword 'F' at page foot preserved as printed
+obs Minor scan imperfection: "Drekkanua" in sec 27 notes preserved as printed
+obs "coverd" (sec 28) preserved as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-274.md transcription of scan page 274
+recommend check-in -- confirm part-274.md matches the next batch sequence before booking a commit

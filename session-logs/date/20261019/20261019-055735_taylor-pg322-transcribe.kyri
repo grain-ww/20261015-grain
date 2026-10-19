@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.055735
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 322 transcription
+prompt Read scan pg-322.png and transcribe printed English to part-322.md
+think Scanned page 322 carries printed page 291, running head INTRODUCTION. Text concerns Orphic and pre-Socratic theogonies: Acusilaus, Epimenides, Pherecydes Syrius. Footnotes carry Greek inline; policy says Greek is not transcribed, so each Greek token is replaced with [Greek, not transcribed by policy]. Long s rendered as s per instruction.
+obs Printed page number is 291; scan page label is 322. Running head is INTRODUCTION. Catchword at foot is "Spirit,". Two footnotes mark textual variants in Greek.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-322.md -- transcription of scan page 322
+recommend commit the accumulated Taylor batch session logs and transcription files once the full batch is complete

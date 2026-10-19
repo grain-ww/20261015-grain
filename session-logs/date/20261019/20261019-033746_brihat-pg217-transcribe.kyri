@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.033746
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-217 transcribe
+prompt Read scan pg-217.png and transcribe printed English to part-217.md with heading, square-bracket notes, policy for Greek, mark illegible words.
+think Single reading pass. Page is printed page 174, running head BRIHAT JATAKA, CH 13. Three sections: stanza 8 (Scorpio), stanza 9 (Sagittari [sic]), stanza 10 (Capricorn, page cuts off mid-sentence). No Greek on this page. No Sanskrit requiring transliteration. One small scan artifact: "wil" at end of first line of stanza 8 (line wraps, missing final l -- kept as printed).
+obs "rising sign" printed as "rising sign" in stanza 10 has a ligature artifact between "rising" and "sign" -- transcribed as printed with no insertion.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-217.md -- transcription of scan pg-217
+recommend check pg-218 to continue stanza 10 (Capricorn) which is cut off at the bottom of this page

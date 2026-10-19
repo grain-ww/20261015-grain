@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.055336
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 317
+prompt Read scan pg-317.png and write transcription to part-317.md
+think Opened image; printed page 286, running head INTRODUCTION.
+think Page has two paragraph blocks: upper block ends mid-sentence ("they"), lower block continues from a prior page ("part.") and ends with catchword "establish" and footnote.
+think Greek inline citation for Damascius title marked as [Greek, not transcribed by policy] per policy.
+think Long-s rendered as s throughout; italics kept with asterisks; footnote asterisk retained.
+obs Page split suggests a recto/verso ordering; lower block is continuation from facing page, upper block leads into facing page -- transcribed in print order (upper then lower) as they appear on this scan.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-317.md -- transcription written
+recommend commit the Taylor batch session logs and transcriptions when the full set is complete

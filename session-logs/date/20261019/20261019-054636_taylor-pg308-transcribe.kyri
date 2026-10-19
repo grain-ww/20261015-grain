@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.054636
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 308
+prompt Read scan pg-308.png and write part-308.md with printed English transcribed
+think Single reading pass; printed page 277, running head INTRODUCTION
+think Greek inline (one instance: ev ov label for first triad) marked per policy
+think Page ends mid-sentence at "distinction." with signature line "T 3"
+obs Signature "T 3" is a printer's gathering mark, not body text -- included at end
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-308.md -- transcription written
+recommend continue with next scan page in the batch

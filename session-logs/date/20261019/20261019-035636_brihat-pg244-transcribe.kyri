@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.035636
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 244 transcribe
+prompt Read pg-244.png and transcribe printed English to part-244.md
+think Single reading pass; page is printed page 201, ch. 24, running head BRIHAT JATAKA
+think Yogas and Trimsamsa are Sanskrit terms -- marked uncertain transliteration; no Greek present
+obs Page ends mid-sentence at bottom (section 3 cuts off at "occu-") -- transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-244.md -- transcription of scan page 244
+recommend check part-245.md next to complete the cut-off sentence from section 3

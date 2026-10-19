@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.021344
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 099 transcription
+prompt Read pg-099.png and transcribe printed English to part-99.md
+think Scan shows printed page 56, running head BRIHAT JATAKA, CH. 6 -- text continues mid-paragraph from prior page with a quoted clause, then notes (c), stanzas 7-9, and sub-notes (a)(b)
+obs No Greek present; Sanskrit term Navamsa transcribed as printed; no illegible words; note references (a) and (b) inline as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-99.md -- transcription of scan page 99
+recommend check scan page 100 (part-100.md) to continue the Brihat batch

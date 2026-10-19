@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.033535
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-214 transcribe
+prompt Read scan pg-214.png and transcribe to part-214.md
+think Single reading pass; noted two apparent misprints in the original (porperty, tempr) and kept them as printed
+obs Page is printed page 171, ch. 18, running head BRIHAT JATAKA -- continuation of stanza 20 notes and Satyachariar extract item 1
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-214.md transcription written, one reading pass
+recommend check part-214.md against the scan for the two misprints (porperty, tempr) to confirm kept-as-printed is correct before the batch closes

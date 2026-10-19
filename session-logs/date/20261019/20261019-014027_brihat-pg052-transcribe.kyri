@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.014027
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 52 transcription
+prompt Read pg-052.png and transcribe printed English to part-52.md
+think Single reading pass; page is printed page 11, running head BRIHAT JATAKA.
+think Content: Navamsa paragraph continuation, Moola Trikona table (7 planets), sloka 15 on house significations, start of notes section (a) with house list beginning.
+obs No Greek on this page. No illegible words. Table rendered as markdown; italic Upachaya preserved.
+obs Page ends mid-list at 3rd house entry -- text continues on next scan.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-52.md -- transcription written
+recommend transcribe pg-053.png next; page 52 ends mid-list and the notes continue

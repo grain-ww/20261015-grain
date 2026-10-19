@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.012706
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 34 transcription
+prompt Read pg-034.png and transcribe printed English to part-34.md
+think Viewed image: printed page 25, running head INTRODUCTION. Single column, clean type, fully readable.
+obs Sanskrit terms: Balarishta, Jataki, Pravrijya, Anisbtadhyaya -- transcribed as printed (Anisbtadhyaya appears to be a misprint for Anishtadhyaya but kept as printed per policy).
+obs Page ends mid-sentence: "The appendix to the translation will contain numerous" -- kept as printed, no invented continuation.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-34.md transcription of scan page 34
+recommend commit batch 021-040 draft and session logs once all pages in the batch are transcribed

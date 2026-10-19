@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023623
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified active at session start
+voice Kyri
+title Brihat Jataka pg-130 transcribe
+prompt Read scan pg-130.png and write part-130.md with printed English transcription
+think Scanned image shows Ch. 8, printed page 87, running head BRIHAT JATAKA. Two numbered sections (20, 21) and start of Notes section. Page ends mid-sentence at bottom with "12" (continuation marker).
+obs No Greek on this page. Sanskrit terms: dasa, antardasa, atimitra, Vargas, yogas, Nabhasa, akas -- all transliterated as printed. Text ends mid-sentence; transcribed up to last visible line including "12" page-continuation marker.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-130.md one-pass transcription written
+recommend check part-131 exists or book next page -- page ends mid-sentence and the continuation is on the next scan

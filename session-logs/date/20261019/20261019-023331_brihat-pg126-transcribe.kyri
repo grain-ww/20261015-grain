@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.023331
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka scan page 126 transcription
+prompt Read scan pg-126.png and write transcription to part-126.md
+think Single reading pass from image; page is printed page 83, running head BRIHAT JATAKA, chapter heading CH. 8
+obs "Atisatru[planet" -- the closing bracket of "Atisatru" appears to be a broken letter in the scan, likely intended as AtisatruJ or Atisatru-planet; transcribed with open bracket to flag uncertainty
+obs "p erson" on final line -- word break artifact in the printed text; kept as printed
+obs No Greek text on this page; Sanskrit terms (Varga, Lagna, Hora, Drekana, Navamsa, Dwadasamsa, Trimsamsa, dasa, Antardasa, Atimitra, Atisatru, antardasa) transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-126.md -- transcription of scan page 126
+recommend check part-126.md against adjacent pages to confirm chapter and section numbering continuity

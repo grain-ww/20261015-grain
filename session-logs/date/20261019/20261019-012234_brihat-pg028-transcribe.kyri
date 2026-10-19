@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012234
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg028 transcription
+prompt Read scan pg-028.png and transcribe printed English to part-28.md
+think Scan is printed page 19, running head INTRODUCTION. Page begins mid-sentence with siderial periods table, continues through Kalpa/Chaturyuga discussion, Dwapara/Treta/Krita yuga table, and Rasi Chakrams paragraph ending mid-sentence at bottom.
+obs No Sanskrit or Greek required this page. Superscripts (12^2, 12^3, 12^4, 12^5) rendered with caret notation. Tables rendered in markdown pipe format. One word "consists" appears with a small gap in print (cons sts) -- transcribed as printed meaning "consists".
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-28.md -- transcription of scan page 28
+recommend commit the batch-021-040 draft and session logs once remaining pages in the batch are transcribed

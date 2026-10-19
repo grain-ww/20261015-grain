@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.062920
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 364 transcription
+prompt Read scan pg-364.png and transcribe printed English to part-364.md
+think Single reading pass; printed page 333, running head OF PLATO.
+think Page ends mid-sentence at "never" -- carried to next page.
+obs Greek not present on this page; no transliteration needed.
+obs Italics preserved with markdown asterisks for the one, same, different.
+obs Long s rendered as s per instructions.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-364.md -- transcription written
+recommend transcribe pg-365 to continue the Parmenides passage that ends mid-sentence here

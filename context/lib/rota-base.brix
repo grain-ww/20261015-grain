@@ -1,0 +1,9 @@
+# context/lib/rota-base.brix -- the shared base of every rota: one count, one row rule, one row shape.
+# Stamp: 20261018.174553. Status: living. Both rotas compose from this page; neither copies it.
+#
+# base count_source git rev-list --count HEAD
+# base row_rule ((count - 1) mod N) + 1, one-indexed
+# base row_shape row, name, element, goal, verb
+#
+# A rota is composed from these three lines and its own N and its own rows. Change the base here, once.
+# composed by context/lib/rota.brix (eight) and context/lib/rota-of-fifteen.brix (fifteen).

@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.024621
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-144 transcribe
+prompt Read scan pg-144.png and transcribe printed English to part-144.md
+think Single reading pass; image is Ch. 9, printed page 101, running head BRIHAT JATAKA
+think Page contains: closing paragraph on A.V. triangular signs / place of worship; A.V. of the Moon (two calculation blocks); bath-room direction note; opening of A.V. of Mars section
+obs "Find out the Dik" line has a ligature artifact between "out" and "the" -- transcribed as "Find out the" (no bracket needed, reading is clear)
+obs "there will be quarrel" -- original has "be" set with descender touching "b"; read as "be" with confidence
+obs No Greek on this page; no Sanskrit on this page; no illegible words
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-144.md -- transcription written
+recommend commit the untracked session logs from today's batches when the transcription run is complete

@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.041337
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 267 transcribe
+prompt Read pg-267.png and transcribe printed English to part-267.md
+think Single reading pass; printed page 224, CH. 26, running head BRIHAT JATAKA.
+think Content: Notes on stanzas 13-14 (products 3 and 4 of the four-product method), N.B. on remainder shapes, stanza 15 on Matras and Nakshatra.
+think No Greek present. Sanskrit terms (Nakshatra, Ghatika, Navamsa, Dwadasamsa, Drekkana, Paksha, Tithi, Aswini, Dhanishta, Hora) transliterated as printed.
+obs Word "substracted" appears as printed (not "subtracted") -- kept as printed per rule.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-267.md written, single reading pass
+recommend Next page pg-268 awaits transcription if the batch continues.

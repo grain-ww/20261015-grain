@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.065555
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime unverified
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 400
+prompt Read scan pg-400.png and transcribe printed English to part-400.md
+think Page opens with the INTRODUCTION heading; top portion shows bleed-through from verso (mirrored, unreadable as recto). Recto text begins with the large drop-capital T paragraph from Proclus on the design of Plato's Timaeus. Catchword "causes;" and signature "B b" visible at foot.
+obs No printed page number on this leaf -- it is the first page of the Introduction, unnumbered as is typical for an introduction opening. Running head reads INTRODUCTION.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-400.md -- transcription of scan page 400, one reading pass
+recommend continue with the next scan page in the Taylor Plato batch

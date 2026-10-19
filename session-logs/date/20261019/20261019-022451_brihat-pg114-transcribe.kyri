@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.022451
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka scan page 114 transcription
+prompt Read scan pg-114.png and transcribe printed English to part-114.md
+think Image is printed page 71, CH. 7, running head BRIHAT JATAKA. Opens mid-sentence (continuation). Notes section: note (a) on Ayurdaya rules not applying; four numbered horoscope examples of yogas for exceptional longevity (1000, 2000, 2000 years, and great number of years). No Greek text present. Sanskrit terms: Ayurdaya, Upachaya, Kendra, yoga -- transliterated as printed. Page ends with the number 10 (likely a section or footnote marker at bottom).
+obs No illegible words found. No Greek present. Sanskrit terms left as printed (already romanised in the source). The word "Sagittari" is printed as-is (not "Sagittarius") -- kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-114.md -- transcription of scan page 114
+recommend continue to pg-115 transcription if the batch continues

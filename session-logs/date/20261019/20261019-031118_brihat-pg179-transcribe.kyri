@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.031118
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime context confirmed
+voice Kyri
+title Brihat Jataka pg-179 transcribe
+prompt Read scan pg-179.png and write part-179.md with printed-page heading
+think Single reading pass; printed page 136, running head BRIHAT JATAKA, Ch. 13
+think Page continues notes on Moon-Sun sign distance and introduces Adhiyoga (sloka 2)
+think No Greek present; Sanskrit terms (Atimitra, Navamsa, Adhiyoga, Astangata, Badarayana, Saravali, Mandavya) retained as printed
+obs All text legible; no illegible words; no Greek; one footnote numeral (4) rendered as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-179.md transcription of scan page 179
+recommend Continue to pg-180 to maintain batch sequence

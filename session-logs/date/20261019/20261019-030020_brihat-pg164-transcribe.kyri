@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.030020
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-164 transcription
+prompt Read scan pg-164.png and transcribe printed English to part-164.md
+think Viewed image: CH. 12, printed page 121. Continuation of notes from Ch. 11, then Chapter XII heading and stanza 1 on Nabhasa Yogas with note (a) cut at bottom.
+obs No Greek present. Sanskrit terms (Vajra, Nabhasa, Kendras, Yavanas, etc.) kept as printed. Page ends mid-sentence in note (a).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-164.md -- transcription of scan page 164, printed page 121
+recommend transcribe pg-165 to continue note (a) which is cut at the page break

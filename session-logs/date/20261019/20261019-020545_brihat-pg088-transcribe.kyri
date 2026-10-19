@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020545
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status system-reminder confirmed
+voice Kyri
+title Brihat Jataka pg-088 transcribe
+prompt Read scan pg-088.png and transcribe to part-88.md with heading, keep text as printed, mark Greek, transliterate Sanskrit uncertain, mark illegible
+think Read image; identified printed page 45, running head BRIHAT JATAKA, CH. 5.; transcribed all body text including notes (a) through partial; no Greek present; Sanskrit names Manittha, Saravali, Utpala treated as proper nouns and kept as printed
+obs Page ends mid-notes section at note (a); note (b) and beyond are on subsequent scan pages
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-88.md -- transcription of scan page 88
+recommend transcribe pg-089 to continue notes (b) onward for the same stanza 18

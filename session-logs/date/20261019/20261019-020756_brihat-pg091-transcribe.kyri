@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.020756
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg091 transcribe
+prompt Read scan pg-091.png and transcribe printed English to part-91.md
+think Single reading pass; page is printed page 48, running head BRIHAT JATAKA, CH. 5
+think Text covers stanzas 20-21 on delivery room direction and cot leg placement, plus note (a)
+obs Page ends mid-sentence in note (a) -- the right-side clause closes with a semicolon and no period, consistent with continuation on next page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-91.md -- transcription written, one reading pass
+recommend transcribe pg-092 to continue note (a) and the chapter

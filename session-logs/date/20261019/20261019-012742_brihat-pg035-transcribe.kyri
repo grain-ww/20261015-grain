@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012742
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg035 transcription
+prompt Read scan pg-035.png and transcribe printed English to part-35.md
+think Page 35 is printed page 26, running head INTRODUCTION -- the final page of the Introduction, ending with the Zadkiel quotation and the N. C. / Madura 2nd June 1885 colophon
+obs No Greek, no Sanskrit on this page; text is complete and readable; lower half of scan is blank (page ends mid-page)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-35.md -- transcription of scan page 35 (printed page 26)
+recommend commit the batch-021-040 draft and session logs once all pages in the batch are done

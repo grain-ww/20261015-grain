@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.013512
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-045 transcription
+prompt Read scan pg-045.png and transcribe printed English to part-45.md with heading, square-bracket notes, no Greek transcription, mark illegible words.
+think Single reading pass of scan page 45 (printed page 4, CH. I). Page continues from prior batch -- top lines resume mid-paragraph about 108 nakshatra divisions, then verse 5 on zodiac sign shapes, then NOTES (a) and (b). Page ends mid-sentence at "Cancer (Kata-".
+obs No Greek on this page. Sanskrit names (Aswini, Revati, Krittika, Mrigasirsha, Punarvasu, Rasi, Kshetra, Graha, Mesha, Vrishabha) kept as printed. Degree symbol rendered as "degrees" in ASCII. Fraction 2 1/4 spelled out. No illegible words found.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-45.md -- transcription of scan page 45
+recommend commit the remaining untracked session logs and draft files from the day's Brihat batches so the tree stays clean

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.083416
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 535
+prompt Read scan pg-535.png and transcribe printed English to part-535.md
+think Single reading pass; long-s rendered as s; no Greek present on this page
+obs Page 504 of printed text, running head THE TIMAEUS; text ends mid-sentence with "when" -- page turn expected
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-535.md -- transcription of scan page 535
+recommend transcribe pg-536 next, as this page ends mid-sentence

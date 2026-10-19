@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041934
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-276 transcription
+prompt Read scan pg-276.png and transcribe printed English to part-276.md
+think Single reading pass: image shows printed page 233, CH. 28, running head BRIHAT JATAKA. Contains tail of ch.27 Drekkana descriptions (items 35-36 for Pisces 2nd and 3rd Drekkanas), a closing Notes paragraph about Drekkana use in Yatra and tracing thieves (Prithuyasas / Shadpanchasika), then Chapter XXVIII heading and Conclusion opening (items 1,2&3).
+obs "ornamentes" preserved as printed (likely typo in original); "theives" preserved as printed; no Greek present; no Sanskrit requiring transliteration; CH. 28 header is a running header on the scan, printed page number is 233.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-276.md -- transcription of scan page 276
+recommend check-in -- confirm part-276.md is accepted before booking the next page batch

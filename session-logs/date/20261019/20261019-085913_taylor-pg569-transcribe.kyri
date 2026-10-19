@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.085913
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 569 transcribe
+prompt Read scan pg-569.png and transcribe printed English to part-569.md
+think Single reading pass from image; printed page 538, running head THE TIMAEUS
+obs No Greek on this page; no Sanskrit; one catchword "flesh," at foot; text continuous
+file /tmp/.../scratchpad/all/part-569.md -- transcription of scan page 569
+recommend commit the session logs and part-569.md once the batch is complete

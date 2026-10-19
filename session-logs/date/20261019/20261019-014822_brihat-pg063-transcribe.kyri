@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.014822
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-063 transcribe
+prompt Read scan pg-063.png and transcribe printed English to part-63.md
+think Single reading pass; image is printed English with Sanskrit terms (sthanabala, Atimitra, Navamsa, Kshetra, Patala, Drekkana, Satru, Sama, Mitra, Atisatru); no Greek present; note (f) reference appears in body text but no (f) row appears in the notes table at page bottom -- likely cut off at page edge or continuing on next page
+obs The table of planetary relations (stanzas 16-17 vs 18) rendered as markdown table; footnote table likewise; note (e) entry duplicates I. 6 -- confirmed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-63.md -- transcription of scan page 63
+recommend transcribe pg-064 next; note (f) row missing from bottom table may be on pg-064

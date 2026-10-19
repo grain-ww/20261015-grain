@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015811
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-077 transcription
+prompt Read scan pg-077.png and transcribe printed English to part-77.md
+think Scanned printed page 34, chapter 4, BRIHAT JATAKA. Two verse sections (16 and start of 17) with notes. Yavaneswara is a Sanskrit name -- marked uncertain.
+obs "Yavaneswara" appears in the note as a commentator name; transcribed with Sanskrit uncertain marker. Text breaks mid-sentence at page bottom (section 17 continues to next page).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-77.md -- transcription of scan page 77
+recommend transcribe pg-078 next to continue section 17 which breaks at the page foot

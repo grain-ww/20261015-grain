@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031417
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-183 transcribe
+prompt Read scan pg-183.png and transcribe printed English to part-183.md
+think Scan is printed page 140, running head "Brihat Jataka", Ch. 13. Text continues from previous page mid-sentence. Paragraphs cover Sunapha/Anapha/Durudhura/Kemadruma yoga results and planet-specific effects (sections 5-7 partial). Footnote marker (a) present inline. Page ends mid-sentence at "If the yoga".
+obs No Greek present. Sanskrit yoga names (Sunapha, Anapha, Durudhura, Kemadruma) transliterated as printed. Arithmetic expressions preserved with x and = as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-183.md -- transcription of scan pg-183
+recommend check pg-184 to continue the mid-sentence cut at "If the yoga" and close section 7

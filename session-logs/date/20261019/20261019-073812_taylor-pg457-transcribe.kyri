@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.073812
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 457 transcription
+prompt Read scan pg-457.png and transcribe printed English to part-457.md
+think Single reading pass; printed page 426, running head INTRODUCTION.; long-s rendered as s per instruction
+obs Catchword at foot is "Empe-" (Empedocles, continuing next page); page ends mid-sentence
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-457.md -- transcription of scan page 457
+recommend commit the Taylor batch session logs and transcription files when the full batch is done

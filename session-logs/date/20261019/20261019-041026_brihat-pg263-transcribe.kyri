@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041026
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-263 transcribe
+prompt Read scan pg-263.png and write part-263.md with heading, printed text as printed, no Greek transcribed, Sanskrit transliterated
+think Single reading pass; page is printed page 220, running head BRIHAT JATAKA, Ch. 26 -- continuation from prior page mid-sentence, ends mid-sentence
+obs Italic words (seated, lying, standing, rising) rendered with markdown asterisks; fraction 4-1/2 written as 4 1/2 in ASCII per ascii-first rule; no Greek present on this page; no Sanskrit present on this page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-263.md -- transcription of scan pg-263
+recommend check part-264 booking to continue the Brihat batch sequence

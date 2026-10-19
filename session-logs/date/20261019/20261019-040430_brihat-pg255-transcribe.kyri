@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.040430
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg 255 transcribe
+prompt Read scan at pg-255.png and transcribe printed English to part-255.md
+think Scan shows printed page 212, CH. 25, BRIHAT JATAKA -- two paragraphs of body text followed by notes a through d. No Greek present. Sanskrit terms (Drekkana, Moolatrikona, Sarpa, Misra, Vyala, Gradhra, Kola, Subhodhini) transcribed as printed and left unmarked as they are printed in Latin script already.
+obs One parenthetical note (d) begins mid-line with "Sarpa Drekkanas :--" and the closing parenthesis on "Sarpa)" in the final line appears to be a typographical oddity in the original -- kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-255.md -- transcription of scan page 255
+recommend check-in -- confirm part-255.md matches expectation before batching remaining pages

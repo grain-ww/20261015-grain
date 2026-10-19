@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.032507
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-199 transcribe
+prompt Read scan pg-199.png and write part-199.md with printed English transcription
+think Opened image; read printed page 156, CH. 15, running head BRIHAT JATAKA
+think Items (3)-(7) list ascetic types; sections 2 and 3 give yoga/planet rules
+think Sanskrit terms (Bhikshu, Vridhasravka, Chakradhara, Nirgrandha, Vanyasana, Astangata, Deekshita, Drekkana, Navamsa, Pravrijia) transliterated as printed
+think No Greek present on this page; page ends mid-note after (a) under section 3
+obs Page ends at bottom with one note line; no continuation visible in scan
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-199.md -- transcription written, one reading pass
+recommend transcribe pg-200 next to continue the interrupted note sequence from section 3

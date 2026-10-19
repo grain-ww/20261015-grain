@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.031943
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-191 transcribe
+prompt Read scan pg-191.png and write part-191.md with printed English transcribed
+think Image shows printed page 148, running head BRIHAT JATAKA, CH 14 -- items 21 through 32 listing three-planet combinations and their effects
+obs Item numbering shifts: 21-31 use parentheses, item 32 drops them -- transcribed as printed; no Greek on this page; no Sanskrit requiring transliteration
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-191.md transcription of scan page 191
+recommend commit the open session-log batch (pages 021-191) accumulated across this session

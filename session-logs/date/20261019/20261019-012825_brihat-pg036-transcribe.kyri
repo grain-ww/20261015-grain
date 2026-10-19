@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012825
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-036 transcribe -- index A through D
+prompt Read scan pg-036.png and transcribe printed English to part-36.md with heading, keeping printed text as printed; no Greek; transliterate Sanskrit; mark illegible words.
+think Page is an alphabetical index of astrological terms, sections A through D, with Ch. and Stanza columns. No Greek characters appear in the body; "Akokera (Greek name for Makara, Capricorn)" is an English label, not Greek text. All Sanskrit term names already appear in romanized form in the original, so kept as printed. No illegible words found.
+obs The running head is not printed on this page; the page introduces the index without a chapter running head. Used "Index of Astrological Terms" as a descriptive label in the heading.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-36.md -- transcription of scan page 36
+recommend commit batch-021-040 draft and session logs once all pages in the batch are transcribed

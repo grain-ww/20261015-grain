@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.030527
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-171 transcription
+prompt Read scan pg-171.png and transcribe to part-171.md
+think Single reading pass; page is printed page 128, running head BRIHAT JATAKA, CH. 12
+obs Page continues mid-sentence from prior page; ends mid-note at note (c) for stanza 8
+obs Yoga names Ishu, Bana, Sakti, Danda, Nau, Kuta, Chhatra, Chapa, Ardha-Chandra -- Sanskrit, marked uncertain by context
+obs No Greek on this page; no illegible words; scan is clear
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-171.md -- transcription written
+recommend proceed to pg-172 to continue the Brihat Jataka batch

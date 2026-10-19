@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.024537
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-143 transcribe
+prompt Read scan pg-143.png and transcribe printed English to part-143.md
+think Page 143 printed page 100, running head BRIHAT JATAKA, CH. 9. Contains a partial table (A. V. table of Mars after Reductions I and II) and prose on A. V. of the Sun -- asterism from Aswini, Saturn transits, dasa periods, and the sign-of-death calculation. Footnote (a) defines A. V. as Ashtaka Varga before reduction.
+obs No Greek on this page. No Sanskrit requiring transliteration. Table spans top portion; label text spans two cells in merged region.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-143.md -- transcription of scan page 143
+recommend commit the day's untracked session logs once the full batch is confirmed complete

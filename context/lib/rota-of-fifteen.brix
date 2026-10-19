@@ -1,0 +1,21 @@
+# context/lib/rota-of-fifteen.brix -- the fifteen-round rota, composed from rota-base.brix.
+# Stamp: 20261018.174553. Source rows: the calfive round load in the field's spellbook (context/SPELLBOOK.md, round load).
+# The composed N is 15; the row rule is the base rule with N = 15.
+rota themes 15
+row_base 15
+row_rule ((count - 1) mod 15) + 1
+row 1 Aries fire talent commence-finish-one-to-do
+row 2 Taurus earth law what-must-stop-named-and-left-standing
+row 3 Gemini air fun say-the-work-aloud-in-one-sentence
+row 4 Cancer water aesthetics a-picture-a-newcomer-can-see
+row 5 Leo fire talent the-economics-check
+row 6 Virgo earth law what-must-stop-across-the-run
+row 7 Libra air fun the-two-checks-meet-and-settle
+row 8 Scorpio water aesthetics the-picture-held-whole
+row 9 Sagittarius fire talent the-mission-in-four-registers
+row 10 Capricorn earth law what-must-stop-the-bound
+row 11 Aquarius air fun one-clear-type-studied
+row 12 Pisces water aesthetics the-wish-one-close
+row 13 sky aether heart wildcard-may-borrow-one-verb
+row 14 sky aether heart wildcard-holds-one-page-whole
+row 15 sky aether heart wildcard-and-siyas-chair

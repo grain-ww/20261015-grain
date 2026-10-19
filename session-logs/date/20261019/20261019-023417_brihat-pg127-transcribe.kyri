@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023417
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka pg-127 transcribe
+prompt Read scan image pg-127.png and transcribe printed English to part-127.md
+think Image shows printed page 84 of Brihat Jataka (N Chidambaram Iyer, Madras 1885), CH. 8. Contains stanzas 12-14 and notes (a) and (b).
+obs Sanskrit term "mantras" appears in italics in the original; marked with asterisks in markdown. "Sampurna" and "Adhama" are Sanskrit technical names, transcribed as printed. Page ends mid-sentence at stanza 14.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-127.md -- transcription of scan page 127, printed page 84
+recommend continue with pg-128 transcription, as stanza 14 continues on the next page

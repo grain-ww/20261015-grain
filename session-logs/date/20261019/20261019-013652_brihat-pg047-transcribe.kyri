@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.013652
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-047 transcribe
+prompt Read scan pg-047.png and transcribe printed English to part-47.md with heading, keeping text as printed, marking Greek by policy, marking illegible words.
+think Page 47 is printed page 6 of chapter I. Running head: BRIHAT JATAKA [CH. I. Contains prose about Navamsa/Dwadasamsa lords, a Rasi Chakra table, verse 7 on Trimsamsas, and a Notes section. No Greek present. All text legible.
+obs The table cell label reads "Kanya" in the bottom-right but "Kannya" elsewhere in the prose -- kept as printed in each location.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-47.md -- transcription of scan page 47
+recommend check part-47.md against the scan for the table row layout, then continue with pg-048

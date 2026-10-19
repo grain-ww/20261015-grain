@@ -1,0 +1,19 @@
+format session-log-v1
+stamp 20261019.032925
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg 205 transcription
+prompt Read scan pg-205.png and write part-205.md with printed English transcription
+think Read image, identify printed page 166 running under Ch. 17 BRIHAT JATAKA
+think Four paragraphs: continuation of Moon-sign descriptions (Gemini tail, Cancer, Leo, Virgo)
+obs Printed page number 166 at top-left (rendered as "1c6" in scan but content confirms 166)
+obs Running head: BRIHAT JATAKA / [CH. 17.
+obs No Sanskrit or Greek text on this page; all English prose
+obs "belly-ache" and "tooth-ache" hyphenated as printed; kept as printed
+obs "will,out" on Virgo paragraph -- space before "out" missing in print; transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-205.md -- transcription output
+recommend check part-206.md booking to continue the Brihat batch sequence

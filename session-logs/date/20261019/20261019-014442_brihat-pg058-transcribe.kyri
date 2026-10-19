@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.014442
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 58 transcription
+prompt Read pg-058.png and transcribe printed English to part-58.md with heading, square-bracket notes, policy for Greek, mark illegible words.
+think Scanned page is printed page 17, running head BRIHAT JATAKA, CH. II. Content: planetary descriptions (sections 8-12 partial), one note (a). Page ends mid-sentence at bottom -- "that of" -- matching a cut page. No Greek on this page. No illegible words. All text clear.
+obs The note "(a)" on Jupiter's size is set off with extra space above -- treated as a block note, not inline. Preserved that spacing in the output with a blank line before section 11.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-58.md -- transcription of scan page 58, one reading pass
+recommend continue to pg-059.png -- next page carries the cut sentence forward

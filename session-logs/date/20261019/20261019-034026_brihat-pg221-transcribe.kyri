@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.034026
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-221 transcription
+prompt Read scan pg-221.png and write transcription to part-221.md
+think Read image, transcribed printed English text exactly as printed, one reading pass
+obs Page 178, ch. 19, BRIHAT JATAKA -- full text legible; no Greek; no illegible words; one noted print variant: "benfic" (sic) preserved as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-221.md transcription of scan page 221
+recommend commit the pending session logs and transcription files once the full batch is complete

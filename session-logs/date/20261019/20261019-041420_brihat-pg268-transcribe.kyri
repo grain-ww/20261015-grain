@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041420
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-268 transcribe
+prompt Read scan at pg-268.png and transcribe printed English to part-268.md
+think Scan shows printed page 225, CH. 27 header and CH. XXVII opening. One reading pass.
+obs Dik numbers table rendered as markdown table. "consonent" kept as printed (sic). "carefully" printed as "carefully" -- confirmed. No Greek on this page. No Sanskrit requiring transliteration.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-268.md -- transcription of scan page 268
+recommend check part-268.md against the scan for the Dik table alignment before committing the batch

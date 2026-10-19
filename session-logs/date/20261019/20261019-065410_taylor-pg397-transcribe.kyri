@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.065410
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 397 transcription attempt
+prompt Read scan pg-397.png and transcribe printed English to part-397.md
+think Opened the image; observed that the visible text is entirely bleed-through from the reverse leaf, mirrored and unreadable as recto text. The lower two-thirds of the page is blank, consistent with a section or chapter ending on page 397.
+obs Bleed-through reversal at this contrast and resolution cannot be read without reconstruction. Marking the full surface [illegible] is the honest call; inventing text from a mirror ghost would violate the one-reading-pass rule.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-397.md -- transcription note written, full page marked illegible
+recommend check-in -- confirm whether the source PDF has a cleaner recto for page 397, or whether this scan is correctly a near-blank end-of-section page; the bleed-through may resolve at higher contrast

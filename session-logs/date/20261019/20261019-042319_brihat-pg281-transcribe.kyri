@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042319
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat pg-281 transcribe
+prompt Read scan pg-281.png and transcribe printed English to part-281.md
+think Page is TABLE A: oblique ascension table, printed page labelled "II" at top center. Dense numerical table with zodiac sign columns (Aries through Pisces), Ghatikas and Vighatikas sub-columns, and Latitude rows 0-19. Title text in italic on left margin. Note at foot of title: Aghatika = 24 minutes, Vighatika = 24 seconds.
+obs Table cells are small and dense; some individual values carry uncertainty from print quality and scan compression. Recorded best-effort read with note on uncertainty. No Greek present. No Sanskrit present.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-281.md -- transcription of scan pg-281, TABLE A oblique ascension
+recommend check part-281.md cell values against a second reading pass when scan resolution permits -- dense table cells carry uncertainty

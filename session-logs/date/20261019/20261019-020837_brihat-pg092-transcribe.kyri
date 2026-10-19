@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.020837
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-092 transcribe
+prompt Read scan pg-092.png and write transcription to part-92.md
+think Scan is printed page 49, running head BRIHAT JATAKA, CH. 5. Text continues from previous page mid-sentence. Two stanzas visible: remainder of cot-defects passage and stanza 22 on midwives. Notes section begins. Page ends mid-sentence in note (a).
+obs No Greek present. Sanskrit terms: Moola Trikona, Lagna, Varaha Mihira, Swalpa Jataka -- transliterated as printed. Text ends mid-sentence at bottom of page; recorded as printed with no invented continuation.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-92.md -- transcription of scan page 92, printed page 49
+recommend transcribe pg-093 next to continue the interrupted note (a) text

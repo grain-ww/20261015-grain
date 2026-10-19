@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.034919
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-234 transcribe
+prompt Read scan image pg-234.png and transcribe printed English to part-234.md
+think Single reading pass of the scan; page is printed page 191, CH. 22, running head BRIHAT JATAKA
+think Page ends mid-note (a) with a catchword A at the foot -- continuation on next page
+obs Sanskrit terms Trimsamsa, Swakshetra, Ucha, Mulatrikona marked uncertain per policy
+obs No Greek on this page; catchword A at page foot left as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-234.md -- transcription written, one reading pass
+recommend transcribe pg-235 next -- page continues mid-note (a) and the batch is sequential

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.025452
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Brihat Jataka pg-156 transcribe
+prompt Read scan pg-156.png and transcribe printed English to part-156.md
+think Single reading pass; scan page 156 = printed page 113, running head BRIHAT JATAKA, chapter header CH. 11.
+obs Page carries two stanzas (stanza 1 close + note, stanza 2 + note). No Greek present. No Sanskrit terms requiring transliteration. One superscript apostrophe after "a" in "a good" rendered as plain "a good". Footnote markers (a) and (b) kept as printed. Asterisk after "case" in stanza 2 body kept as plain word (no footnote resolved on this page).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-156.md -- transcription written
+recommend check-in: confirm part-156.md matches expected batch coverage before committing the Brihat tablecloth batch

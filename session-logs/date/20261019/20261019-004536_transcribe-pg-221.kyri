@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.004536
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe scan page 221 -- Taylor Plato Wellcome 1793
+prompt Read pg-221.png and transcribe the printed English into part-221.md with heading, Greek policy, one reading pass
+think Read the image; identified printed page 190, running head THE PHAEDO
+think Main text: two lines of body text at top, then a long footnote filling the page
+think Greek passages in the footnote marked per policy as [Greek, not transcribed by policy]
+think Long-s written as s throughout; italics kept as markdown italics; line breaks follow the printed column
+obs Page ends mid-sentence with "But" -- catchword for following page
+obs Footnote references the Phaedrus and Olympiodorus on four modes of knowledge
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/auto/part-221.md -- transcription of scan page 221
+recommend transcribe next scan page in the batch (pg-222) to continue batch 011

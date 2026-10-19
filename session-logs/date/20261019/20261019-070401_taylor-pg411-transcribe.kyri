@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.070401
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 411 transcription
+prompt Read scan pg-411.png and transcribe printed English to part-411.md
+think One reading pass; Greek inline terms marked by policy; page ends mid-sentence with "which"
+obs Greek terms appear inline in italicized context (olws olikws, meros merikws, etc.) -- all marked not transcribed per policy
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-411.md -- transcription of printed page 380, INTRODUCTION.
+recommend commit the session logs batch and the Taylor pg-411 transcription when the batch is complete

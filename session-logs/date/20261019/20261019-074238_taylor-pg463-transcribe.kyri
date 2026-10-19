@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.074238
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 463 transcription
+prompt Read scan pg-463.png and write part-463.md with heading, printed text, and policy markers.
+think Printed page 432, running head INTRODUCTION. Single reading pass. Long-s rendered as s per instruction. No Greek on this page. Footnote asterisk retained inline.
+obs Text ends mid-sentence with catchword "ture" -- page break; noted by preserving "ture" at foot.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-463.md -- transcription of scan page 463, printed page 432
+recommend Transcribe the next scan page (pg-464) to continue the Brihat batch sequence.

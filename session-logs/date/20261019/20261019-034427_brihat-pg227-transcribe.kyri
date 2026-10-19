@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.034427
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-227 transcribe
+prompt Read scan pg-227.png and transcribe printed English to part-227.md
+think single reading pass; page 184 of printed book, ch. 20, running head BRIHAT JATAKA
+obs page ends mid-sentence at "the reverse is the case (b)" -- no closing punctuation on final line
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-227.md -- transcription of scan pg-227
+recommend continue to pg-228 to complete the interrupted passage at (b)

@@ -1,0 +1,91 @@
+`part-21.md` written. Printed page 12, running head INTRODUCTION. The page opens mid-paragraph on the "subtle connection" between planets and man, moves into a discussion of astronomical tables and the rule laid down for future astronomers, then presents a four-line Devanagari verse (marked as Sanskrit, not transcribed by policy), its English translation ("Since error in calculation is as sinful as the murder of a Brahmin..."), and closes mid-sentence on observatories and failing calendars.
+
+recommend: continue with scan page 22 (part-22.md) to carry the Introduction forward
+done 21
+Transcription written to `part-22.md`. The page is printed page 13, running head INTRODUCTION -- one full paragraph on the Ayanamsa, ending mid-sentence just before the table of lengths. No Greek on this page; Sanskrit terms (Nirayana Sphutam, Sayana Sphutam, Ayanamsa, Revati, Yogatara) were already romanised by the printer and are carried as printed.
+
+recommend transcribe the next batch page (pg-023 or equivalent) to continue the Ayanamsa table
+done 22
+Transcription written to `part-23.md`. The page is printed page 14, running head INTRODUCTION. It holds two short Ayanamsa difference tables (six sources, degrees/minutes/seconds columns), a connecting paragraph, and a larger planetary table (eight planets plus Moon's node, with day/hour columns for Bombay before, Madras-and-Combaconum after, and Benares after). Madras and Combaconum share a brace in both small tables; noted in square brackets. No Greek present.
+
+Recommend: Continue to pg-024.png, the next scan in the batch sequence, to keep the tablecloth draft moving forward.
+done 23
+`part-24.md` written. The page is printed page 15, running head INTRODUCTION. It carries:
+
+- Two short paragraphs on wrong almanac positions and the wrong Rasimana table
+- The six-row oblique-ascension table (Aries--Pisces, Ghatikas)
+- A longer paragraph on ignorance of local time and shadow-reckoning
+- A Devanagari line (marked as Sanskrit, not transcribed per policy, with uncertain romanisation note)
+- The opening of the Sravana quotation, cut at the page foot
+
+recommend: check part-24.md Devanagari note against owner preference for how to record the Sanskrit table-opener line
+done 24
+Transcription written to `part-25.md`. Printed page 16, running head INTRODUCTION. Two paragraphs: the first continues the critique of Lagna errors and poor astrologers concealing bad predictions; the second opens a new topic -- Prasna or Arudha Shastra (horary astrology) -- and breaks off mid-sentence at the page foot.
+
+One spelling variant kept as printed: "Yogotara" at line 5 where the rest of the page uses "Yogatara."
+
+recommend: continue to pg-026 to complete the Prasna / Arudha Shastra paragraph that breaks off here
+done 25
+`part-26.md` written -- printed page 17, INTRODUCTION., one reading pass. The page runs from "posed to move round the horizon..." through "...while the one deals with" (mid-sentence), with a signature mark "3" at the foot. Sanskrit terms (Angavidya, Cheshta Shastra, Rahu, Samhita) kept as printed; degree symbol rendered in prose per ascii-first; no Greek present.
+
+Recommend: commit the batch-021-040 draft and untracked session logs once the remaining pages in the batch are transcribed.
+done 26
+Transcription written to `part-27.md`. Printed page 18, running head INTRODUCTION. Two complete paragraphs (on horary astrology and Nadigrandhams) and one incomplete paragraph that ends mid-sentence -- "These numbers are the" -- with the text continuing onto the next page.
+
+One original typo kept as printed: "inportance." One apparent typesetting join kept as printed: "aset of."
+
+Recommend: transcribe pg-028 to continue the Nadigrandhams passage, which ends mid-sentence.
+done 27
+Part-28.md written. Printed page 19, running head INTRODUCTION -- the page covers a table of siderial periods for the seven planets, the Kalpa/Chaturyuga system with the Dwapara/Treta/Krita yuga table, and the Rasi Chakrams paragraph ending mid-sentence at the page foot. No Sanskrit or Greek on this page.
+
+Recommend: commit the batch-021-040 draft and session logs once remaining pages in the batch are transcribed.
+done 28
+Transcription written to `part-29.md`. Printed page 20, running head INTRODUCTION -- continuous prose on the arithmetic of Rasi Chakrams (arriving at 537477120), the argument against supposing a Nadigrandham covers a full Kalpa, and a footnote on telescopic planets. Italics marked with asterisks; superscripts as caret notation per ascii-first rule.
+
+recommend: check batch-021-040 draft log and commit the untracked session logs and draft files with a signed commit
+done 29
+Transcription written to `part-30.md`. Printed page 21, running head INTRODUCTION. The page covers Nadi-grandham amsas -- 150 parts per zodiac sign, 3,600 total horoscopes in the system -- and ends mid-sentence at "I long suspected that such a law."
+
+recommend: commit batch 021-040 draft and session logs once all pages in the batch are transcribed
+done 30
+Transcription written to `part-31.md`. Printed page 22, running head INTRODUCTION -- the text continues the discussion of Nadigrandhams ending mid-sentence at the bottom of the page. No Greek, no illegible words; "Nadigraud-hams" retained as printed (apparent line-break misprint in the original).
+
+recommend: transcribe pg-032 next to continue the batch-021-040 run.
+done 31
+Transcription written to `part-32.md`. The page is printed page 23, running head INTRODUCTION -- a continuous prose passage on the Nadigrandham method, closing mid-sentence at the foot with "the Brihat Jataka of Varaha Mihira, it is"; footnote about the office fee (Rs. 3) captured below a rule.
+
+recommend: commit the batch-021-040 draft and session logs now that page 32 is done and the untracked files accumulate
+done 32
+`part-33.md` written. Printed page 24, running head INTRODUCTION. The two-line Sanskrit verse is marked as not transcribed. No Greek appeared on this page. Two names are left as printed -- "Kerne" and "Leydon" (likely Kern and Leiden by modern spelling) -- with a log note.
+
+recommend: continue with pg-034 to maintain batch momentum.
+done 33
+Transcribed. Printed page 25, running head INTRODUCTION -- one column of clear type, fully readable. The page ends mid-sentence ("The appendix to the translation will contain numerous") and I kept it there without invention. Sanskrit terms kept as printed; one likely misprint (Anisbtadhyaya for Anishtadhyaya) left as-is per policy.
+
+Recommend: commit batch 021-040 draft and session logs once all pages in the batch are transcribed.
+done 34
+Transcribed. Printed page 26 is the final page of the Introduction -- short, clear text, no Greek or Sanskrit, lower half of the scan blank. File written to `part-35.md`.
+
+recommend: commit the batch-021-040 draft and session logs once all pages in the batch are done
+done 35
+`part-36.md` written. The page is an alphabetical index (sections A--D) of astrological terms with chapter and stanza references. No Greek characters appear in the body text -- the "Akokera" entry names Greek origin in English prose only, so no policy marker was needed. All Sanskrit terms were already romanized in the original and kept as printed.
+
+recommend: commit batch-021-040 draft and session logs once all pages in the batch are transcribed
+done 36
+`part-37.md` written -- index entries D through G, letters-section headers E, F, G, two-column Ch./Stanza layout preserved. One keeper note: "planetery" in the Garments entry is a printing variant; kept as printed.
+
+recommend: continue with pg-038 to advance the batch 021-040 run.
+done 37
+`part-38.md` written. Page iii of the Astrological Terms index, letters H through L -- 20 entries across sections H, I, J, K, and L. All text read cleanly; no illegible words. Greek names in the entries (Hridroga, Jituma, Juka, Kourpya, Kria, Leya) appear as transliterated English labels within the printed glossary, not as Greek script, so no `[Greek, not transcribed by policy]` marks were needed.
+
+recommend: continue with pg-039 scan if the batch continues, or commit batch 021-040 draft when all pages done
+done 38
+`part-39.md` written -- printed page iv, index sections M, N, and P, three columns (entry, chapter, stanza). No Greek script appeared on this page; the Pathona/Virgo entry names the sign in English only.
+
+recommend check part-39.md against the prior batch draft (002-batch-021-040.md) to confirm this page is not yet included there
+done 39
+`part-40.md` written. The page is an index section covering letters Q through S -- two print-spacing faults ("s rength", "define d") are kept as printed, and the ambiguous superscript on the Streegraha row is flagged `[?]`.
+
+recommend commit batch 021-040 draft and session logs once all forty part-*.md files are confirmed written
+done 40
+loop finished 21..40

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.054503
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 306
+prompt Read scan pg-306.png and write the printed English to part-306.md
+think Page 306 is printed page 275, running head INTRODUCTION. Two paragraphs plus a footnote and a catchword.
+obs One inline italic phrase carries a Greek phrase immediately after it; policy is to mark it as not transcribed. Catchword "cloud" at the foot is part of the printed text and kept.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-306.md -- transcription of scan page 306
+recommend check scan page 307 (pg-307.png) is next in the batch, or commit the completed batch if 306 is the last page

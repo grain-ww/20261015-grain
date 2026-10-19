@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023032
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-122 transcribe
+prompt Read scan pg-122.png and write part-122.md with printed English transcribed under the standard heading
+think Image is printed page 79, running head BRIHAT JATAKA, CH .8]. Contains: continuation of antardasa rule 4 (fractions), note (a) with numerical example working 12:6:4:3, rule 5 naming Sampoorna / Rikta / Anishta, and the first note (a) for rule 5.
+obs Fractions in the original are set as small stacked type; rendered as n/d in markdown. Word "occupyng" appears without second 'i' as printed; kept as printed. "knowns" appears instead of "known as" -- kept as printed. Page-foot numeral 11 is a section or chapter continuation marker, not a page number; noted in brackets.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-122.md one-pass transcription of pg-122 scan
+recommend commit the open session-log batch (pg021 through pg122) once the full Brihat transcription run is complete

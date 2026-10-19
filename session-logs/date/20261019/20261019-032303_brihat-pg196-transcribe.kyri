@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.032303
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status unverified
+voice Kyri
+title Brihat Jataka scan page 196 transcribe
+prompt Read scan pg-196.png and transcribe printed English to part-196.md
+think Scanned image shows printed page 153, ch. 14, running head BRIHAT JATAKA -- eleven planetary-combination entries (7) through (17). One word cut at foot of page: "physiqu[e]" -- final letter lost to scan edge. No Greek present. Sanskrit: "Atma" transliterated and left unmarked as it is an established English rendering in the source text. No illegible words beyond the cut word.
+obs The word "physiqu" at the last line is clipped; bracketed [e] to signal the supplied letter rather than inventing silently.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-196.md -- transcription of scan page 196
+recommend check-in -- confirm bracketed [e] on "physiqu[e]" is the preferred treatment for clipped words at page edges

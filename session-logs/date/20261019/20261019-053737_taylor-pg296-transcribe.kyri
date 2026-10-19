@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.053737
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 296
+prompt Read scan pg-296.png and write transcription to part-296.md
+think Scanned page is printed page 165, running head INTRODUCTION -- Taylor Plato 1793
+think Text is continuous prose; no Greek appeared on this page; no Sanskrit present
+think Page ends mid-sentence with catchword "follows" at foot
+obs Long-s rendered as s throughout per instruction; italic words kept in markdown italics
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-296.md -- transcription of scan page 296
+recommend commit the open session logs and tablecloth batch files once the full Brihat run is complete

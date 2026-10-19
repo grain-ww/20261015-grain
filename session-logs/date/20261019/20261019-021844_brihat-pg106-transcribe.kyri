@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.021844
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status identified from system-reminder
+voice Kyri
+title Brihat Jataka pg-106 transcribe
+prompt Read scan pg-106.png and transcribe printed English to part-106.md
+think scanned page is printed page 63, chapter 7, running head BRIHAT JATAKA
+think content: continuation of Navamsa reduction rule, notes (a) and (b), then stanza 5 on maximum life of man/animals, notes, stanza 6 on 120-year maximum condition
+obs italicised phrase "the rising sign" marked with asterisks as in the original
+obs footnote reference "/2 years" read as "12 years" -- the leading digit was broken at the line margin; context (dog lifespan) confirms 12
+obs page ends mid-sentence at stanza 6, no closing punctuation -- transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-106.md -- transcription of scan page 106
+recommend transcribe pg-107 next; stanza 6 continues on that page

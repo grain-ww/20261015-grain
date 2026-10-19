@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.060848
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 337
+prompt Read scan pg-337.png and transcribe printed English to part-337.md
+think Single reading pass of the scan image; printed page 306, running head THE PARMENIDES
+think No Greek present on this page; no Sanskrit present; no illegible words found
+think Long-s rendered as plain s throughout per instruction
+think Italics preserved with markdown asterisks as printed (the one, many, similitude, dissimilitude, multitude)
+obs Page ends mid-sentence with "ticulars:" -- catchword continues on next page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-337.md transcription written
+recommend transcribe scan page 338 to continue the Parmenides batch

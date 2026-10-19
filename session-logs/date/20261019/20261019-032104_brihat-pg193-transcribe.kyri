@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.032104
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 193 -- transcribe
+prompt Read pg-193.png and transcribe printed English to part-193.md
+think Single reading pass; printed page 150, running head BRIHAT JATAKA, Ch. 14
+think Paragraphs (9) through (19): four-planet Sun combinations and their effects
+think No Greek present; no Sanskrit present; no illegible words
+obs "truthful" printed with a comma after it (truthful,) -- kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-193.md -- transcription written
+recommend commit the day's session logs and scratchpad batch when the full run is complete

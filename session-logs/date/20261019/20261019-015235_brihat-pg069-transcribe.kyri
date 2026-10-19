@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015235
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-069 transcribe
+prompt Read scan at pg-069.png and transcribe printed English to part-69.md
+think Single reading pass; image is clear; no Greek on this page; Sanskrit terms (Navamsa, Vargottamabhaga, Drekkana) transliterated as printed
+obs Printed page 26, running head BRIHAT JATAKA, CH. 4; stanzas 7 and 8 plus Notes (a); no illegible words; one superscript 'e' in 'tree' rendered as plain 'tree'
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-69.md transcription written
+recommend check-in -- next batch page (pg-070) is ready to transcribe when Keaton continues the series

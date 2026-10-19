@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.024953
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 149 transcription
+prompt Read pg-149.png and transcribe printed English to part-149.md
+think Single reading pass; printed page 106, running head BRIHAT JATAKA, CH. 9
+think Five sections: Pindayurdaya summary, then Dhruvayurdaya, Rasmikayurdaya, Amsakayurdaya, Ashtakavargayurdaya
+obs No Greek present; Sanskrit names transliterated as printed; no illegible words
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-149.md -- transcription written
+recommend continue with next scan page in the Brihat batch sequence

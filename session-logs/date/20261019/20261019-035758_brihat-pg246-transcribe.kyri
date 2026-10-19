@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.035758
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 246 transcription
+prompt Read scan pg-246.png and transcribe printed English to part-246.md
+think Scan shows printed page 203, ch. 24, BRIHAT JATAKA -- full page readable
+think Text covers Trimsamsa effects for Sagittarius/Pisces and Capricorn/Aquarius rising, sloka 6, 7, 8 (partial)
+think No Greek on this page; Sanskrit terms (Trimsamsa, Navamsa) transliterated as printed
+obs Page ends mid-sentence at sloka 8 -- carried to next scan
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-246.md transcription of scan pg 246
+recommend transcribe pg-247 next to continue sloka 8 which breaks at the page foot

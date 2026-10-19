@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.030104
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-165 transcribe
+prompt Read scan pg-165.png and write part-165.md with printed English transcription
+think Single reading pass; printed page 122, running head BRIHAT JATAKA, ch. 12
+think Content: continuation of Nabhasa yoga count arithmetic, then notes on Asraya and Dala yogas; commentator breakdown Akriti 20, Sankhya 7, Asraya 3, Dala 2
+obs No Greek on this page; Sanskrit terms (Rajju, Musala, Nala, Srikor Mala, Sarpa, Kendras) transliterated and kept as printed; no illegible words
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-165.md -- transcription of scan page 165
+recommend continue with pg-166 scan if available, following the same single-pass transcription rule

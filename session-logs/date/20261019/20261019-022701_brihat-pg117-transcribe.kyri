@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.022701
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-117 transcribe
+prompt Read scan pg-117.png and write transcription to part-117.md
+think Read image; transcribe printed English; note duplicate section number 23 (printer error, kept as printed); Sanskrit terms already in Roman script, kept as printed
+obs Printed page 74, running head BRIHAT JATAKA, CH. 7. Sequence runs items 20-25 then a second 23 -- likely a compositor error; kept the label as printed and noted it in chat.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-117.md -- transcription of scan page 117
+recommend commit the session logs from today's brihat batch once all pages are done

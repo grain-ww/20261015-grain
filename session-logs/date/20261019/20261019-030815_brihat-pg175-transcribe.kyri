@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.030815
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-175 transcribe
+prompt Read scan pg-175.png and write transcription to part-175.md
+think image is printed page 132, running head BRIHAT JATAKA, CH. 12 -- stanzas 16-18 and notes, Akriti and Sankhya yogas
+obs page ends mid-sentence at stanza 18, last word "servants" -- consistent with prior batch pattern
+file /tmp/.../scratchpad/all/part-175.md -- transcription of scan page 175
+recommend commit the open session logs from today's brihat batch before the next transcription round

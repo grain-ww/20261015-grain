@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.055957
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 325 transcription
+prompt Read scan pg-325.png and write transcription to part-325.md
+think Single reading pass; printed page 294, running head INTRODUCTION
+think Long-s rendered as s throughout per standing instruction
+think No Greek present on this page; no Sanskrit present
+think Text ends mid-word "intelligible" at page foot -- carried to next page
+obs Page is clean and legible; no illegible words found
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-325.md -- transcription written
+recommend Transcribe pg-326 to continue the Damascius / Chaldean passage

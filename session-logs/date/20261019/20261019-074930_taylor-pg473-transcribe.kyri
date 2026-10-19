@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.074930
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 473
+prompt Read scan pg-473.png and write part-473.md with printed English transcription
+think Single reading pass; image is clean 18th-century print, long-s already written as s per policy
+obs Printed page 442, running head THE TIMAEUS; Socrates speaks then Hermocrates begins; page ends mid-sentence "prior / to"
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-473.md -- transcription written, one reading pass
+recommend check part-474 booking to continue the Hermocrates speech that ends mid-sentence here

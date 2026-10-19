@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.014528
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-059 transcribe
+prompt Read scan pg-059.png and transcribe printed English to part-59.md
+think Single reading pass; page is printed page 18, running head BRIHAT JATAKA, CH. II
+obs Page ends mid-sentence at "330 degrees, and" -- text continues on next scan
+obs Degree symbols rendered as plain "degrees" per ascii-first rule
+obs Sanskrit season names kept as printed: Sisira, Vasantha, Greeshma, Varsha, Sarat, Hemanta
+obs No Greek on this page; footnote (a) present; section 13 begins partway down
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-59.md written
+recommend transcribe pg-060 to continue the interrupted notes section on planetary aspect points

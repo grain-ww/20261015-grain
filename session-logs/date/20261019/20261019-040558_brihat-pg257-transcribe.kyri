@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.040558
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default
+voice Kyri
+title Brihat Jataka pg-257 transcribe
+prompt Read scan pg-257.png and transcribe printed English to part-257.md
+think Single reading pass; printed page 214, Chapter XXVI On Lost Horoscopes
+obs Page ends mid-sentence at bottom ("if the rising Dwada-"); transcribed as printed including the break
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-257.md -- transcription of scan page 257
+recommend Continue with pg-258 to complete the sentence that breaks at the bottom of this page

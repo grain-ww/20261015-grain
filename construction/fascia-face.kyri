@@ -1,0 +1,7 @@
+# Fascia face -- the connective-tissue health grade, four decimals.
+# Rule: lane the face as light on the cloth; move it at most 1.0000 in a round that runs
+# the witness. Seeded at 70.0000 as a starting place for this new tree; the full window
+# wiring of tools/fixtures/f/fascia_metric.sh is a later build lap.
+face 70.0000
+seeded 20261015
+tool tools/fixtures/f/fascia_metric.sh

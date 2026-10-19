@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.010431
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status unverified
+voice Kyri
+title Brihat Jataka pg-010 transcribe
+prompt Read scan pg-010.png, transcribe printed English to part-10.md with heading, keep printed text as printed, mark Greek as policy, mark illegible words.
+think Page is the opening of the Introduction (printed page not numbered; heading is INTRODUCTION). Two paragraphs, text cuts off mid-word at bottom ("re-"). One italic word: statements. No Greek or Sanskrit on this page. No illegible words.
+obs The printed page number is absent -- the heading page of the Introduction carries no running number in the image; labelled [1] in brackets to signal uncertainty. Text ends mid-line at the page break, consistent with the transcription task (not an error in the source).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-10.md -- transcription of scan page 10
+recommend continue with pg-011.png to capture the continuation of the Introduction text cut off at "re-"

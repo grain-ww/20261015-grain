@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.024453
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-142 transcribe
+prompt Read scan pg-142.png and transcribe printed English to part-142.md
+think Scan shows printed page 99, Ch. 9, running head BRIHAT JATAKA. Content: a table (A.V. of Mars after Reduction No. I) followed by prose section headed Reduction No. II. Last sentence trails off with one illegible word before ". V. table of Mars will stand thus :--". No Greek present. No Sanskrit present.
+obs The table layout is irregular -- the label spans rows 2 and 3; rendered as a markdown table with merged-cell note.
+obs "Sagittari" appears in print without the trailing "i" of "Sagittarii" -- kept as printed.
+obs Last line: one word between "II" and ". V." is unclear in the scan; marked [illegible].
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-142.md transcription of scan page 142
+recommend continue with pg-143 -- next page in the Brihat batch is not yet transcribed

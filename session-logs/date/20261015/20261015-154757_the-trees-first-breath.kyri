@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261015.154757
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named claude-opus-4-8 amid session /model toggling; honest record is unverified
+voice Kyri
+title the tree's first breath
+prompt Keaton: begin a new, deliberate GPLv3 grain tree for Caravan on seL4 in Rye, built slowly and read every line.
+think Born from the 20260817-grain field as a fresh simple system, per Gall's Law, rather than a rewrite of the overgrown one.
+think Initial commit was nearly-blank by design -- LICENSE, minimized context, README -- then a self-contained rule set, then foundations, SOURCE, and this skeleton.
+obs Keys armed from the field and the maintainer's own key; every commit here is signed. Toolchain bootstrap for Glow/Rye/Rishi deferred to the first build lap to keep the tree readable while small.
+file README.md -- the front door and the order we build in
+file foundations/20261015-000001_the-immutable-date-prefix.md -- the organizing idea of the move
+recommend keep-going -- next is the tooling seed (publish-seed, fascia at 70.0000) and the upstream repos

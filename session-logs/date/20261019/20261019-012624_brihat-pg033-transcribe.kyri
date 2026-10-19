@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012624
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Brihat Jataka scan page 33 transcription
+prompt Read pg-033.png and transcribe printed English to part-33.md
+think One reading pass; Sanskrit verse (two lines, Devanagari) marked as not transcribed per policy; no Greek on this page; no illegible words
+obs Page is printed page 24, running head INTRODUCTION; text continues from prior page mid-sentence; Sreepateeyam, Mudraksari, Panchasindhantika spelled as printed; "Kerne" and "Leydon" are the spellings as printed (likely Kern / Leiden by modern convention -- left as printed)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-33.md -- transcription of scan page 33
+recommend continue with pg-034 to maintain batch momentum

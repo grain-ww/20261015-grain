@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042136
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 279 transcription
+prompt Read pg-279.png and transcribe to part-279.md
+think Scan shows printed page 236, running head BRIHAT JATVKA, chapter marker [CH. 28. -- two short paragraphs and the word END, rest of page blank
+obs The repeated "the the" in stanza 10 is present in the printed text and kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-279.md -- transcription of final page of text; page is the last content page of the book
+recommend check whether pg-279 is the last scan in the batch and close the batch if so

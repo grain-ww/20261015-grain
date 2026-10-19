@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.010816
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session confirmed
+voice Kyri
+title Brihat jataka pg-015 transcription
+prompt Read scan pg-015.png and transcribe printed English to part-15.md
+think Scan shows printed page 6, running head INTRODUCTION. Text continues from prior page mid-sentence. Two paragraphs complete on this page; second ends mid-sentence at page foot.
+obs "Leena" and "Tigris" appear as river-name comparisons for karmic current strength -- kept as printed. No Greek on this page. Sanskrit: karma / karmic, kept in italics as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-15.md -- transcription of scan page 15
+recommend transcribe pg-016 to continue the Brihat jataka batch in sequence

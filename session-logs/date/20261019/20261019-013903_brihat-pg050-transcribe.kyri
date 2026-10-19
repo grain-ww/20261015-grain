@@ -1,0 +1,19 @@
+format session-log-v1
+stamp 20261019.013903
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka scan page 50 transcription
+prompt Read pg-050.png and transcribe printed English to part-50.md
+think One reading pass; image is CH. I. / BRIHAT JATAKA. / printed page 9
+think Sections: (c) direction signs, (d) Drekkana example, stanza 12 with notes (a)(b)(c), stanza 13 opening
+obs "Tarus" kept as printed (apparent misprint for Taurus)
+obs "sagittari" lowercase in note (c) kept as printed
+obs "eharya" in "Satyaeharya" -- possible line-break artifact; kept as printed
+obs Page ends mid-sentence after "The 7th or" -- bottom of scan
+obs Uccha is Sanskrit; marked inline as plain English loan word, no transliteration needed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-50.md -- transcription written
+recommend continue with pg-051.png, the next scan in the Brihat batch

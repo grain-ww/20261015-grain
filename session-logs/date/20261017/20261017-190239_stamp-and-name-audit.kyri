@@ -1,0 +1,23 @@
+format session-log-v1
+stamp 20261017.190239
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title audit of check-in names against stamp-and-name and the rye chronological versioning rule
+prompt Keaton: audit the check-ins for ascending ladder numbers, apply the chronological rule, audit enforcement in the clean slate, and push.
+think Searched the clean slate for ordinal names and ordinal wording. One check-in file and its session log carried an ordinal suffix, and the check-in's title and body said second and first.
+think Renamed the check-in to a stamp-and-name form and repointed its title and body to the 183219 check-in. Renamed its session log the same way and repointed the index row.
+obs The renames are git mv breaches: the elder names stay in history, and no force-push was needed. Both private remotes take a fast-forward.
+obs Enforcement in the clean slate: the stamp-and-name rule page is present, but no witness or commit hook runs, because the clean slate has no tools directory and no hooks path. The rule is held by habit here, not by a guard.
+obs Round and count numbers in the atlas (round 9, 12, 5) are census readings from commit counts, which the stamp-and-name rule allows. Only ordinal names were retired.
+file projects/20261015-grain/date/20261017/20261017-185823_atlas-check-in.md -- renamed from the ordinal -2 name and retitled by stamp
+file session-logs/date/20261017/20261017-185823_molt-breach-lens-and-atlas.kyri -- renamed from the ordinal name
+file session-logs/date/README-index-20261017.md -- the index row repointed to the renamed log
+file session-logs/date/20261017/190239_stamp-and-name-audit.kyri -- this audit log
+recommend check in (Claude) -- decide whether to copy a stamp-and-name witness into the clean slate, since no guard runs there.

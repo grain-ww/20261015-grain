@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.062309
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe scan page 356 -- Taylor Plato Wellcome 1793
+prompt Read pg-356.png and write part-356.md with heading and printed English text
+think Single reading pass; printed page 325, running head OF PLATO.; long s written as s per rule
+obs No Greek on this page; no illegible words; catchword "the" at foot with signature "Y 3"
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-356.md -- transcription of scan page 356
+recommend continue to next scan page in the batch, if one is queued

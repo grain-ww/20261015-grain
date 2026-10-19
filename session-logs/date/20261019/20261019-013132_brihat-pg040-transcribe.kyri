@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.013132
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka scan page 40 transcription
+prompt Read pg-040.png and transcribe printed English to part-40.md
+think Page is an index page (astrological terms, letters Q-S). Two print faults kept as-is: "s rength" (Quadruped line) and "define d" (Rikshasandhi line). Ambiguous superscript after "planets" in Streegraha row marked [?]. No Greek on this page. All Sanskrit terms appear in the index entries themselves; they are kept as printed, not transliterated separately.
+obs Index page -- no body text, only term/chapter/stanza columns. Spacing faults in original preserved faithfully.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-40.md -- transcription of scan page 40
+recommend commit batch 021-040 draft and session logs once all forty part-*.md files are confirmed written

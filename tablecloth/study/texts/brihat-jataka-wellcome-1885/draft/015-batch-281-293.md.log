@@ -1,0 +1,57 @@
+Transcribed to `part-281.md`. The page is printed page II -- TABLE A, giving oblique ascension times for each zodiac sign across latitudes 0-19 degrees, with columns for Ghatikas (G.) and Vighatikas (V.) per sign. The table is dense small print; individual cell values carry some uncertainty from scan compression, noted in the file.
+
+recommend: check part-281.md cell values against a second reading pass when scan resolution permits -- dense table cells carry uncertainty
+done 281
+Page 282 is a pure numerical table -- running head "III", no prose, no Sanskrit or Greek. The body is roughly 26 rows of 2-digit values (range 0-59), with alternating short rows that appear to be correction values. Many individual cells are uncertain at this scan resolution; the transcription marks those with [?] throughout.
+
+`part-282.md` written. Session log at `session-logs/date/20261019/20261019-042430_brihat-pg282-transcribe.kyri`.
+
+recommend: verify uncertain cell readings against a cleaner scan or a second copy of Brihat Jataka 1885 Madras.
+done 282
+Transcription written to `part-283.md`. The page is TABLE B -- a 12x12 grid shewing oblique ascension times between zodiac signs for latitude 11 degrees, with each cell holding two values (G. and V., almost certainly Ghatikas and Vighatikas). The outer rows (Aries, Taurus, Aquarius, Pisces) read with reasonable confidence; several inner cells in Cancer through Capricorn were too small and compressed to read reliably and are marked `[illegible]`.
+
+recommend: check part-283.md cell values against a second scan pass or the elder tree's copy if one exists, because the rotated small-print table leaves several inner cells uncertain.
+done 283
+Transcription written to `part-284.md`. The page is Table C -- "Shewing the Antardasa periods of the Various Nakshatra Dasas" -- printed sideways, covering seven Dasa lords (Sun 6 yrs, Moon 10 yrs, Jupiter 16 yrs, Rahu 18 yrs, Mars 7 yrs, Saturn 19 yrs, Venus 20 yrs) with Yrs./Ms./Ds. columns for each Antardasa. Many digit cells are small and blurred; those rows carry `[?]` markers. Pencil annotations at the foot were not transcribed.
+
+**recommend:** check part-284.md digit columns against a clean reference print of Table C to resolve [?] marks before the batch is closed.
+done 284
+Transcription written to `part-285.md`. The page is printed page VI, headed "To Find Out the Correct Local Time -- I. By Day." It describes building an inclined sundial from a plank with semi-circles, then four numbered notes on finding latitude, making a wedge support, marking the east-west line, and levelling the ground. One printer typo ("cerrectly") and one apparent word-split ("oblong ular") kept as printed.
+
+recommend check part-285.md against the scan for any line missed in the lower notes section before closing the batch
+done 285
+`part-286.md` written. The page is Table D (heading VII) -- a full-page landscape numerical table titled "Table Shewing the Equation of Time, for India." It has 31 date rows and 12 month columns, each cell giving the equation of time in minutes and seconds. No prose body; the only English text is the title, column headers, and the Roman numeral heading.
+
+One anomaly to flag: FEB row 22 reads `23 56` in the scan, which is likely a print artefact (all other February values cluster around 13-14 minutes). Transcribed as read; worth a second-pass check.
+
+recommend: check part-286.md against a second-pass read of the scan for the anomalous FEB row-22 value (23 56) and any sign-change positions that may have been mis-placed
+done 286
+Transcription written to `part-287.md`. The page carries chapter VIII, section "II. AT NIGHT" -- instructions for finding the meridian at night using plumblines, strings, and observation of stellar transits. One note kept: the opening bracket before "looking" appears in the printed text; "regidly" retained as printed. No Greek or Sanskrit on this page.
+
+recommend: commit the session log batch when the day's pages are complete
+done 287
+Transcription written to `part-288.md`. The page is Table E -- a numerical table shewing the time of culmination of the Sun and the Vernal Equinox, covering January through December in roughly six-day steps. Both panels were transcribed into markdown tables. One figure in the January row 25 Sun's-culmination column was slightly unclear in the print and is noted inline.
+
+recommend check-in -- confirm part-288.md rows match the scan before committing the batch
+done 288
+`part-289.md` written. The page is Table F -- star culmination times for 41 nakshatra stars after the Vernal Equinox, with a short precession note, and the Wellcome Library stamp noted. This appears to be the final page of the scan set.
+
+recommend confirm batch is complete -- pg-289 appears to be the final page of the Brihat Jataka scan set
+done 289
+Scan page 290 is blank -- no printed text present. The output file carries a single bracketed note to that effect.
+
+recommend: continue to next scan page in the Brihat batch
+done 290
+Scan page 291 is entirely black -- the image holds no recoverable text. `part-291.md` records that plainly, and the session log is filed.
+
+recommend: check pg-291 source scan for an alternate exposure or a re-scan; no text was recoverable from this image
+done 291
+`part-292.md` is written with a note that the scan is entirely black -- no text was recoverable. The session log is at `session-logs/date/20261019/20261019-043235_brihat-pg292-transcribe.kyri`.
+
+recommend: Check whether pg-292.png was captured correctly and re-scan if needed; the image is fully black.
+done 292
+Scan page 293 is the back cover -- solid dark green cloth, no printed text. The file records that finding; nothing to transcribe.
+
+recommend check-in -- pg-293 is the last scan in the batch; confirm whether the transcription run is complete or whether any pages were skipped
+done 293
+loop finished 281..293

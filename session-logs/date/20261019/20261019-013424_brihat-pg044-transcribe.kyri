@@ -1,0 +1,21 @@
+format session-log-v1
+stamp 20261019.013424
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Brihat Jataka pg-044 transcribe
+prompt Read scan pg-044.png and transcribe printed English to part-44.md
+think Page 44 is printed page 3 of Brihat Jataka, running head BRIHAT JATAKA., chapter I notes.
+think Content: Rasi/Sign/Part-of-body table (12 signs), then 27-asterism table with Greek star letters.
+think Greek letters (alpha, beta, gamma, delta, epsilon, eta, iota, lambda, sigma, zeta) appear throughout asterism column -- policy says do not transcribe Greek, write placeholder.
+think Asterism column star names include: Arietis, Tauri, Alcyone, Aldebaran, Orionis, Gemini Pollux, Cancri, Hydrae, Leonis, Regulas, Corvi, VirginiSpica, Bootis Arcturus, Librae, Scorpionis, Aritares, Sagittarii, Aquilae Atair, Delphini, Aquarii, Pegasi, Andremedae, Piscium.
+think Page ends mid-sentence: "These asterisms or lunar mansions are divided each into four equal parts known as Nakshatrapadas. There"
+obs VirginiSpica printed without space -- kept as printed.
+obs "Andremedae" -- likely Andromedae; kept as printed.
+obs "Staabhishak" -- kept as printed (possibly Shatabhishak variant).
+obs "Aritares" -- likely Antares; kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-44.md -- transcription written, one reading pass
+recommend transcribe pg-045 next to continue the Nakshatrapadas sentence and chapter I notes

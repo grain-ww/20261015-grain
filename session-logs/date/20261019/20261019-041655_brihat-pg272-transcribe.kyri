@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.041655
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-272 transcribe
+prompt Read scan pg-272.png and transcribe printed English to part-272.md
+think Single reading pass; printed page 229, ch. 27, BRIHAT JATAKA
+think Items 15-19: Drekkana descriptions for Leo 3rd, Virgo 1st/2nd/3rd, Libra 1st
+obs No Greek on this page; no illegible words; one hyphenated line-break retained (hold-/ing)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-272.md -- transcription written
+recommend continue with next scan page in the batch

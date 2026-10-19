@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.023115
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Brihat Jataka pg-123 transcribe
+prompt Read scan pg-123.png and transcribe to part-123.md with heading and policy notes
+think Single reading pass; image is printed page 80, CH. 8, BRIHAT JATAKA -- dasa classifications (Purna, Rikta, Avarohini, Madhyama, Arohini, Adhama, Misraphala) and footnotes. No Greek present. Sanskrit terms in italics as printed. Bottom of page cuts mid-sentence on note (b).
+obs Page ends mid-sentence -- "a friendly house or his Moolatrikona or exaltation house" -- continuation on pg-124.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-123.md transcription of scan pg-123
+recommend transcribe pg-124 to continue the cut note (b) and resume the batch sequence

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012020
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-025 transcription
+prompt Read scan pg-025.png and transcribe printed English to part-25.md
+think Read image; identified printed page 16, running head INTRODUCTION.; transcribed two paragraphs in full; page ends mid-sentence (sup-)
+obs One spelling variant in source: "Yogotara" (line 5) vs "Yogatara" used elsewhere -- kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-25.md single-pass transcription of scan page 25
+recommend continue to pg-026 to complete the Prasna / Arudha Shastra paragraph that breaks off here

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.005917
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Transcribe Brihat jataka scan page 1
+prompt Read pg-001.png and write a markdown transcription to part-1.md, heading with scan page label and running head.
+think The image is the Wellcome Collection catalog leaf -- library metadata prepended to the scan, not a printed page of the 1885 book itself. No page number is printed; no running head. The contributor diacritics on Varahamihira are in the catalog text but cannot be confirmed from this leaf alone; marked uncertain.
+obs Scan page 1 is a modern catalog page, not a page from the original 1885 printed text. The book's own pages begin later in the scan sequence.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-1.md -- transcription of scan page 1 (catalog leaf)
+recommend continue to pg-002.png, which is likely the first leaf of the 1885 printed text proper

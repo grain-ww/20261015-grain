@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.032754
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg203 transcribe
+prompt Read scan pg-203.png and transcribe printed English to part-203.md
+think Single reading pass; printed page 160, CH. 16, asterisms P. Ashadha through Revati (stanzas 11-14 and their unparagraphed couplets)
+obs "posses" retained as printed (likely compositor's omission of one s); "virtue" read from "virue" with damaged letter -- retained as best reading; paragraph numbers 11-14 present with stanza 13 unnumbered in scan (reads "13." with damaged digit -- transcribed as 13)
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-203.md -- transcription target
+recommend check pg203 against prior batch sequence and book into tablecloth batch when the run-all driver next fires

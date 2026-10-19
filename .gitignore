@@ -1,0 +1,30 @@
+# This tree lives inside a sandboxed home that also holds keys, the editor, and
+# personal files. Deny everything at the root, then allow the project back in,
+# one path at a time. A new top-level directory is listed here when it is born.
+/*
+
+!/.gitignore
+!/LICENSE
+!/README.md
+!/SOURCE.md
+!/context/
+!/tablecloth/
+!/nova/
+# The private tablecloth stays out of git. An allow above brings the whole folder back in, so this line takes the private part out again.
+/tablecloth/private/
+!/.claude/
+!/foundations/
+!/docs-geode/
+!/yonder/
+!/bounds/
+!/tablecloth/study/
+!/expanding-prompts/
+!/session-logs/
+!/active-development/
+!/active-designing/
+!/gratitude/
+!/construction/
+# The private room: the folder stays out of git, and only its template comes back in.
+!/private/
+/private/*
+!/private/README.md

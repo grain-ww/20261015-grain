@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.031202
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-180 transcription
+prompt Read scan pg-180.png and transcribe printed English to part-180.md
+think Single reading pass; page is printed page 137, running head BRIHAT JATAKA, chapter 13
+think Content: stanza 3 on Sunapha/Anapha/Durudhura/Kemadruma yogas, followed by notes (a)-(f)
+think No Greek on the page; Sanskrit names transliterated as printed; no illegible words
+obs Note (d) has a likely misprint in the original: "known an Kemadruma" -- transcribed as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-180.md transcription written
+recommend check pg-181 scan when ready for the next batch page

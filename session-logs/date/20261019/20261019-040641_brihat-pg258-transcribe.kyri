@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.040641
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-258 transcription
+prompt Read scan pg-258.png and transcribe printed English to part-258.md
+think Single reading pass; printed page 215, ch. 26, running head BRIHAT JATAKA.
+think Sanskrit terms (Prasna Lagna, Drekkana, Ritu, Greeshma, Samhita) kept as printed.
+obs Page ends mid-sentence at "Greeshma," -- continuation on next scan.
+obs No Greek on this page. No illegible words.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-258.md -- transcription written
+recommend transcribe pg-259 to continue the interrupted sentence on Ritu/Greeshma

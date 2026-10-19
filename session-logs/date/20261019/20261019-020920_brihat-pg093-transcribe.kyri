@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.020920
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-093 transcribe
+prompt Read scan pg-093.png and transcribe printed English to part-93.md
+think One reading pass; image is clear; page is printed page 50, running head BRIHAT JATAKA, ch. 5
+obs Page ends mid-sentence at "the two shanks" -- text continues on next scan
+obs Stanza 23 and notes (a), (b), (c) all present and legible
+obs No Greek on this page; no Sanskrit requiring transliteration
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-93.md transcription written
+recommend transcribe pg-094 to continue the body-division list that breaks off here

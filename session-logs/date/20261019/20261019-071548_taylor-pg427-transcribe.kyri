@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.071548
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status identified from system-reminder
+voice Kyri
+title Transcribe Taylor Plato Wellcome 1793 scan page 427
+prompt Read scan pg-427.png and write transcription to part-427.md
+think Page 427 is printed page 396, running head INTRODUCTION. One reading pass, long s rendered as s, Greek phrase kata sxesin marked as not transcribed by policy.
+obs Greek phrase "kata sxesin" appears inline in the body of the paragraph; marked per policy rather than transliterated since it is Greek not Sanskrit.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-427.md -- transcription of scan page 427, printed page 396
+recommend commit the session logs batch for today's transcription work once the full batch is complete

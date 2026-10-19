@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.043828
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato pg-238 transcribe
+prompt Read scan pg-238.png (Taylor Plato Wellcome 1793) and write part-238.md
+think Scan is clear; printed page 207, running head OF PLATO. Full page of English prose, Phaedo dialogue, Cebes summarizing his objection to Socrates. No Greek visible. No Sanskrit. One marginal speaker label: Socrates at foot.
+obs File at that path already held Brihat Jataka content from a prior batch; read confirmed, then overwrite was clean.
+file /tmp/.../scratchpad/all/part-238.md -- transcription of scan pg-238, printed p. 207
+recommend commit the Taylor batch when all assigned pages are done, following the w-routine

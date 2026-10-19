@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.035015
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg 235 transcription
+prompt Read scan pg-235.png and transcribe printed English to part-235.md
+think Single reading pass; no Greek present on this page; Sanskrit terms (Mulatrikona, Swakshetra, Vargottama, Navamsa, Antardasa, Karaka, Atimitra) transliterated as printed
+obs Page 192 of printed book, CH. 22, running head BRIHAT JATAKA; clean scan, all text legible; no Greek; no illegible words
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-235.md transcription of scan pg 235
+recommend continue to next scan page in the batch

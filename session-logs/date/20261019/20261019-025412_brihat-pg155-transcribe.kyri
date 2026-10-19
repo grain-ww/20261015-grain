@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.025412
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-155 transcribe
+prompt Read scan pg-155.png and transcribe printed English to part-155.md
+think Single reading pass; image clear; page 112, CH. 11 continuing into CH. XI
+obs Page ends mid-sentence at bottom -- "their exaltation signs" continues on next page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-155.md -- transcription of scan page 155
+recommend transcribe pg-156 to continue CH. XI Raja Yoga, which opens at the bottom of this page

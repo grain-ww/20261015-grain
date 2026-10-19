@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.024001
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-135 transcribe
+prompt Read scan pg-135.png and write part-135.md with printed English transcribed
+think One reading pass: image shows printed page 92 of Brihat Jataka, running head BRIHAT JATAKA, ch. 9 header. Tail of chapter 8 antardasa arithmetic, then Chapter IX on Ashtakayargas begins.
+obs The chapter heading reads ON ASHTAKAVАРGAS(a) -- the word contains a Cyrillic-looking A which is likely a print artifact; transcribed as given with Sanskrit note. Footnote marker (a) present but no footnote visible on this page.
+obs The fraction display for the antardasa period calculation was rendered as inline text with dashes; preserved as close ASCII approximation.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-135.md -- transcription of scan page 135
+recommend commit the batch of untracked session logs from today before they grow further

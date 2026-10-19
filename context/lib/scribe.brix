@@ -1,0 +1,5 @@
+# context/lib/scribe.brix -- scribe settings: one place for the default font.
+format scribe-brix-v1
+scribe font default JetBrains Mono
+scribe font license SIL-OFL-1.1
+scribe font fallback monospace

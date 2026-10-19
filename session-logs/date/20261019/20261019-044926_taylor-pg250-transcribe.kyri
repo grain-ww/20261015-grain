@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.044926
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime unverified
+voice Kyri
+title Transcribe Taylor Plato 1793 scan page 250
+prompt Read pg-250.png and write the printed English to part-250.md with heading, policy markers, one reading pass.
+think Opened the image; running head is OF PLATO., printed page number is 219. Text is a single column, no footnotes visible. Italic runs mark the philosophical terms in the argument (to subsist in becoming to be, to be, the small, viz.). Page ends mid-sentence on the word "they" -- a natural page break, not a scan fault.
+obs Greek policy not triggered on this page -- no Greek script visible. No Sanskrit. No illegible words.
+file /tmp/.../scratchpad/all/part-250.md transcription of scan page 250, printed page 219
+recommend Proceed to pg-251.png, the next scan in the batch sequence.

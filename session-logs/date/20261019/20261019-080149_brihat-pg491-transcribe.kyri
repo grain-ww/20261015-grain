@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.080149
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Transcribe scan page 491 -- Taylor Plato Wellcome 1793
+prompt Read pg-491.png and write part-491.md with printed English transcribed
+think Single reading pass; printed page 460, running head THE TIMAEUS
+obs Page ends mid-word "dis- / eases" at foot -- normal page break, not damage
+obs Italics on "whole" and "all" retained with markdown asterisks
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-491.md -- transcription of scan page 491
+recommend continue to pg-492, the next unwritten scan in the Brihat batch

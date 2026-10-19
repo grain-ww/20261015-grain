@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.034304
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-225 transcribe
+prompt Read scan pg-225.png and transcribe printed English to part-225.md
+think Single reading pass; heading from printed page number 182 and running head BRIHAT JATAKA CH. 20
+obs Page ends mid-sentence at bottom -- transcribed as printed, no completion
+obs "occuppy" on line re Moon/2nd house kept as printed (double-p in original)
+obs "from will be" on line re 6th house kept as printed (apparent compositor error)
+obs "(5.)" section numbering kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-225.md -- transcription written
+recommend check part-226.md booking -- next scan page in sequence not yet started

@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.021929
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-107 transcribe
+prompt Read scan pg-107.png and transcribe printed English to part-107.md
+think Single reading pass; page is printed page 64, running head BRIHAT JATAKA, CH. 7
+think Content: Notes section with Rasi Chakra horoscope table and commentary on Mercury years and Chakrapataharana
+obs Table cells: Venus/Lagna top-left, Sun top-centre, Moon/Mercury top-right, Jupiter right, Mars left, Saturn bottom-centre; one cell bottom-left had illegible small text
+obs Fraction in body written as 12/60 (rendered as superscript/subscript in original); transcribed as 12/60 in plain ASCII
+obs Page ends mid-sentence: "these two being" -- no text invented beyond the scan
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-107.md transcription written
+recommend commit the Brihat batch when all assigned pages are done

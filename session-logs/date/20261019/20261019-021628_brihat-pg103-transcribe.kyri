@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.021628
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-103 transcribe
+prompt Read scan pg-103.png and transcribe to part-103.md
+think Single reading pass: printed page 60, running head BRIHAT JATAKA, Ch. 7.
+think Page opens mid-sentence (continuation from pg 102), covers Pindayurdaya table and stanza 2 notes.
+think No Greek present. Sanskrit terms: Pindayurdaya, Navamsas, Lagna, Astangata -- transliterated as printed.
+think Page ends mid-sentence in note (a), bottom of column.
+obs Table of planetary exaltation years rendered with comma-separated ,, placeholders matching printed layout.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-103.md -- transcription of scan page 103
+recommend commit the session logs from today's Brihat batches (many untracked .kyri files pending)

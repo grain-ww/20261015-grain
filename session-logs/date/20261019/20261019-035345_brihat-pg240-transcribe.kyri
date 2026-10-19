@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.035345
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime unverified
+voice Kyri
+title Brihat Jataka pg-240 transcribe
+prompt Read scan image pg-240.png and transcribe printed English to part-240.md
+think Single reading pass of scan page 240, printed page 197, Ch. 23, BRIHAT JATAKA
+think Page contains sections 8, 9, 10 with notes; all English; no Greek; no Sanskrit requiring transliteration beyond proper nouns already in Roman letters (Navamsa, Sagittari, Yavanacharya -- kept as printed)
+obs "plumonary" kept as printed (likely misprint for pulmonary); "Sagittari" kept as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-240.md -- transcription of scan page 240
+recommend next batch page (pg-241) if the transcription series continues

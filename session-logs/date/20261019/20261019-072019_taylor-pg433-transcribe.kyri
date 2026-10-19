@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.072019
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 433 transcribe
+prompt Read scan pg-433.png and write transcription to part-433.md
+think Scanned printed page 402, running head INTRODUCTION.; two paragraphs visible, page ends mid-sentence at "trary"
+obs Greek phrase "auto zoion" present inline -- marked as [Greek, not transcribed by policy] per standing rule; long-s rendered as s throughout; italics preserved in markdown
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-433.md -- transcription of scan page 433
+recommend continue with next scan page in the batch sequence

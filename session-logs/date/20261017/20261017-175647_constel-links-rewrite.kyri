@@ -1,0 +1,22 @@
+format session-log-v1
+stamp 20261017.175647
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title constel pages rewritten to stop linking modules this clean slate does not carry
+prompt Keaton: push the constel references fix; then rewrite, after the copy-or-rewrite question was left open.
+think Measured 60 relative links across constel/*.md in the clean slate that resolve to no file: 26 in LADDER.md and 34 in MODULES.md. The targets were 32 .rye modules, dated active-designing pages, and two rules pages removed in efc9c84.
+think Replaced each dangling link with its plain code-span text, so no link reaches an absent file. Added one scope note to LADDER.md and MODULES.md saying the modules live in the field tree.
+think Rewrote the MODULES.md status line to name the field tree's constel/ directory and its roster witness as the holder of the 32-row claim.
+obs After the rewrite, a relative-link check over constel/*.md reads zero broken links. The rewrite changed link syntax only; the prose and the module descriptions are unchanged.
+obs The header claim that a guard holds the 32 rows is now a claim about the field tree, not this clean slate, and the note says so.
+file constel/LADDER.md -- 26 dangling links converted to code spans; scope note added below the header
+file constel/MODULES.md -- 34 dangling links converted to code spans; status line and scope note rewritten
+file session-logs/date/20261017/20261017-175647_constel-links-rewrite.kyri -- this log, born on its day's shelf
+recommend keep-going -- push to xy as a fast-forward, the clean slate remains private

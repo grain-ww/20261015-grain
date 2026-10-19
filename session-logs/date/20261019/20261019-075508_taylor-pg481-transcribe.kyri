@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.075508
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 481
+prompt Read scan pg-481.png and transcribe printed English to part-481.md
+think Scanned page is printed page 450, running head THE TIMAEUS -- Timaeus passage on Athens and Atlantis
+obs No Greek on this page; no Sanskrit; one catchword at foot (Europe,); page number 4 at foot center
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-481.md -- transcription of scan page 481
+recommend continue to pg-482 -- next scan page in the batch is not yet transcribed

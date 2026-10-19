@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042852
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg286 transcribe -- Equation of Time table
+prompt Read scan pg-286.png and transcribe printed English to part-286.md
+think Page is a full-page numerical table (Table D, heading VII): Equation of Time for India, 31 rows by 12 month columns, values in minutes and seconds. No prose body; heading and column labels are the only English text.
+obs Table is rotated 90 degrees in the scan (landscape in portrait binding). Values are dense small print; some figures in the December and November columns carry a sign-change marker (+ / -) mid-column. A few cells in rows 22-23 show anomalous values (e.g. FEB row 22 reads 23 56, likely a scan artefact -- transcribed as read, not corrected).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-286.md -- transcription of full table, one reading pass
+recommend check part-286.md against a second-pass read of the scan for the anomalous FEB row-22 value (23 56) and any sign-change positions that may have been mis-placed

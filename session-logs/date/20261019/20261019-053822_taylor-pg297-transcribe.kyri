@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.053822
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, runtime session
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 297
+prompt Read scan pg-297.png and write transcription to part-297.md
+think Opened image; printed page 266, running head INTRODUCTION; identified all italic runs and catchword at foot (true); transcribed one reading pass; no Greek found on this page; no Sanskrit found; marked no illegibles
+obs Page is clean and legible throughout; catchword "true" at foot is the last word before the page turn, included as printed; italics in original rendered as italics in markdown
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-297.md -- transcription of scan page 297, printed page 266
+recommend proceed to pg-298 if the batch continues, or commit the completed batch if this is the last page

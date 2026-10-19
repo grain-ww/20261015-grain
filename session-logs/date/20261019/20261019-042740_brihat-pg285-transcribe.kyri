@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.042740
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-285 transcribe
+prompt Read scan pg-285.png and transcribe printed English to part-285.md
+think One reading pass; image shows page VI "To Find Out the Correct Local Time, I. By Day" -- plain English prose with numbered notes; no Greek; no Sanskrit; one apparent printer typo "cerrectly" kept as printed
+obs "oblong ular" appears as two words in the scan, kept as printed; "cerrectly" is a printer error, kept without correction per instructions
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-285.md transcription of pg-285
+recommend check part-285.md against the scan for any line missed in the lower notes section before closing the batch

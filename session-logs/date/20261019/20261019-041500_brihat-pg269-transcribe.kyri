@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041500
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-269 transcribe
+prompt Read scan pg-269.png and transcribe printed English to part-269.md
+think Single reading pass; image is printed English, clear type, page 226 of Brihat Jataka Ch. 27
+obs Page ends mid-sentence at item 6 (3rd Drekkana of Taurus); transcribed up to that cut
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-269.md -- transcription of scan page 269
+recommend continue with pg-270 to complete the cut sentence at item 6

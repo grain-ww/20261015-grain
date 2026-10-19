@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.012536
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka scan page 32 transcription
+prompt Read pg-032.png and transcribe printed English to part-32.md
+think Page 32 is printed page 23, running head INTRODUCTION. Full column of prose continues the Nadigrandham passage, ending mid-sentence. Footnote present at bottom.
+obs Sanskrit word "ayanamsa" appears in the main text; transcribed as printed. "Varaha Mihira" appears at page foot, transcribed as printed (uncertain transliteration by the original author, not by policy).
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-32.md -- transcription of scan page 32
+recommend commit the batch-021-040 draft and session logs now that page 32 is done and the untracked files accumulate

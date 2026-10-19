@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.015851
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-078 transcribe
+prompt Read scan pg-078.png and transcribe printed English to part-78.md
+think Image shows printed page 35, running head BRIHAT JATAKA, hc. 4 chapter marker -- tail of a stanza on mute/speech, Notes (a)(b)(c), then stanza 18 on teeth/humpback/lame/deaf births, Notes (a)(b) -- no Greek present -- no illegible words
+obs Sandhies spelled with capital S and italic marker in original; "snd" in body text reads as "and" -- kept as printed "and"; page ends mid-note at Saturn
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-78.md transcription of scan page 78
+recommend check part-79.md next -- stanza 18 Notes continue and likely close on the following page

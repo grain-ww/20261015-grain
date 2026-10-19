@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.004623
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified from system-reminder
+voice Kyri
+title Transcribe scan page 222 -- Taylor Plato Wellcome 1793
+prompt Read pg-222.png and write part-222.md with printed English transcribed, Greek skipped, heading as specified.
+think Read image, identify printed page number (191) and running head (OF PLATO.), transcribe English paragraph by paragraph, mark Greek block with policy note, preserve italics as markdown italics, write file.
+obs Page 191 printed, running head "OF PLATO." -- two paragraph fragments at top (continuation from prior page), then a longer note block from Taylor, concluding with a catch-word "not" at foot. Greek passage in the Epistle quotation marked per policy.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/auto/part-222.md -- scan page 222 transcription, one reading pass
+recommend check part-222.md against the scan for the two truncated paragraphs at top, which continue from page 221 and may need context alignment in the batch assembly

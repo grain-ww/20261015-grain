@@ -1,0 +1,6 @@
+# The single-stranded date prefix for this tree -- one fact, one place.
+# Immutable: it names when this tree began and never moves. Scripts read it rather
+# than hard-coding a home path, so a rename changes one value. See the single-stranded
+# foundation.
+prefix 20261015
+ship incense

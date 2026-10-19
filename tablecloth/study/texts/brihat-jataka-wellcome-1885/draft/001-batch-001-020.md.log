@@ -1,0 +1,83 @@
+`part-1.md` is written. Scan page 1 is the Wellcome Collection catalog leaf -- no printed page number, no running head, library metadata only. The first leaf of the 1885 text itself will be in a later scan page.
+
+recommend: continue to pg-002.png, which is likely the first leaf of the 1885 printed text proper
+done 1
+Scan page 2 is the front cover only -- green cloth with library label "(2)AJA.23", no printed text. The file records that finding with a bracketed note. The session log is written.
+
+Recommend: Continue with pg-003.png, which is likely the first interior page with printed text.
+done 2
+`part-3.md` written. Scan page 3 is the back board of the bound volume -- no printed text, only a barcode sticker. Nothing to transcribe.
+
+recommend proceed to pg-004.png -- the back cover yields no text, so the next image is the right next step
+done 3
+`part-4.md` written. The scan is a solid black field -- nothing is legible, no text, running head, or page label. The file records that state honestly with no invented content.
+
+recommend check-in -- confirm whether pg-004.png is the intended file or whether a corrected scan exists before proceeding to subsequent batches
+done 4
+recommend: continue to pg-006.png -- next batch page in sequence
+done 5
+`part-6.md` written. Scan page 6 is the title page -- no printed page number, running head ARYAN MISCELLANY. The handwritten accession number 43247 is bracketed. All printed text is readable; no Greek or Sanskrit on this page.
+
+Recommend: continue with pg-007.png as the next scan page in the Brihat Jataka batch.
+done 6
+Scan page 7 is a blank verso -- no printed text on its own face. The only readable marks are a handwritten shelf mark `(2) AJA,23` and the Wellcome Library rubber stamp. Both are noted in `part-7.md`; the mirror bleed-through from the facing recto is noted as unreadable.
+
+Recommend: continue with pg-008 or next batch page, as this verso carries no content.
+done 7
+`part-8.md` written. Scan page 8 is an unnumbered dedication leaf with no running head -- "Brahma Sree" is set in blackletter display type (noted in a bracket), and the rest is plain roman all-caps. No Greek or Sanskrit appeared.
+
+Recommend: Continue to next scan page in the Brihat Jataka batch; pg-009 not yet transcribed.
+done 8
+Scan page 9 is the verso of the dedication leaf -- blank on its own surface, showing only the dedication text bleeding through as a mirror image from the facing recto. I reversed and transcribed it as the dedication to Tandala Seernayana Josier. No Greek, no Sanskrit, no illegible words on this leaf.
+
+recommend: continue with pg-010 transcription, the next leaf in the Brihat batch
+done 9
+`part-10.md` written. The page opens the Introduction with two paragraphs; text cuts off mid-word at the bottom ("re-") at the page break. One italic word (*statements*) preserved. No Greek or Sanskrit appeared on this page.
+
+recommend: continue with pg-011.png to capture the continuation of the Introduction text cut off at "re-"
+done 10
+Transcription complete. `part-11.md` is printed page 2, running head INTRODUCTION. The page is a continuation mid-sentence and ends mid-sentence ("prove this state-"). Two small bracket notes: a punctuation ambiguity after "Olcott" and a possible apostrophe artifact after "taking". No Greek, no Sanskrit, no illegible words.
+
+recommend transcribe pg-012 next, continuing the Introduction sequence
+done 11
+`part-12.md` written -- printed page 3, running head INTRODUCTION. Two paragraphs: the first continues mid-sentence on common sense and proof, the second on the antipodean Lagna objection. "Aquaries" kept as printed; page ends mid-sentence with "Take two."
+
+recommend transcribe pg-013 next to continue the antipodean Lagna argument
+done 12
+Transcription written to `part-13.md`. Printed page 4, running head INTRODUCTION. Notes:
+
+- Two lines of Devanagari verse are marked `[Sanskrit verse, not transcribed]` -- they are script, not printed English, and Sanskrit transliteration was not attempted for verse in an unknown meter without a reliable reading.
+- The page ends mid-sentence ("seeds cast into the cosmic region in") -- left open as printed, nothing invented.
+- No Greek appeared on this page.
+
+Recommend: transcribe pg-014 next to continue the open sentence and the Introduction section.
+done 13
+`part-14.md` written. Printed page 5, running head INTRODUCTION. One note: "booltessly" is kept as printed -- likely a compositor's error for "bootlessly." Text ends mid-sentence at the page foot, continuing to page 15.
+
+recommend transcribe pg-015 next; batch continues in sequence
+done 14
+Transcribed. Printed page 6, running head INTRODUCTION. Two paragraphs land on this page; the second breaks mid-sentence at the foot ("a knowledge of the proper"). No Greek, no illegible words. "Leena" and "Tigris" kept as printed river-name comparisons.
+
+recommend: transcribe pg-016 to continue the Brihat jataka batch in sequence.
+done 15
+`part-16.md` written -- printed page 7, INTRODUCTION. The page carries two Sanskrit terms (Karmavipaka Grandha, Japa) kept as printed, no Greek, and the final sentence breaks mid-page at "do *not bring about*".
+
+recommend transcribe pg-017 next to continue the unbroken sentence and the batch
+done 16
+`part-17.md` written -- printed page 8, running head INTRODUCTION. The page opens mid-paragraph on the topic of Hindu literature's multi-causal events, works through the Ganga/Santanu story and Bheeshma's birth, then the Dasaratha/cursing-elder story, and ends mid-sentence at "draws on his own head the."
+
+recommend transcribe pg-018 next; batch 012 draft is open and sequential
+done 17
+Transcription written to `part-18.md`. The page is printed page 9, running head INTRODUCTION. Two passages: the first finishes the Vishnu/Rama incarnation narrative (Ravana, Seeta, Lanka); the second opens the double-Sun/Moon astronomy argument about planets as executive officers. The page ends mid-sentence with a gathering signature `2` at the foot. No Greek on this page; Sanskrit proper names are transcribed as the 1885 edition printed them.
+
+Recommend: transcribe pg-019 next to continue the Introduction batch.
+done 18
+`part-19.md` written -- printed page 10, running head INTRODUCTION. Full page reads cleanly; one italic word (*his*) marked; the Shakespeare quotation at the foot transcribed as a blockquote. No Greek, no illegible words.
+
+recommend check remaining untracked session logs and commit the brihat draft batch -- nine logs from 20261019 still unstaged
+done 19
+Transcription written to `part-20.md`. Printed page 11, running head INTRODUCTION. Two Sanskrit verse blocks appear in Devanagari and are marked as not transliterated per policy. The page ends mid-sentence ("has its representative in the") -- no text invented.
+
+recommend continue to pg-021 to complete the interrupted sentence and the next section of the Introduction
+done 20
+loop finished 1..20

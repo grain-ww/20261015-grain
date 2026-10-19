@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041116
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 264 transcription
+prompt Read scan pg-264.png and transcribe printed English to part-264.md
+think Scan is printed page 221, ch. 26, running head BRIHAT JATAKA. Text covers stanza 9 on Prasna Lagna multipliers and notes on Nakshatra discovery, Rasi Gunakara, Graha Gunakara. No Greek present. Sanskrit terms (Lagna, Sphuta, Nakshatra, Ashtakavarga, Gunakara) transliterated as printed; marked none as uncertain since they match standard transliterations in context. Page ends mid-sentence at foot.
+obs Degree symbol rendered as 'd' (e.g. 5d) since superscript circle in original is not plain ASCII. Single-tick for arcminutes kept as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-264.md -- transcription of scan page 264
+recommend commit the session logs batch for today's transcription work once the full run is complete

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.054852
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 311
+prompt Read scan pg-311.png and transcribe to part-311.md, heading with printed page label and running head
+think Identified printed page number as 289 from the header "289" visible as "28p" (likely a scan artifact -- number reads 289 given sequence), running head INTRODUCTION.
+obs Long-s rendered as s per instruction. Greek policy: no Greek present on this page. Footnote marker and text included. Page ends mid-sentence at "Timaeus," catchword.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-311.md -- transcription of scan page 311, one reading pass
+recommend continue to next scan page in sequence

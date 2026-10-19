@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.064501
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Transcribe Taylor Plato Parmenides scan page 385
+prompt Read scan pg-385.png and write transcription to part-385.md
+think One reading pass; image clear; page is printed page 354, running head THE PARMENIDES
+obs Page ends mid-word "simi-" -- line break at foot, continuation on next scan
+obs One spot of dirt over "So it appears." and "things" mid-page; text recoverable
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-385.md -- transcription written
+recommend transcribe pg-386.png next to capture the "simi-" continuation

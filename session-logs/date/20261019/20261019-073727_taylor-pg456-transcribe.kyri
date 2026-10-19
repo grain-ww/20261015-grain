@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.073727
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 456 transcription
+prompt Read scan pg-456.png and transcribe printed English to part-456.md
+think Scanned page shows printed page 425, running head INTRODUCTION. No Greek on this page. One footnote: viz. the oracles of Zoroaster. Page ends mid-sentence on "into" -- normal page turn.
+obs Long-s forms present in original but written as s per instruction. All text legible; no illegible words. No Sanskrit or Greek on this page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-456.md transcription of scan page 456, printed page 425
+recommend commit the day's Brihat and Taylor session logs and transcription files together -- none yet staged

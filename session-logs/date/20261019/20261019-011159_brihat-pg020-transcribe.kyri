@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.011159
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-020 transcription
+prompt Read scan pg-020.png and write transcription to part-20.md
+think Single reading pass; page is printed page 11, running head INTRODUCTION.
+think Two Sanskrit verse blocks in Devanagari -- not transliterated per policy, marked as [Sanskrit verse, not transliterated by policy].
+think Page ends mid-sentence (last word "the") -- transcribed as printed, no continuation added.
+obs Sushm-nanadi hyphenated across line break in original; joined as Sushmnanadi in prose rendering.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-20.md -- transcription of scan page 20
+recommend continue to pg-021 to complete the interrupted sentence and the next section of the Introduction

@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.011753
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified -- system-reminder names claude-sonnet-4-6
+voice Kyri
+title Brihat Jataka scan page 22 transcription
+prompt Read pg-022.png and write the printed English to part-22.md with the required heading
+think Single reading pass. Running head is INTRODUCTION, printed page 13. Italicised terms: Vernal Equinox, Nirayana Sphutam, Sayana Sphutam, Ayanamsa, Theosophist. The degree symbol rendered as plain text. The 50 arcsecond mark kept as two apostrophes. No Greek on this page. Sanskrit terms Yogatara, Nirayana Sphutam, Sayana Sphutam, Ayanamsa, Revati all appear in italic in the original -- treated as lightly uncertain transliterations already provided by the printer.
+obs Page ends mid-sentence at the Ayanamsa table preamble ("namsa on the 1st January 1883 are :--"); the table itself is on a following page not yet scanned.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-22.md -- transcription of scan page 22
+recommend transcribe the next batch page (pg-023 or equivalent) to continue the Ayanamsa table

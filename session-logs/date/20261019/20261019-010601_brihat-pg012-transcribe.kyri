@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.010601
+editor Claude Code
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-012 transcription
+prompt Read scan pg-012.png and transcribe printed English to part-12.md
+think Single reading pass from image; printed page 3, running head INTRODUCTION.
+think Two paragraphs: first continues mid-sentence (common sense and proof); second on the antipodean Lagna objection.
+think One note: "Aquaries" is printed as spelled -- kept as printed per instruction.
+think "10th degree" -- scan reads as 10th (could be 10 with ambiguous numeral); kept as read.
+obs Page ends mid-sentence "Take two" -- continuation falls on next scan page.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-12.md one-pass transcription of pg-012, printed page 3
+recommend transcribe pg-013 next to continue the antipodean Lagna argument

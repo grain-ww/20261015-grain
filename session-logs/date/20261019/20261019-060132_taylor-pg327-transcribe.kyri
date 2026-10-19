@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.060132
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default
+voice Kyri
+title Taylor Plato Wellcome 1793 -- transcribe scan page 327
+prompt Read scan pg-327.png and transcribe printed English to part-327.md
+think Image shows printed page 296 with running head INTRODUCTION. Two paragraphs of continuous prose, no Greek present on this page. Marginal annotation visible near "pursuit" line -- read as "desultory" in context.
+obs One annotation in the margin (handwritten, looks like "bo euje" or similar) near the pursuit/expect lines; interpreted desultory application as the printed text; annotation not transcribed into body.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-327.md -- transcription of scan page 327, printed page 296
+recommend next batch page 328 -- continue the sequential Taylor transcription series

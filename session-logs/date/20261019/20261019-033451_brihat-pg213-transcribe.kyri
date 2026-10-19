@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.033451
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-213 transcribe
+prompt Read scan pg-213.png and transcribe printed English to part-213.md
+think Single reading pass; page is printed page 170, running head BRIHAT JATAKA, ch. 18. Paragraphs 17-19 plus a closing partial paragraph. No Greek present. No Sanskrit requiring transliteration. Text ends mid-sentence at page foot.
+obs Page ends with "will have weak" -- text continues on next scan. Marked with no editorial note as the cut is at the physical page boundary, not an omission.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-213.md transcription written, one reading pass
+recommend transcribe pg-214 to continue the interrupted sentence and the chapter

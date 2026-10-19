@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.021504
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-101 transcribe
+prompt Read scan pg-101.png and transcribe printed English to part-101.md
+think Single reading pass; image shows printed page 58, running head BRIHAT JATAKA, chapter marker [CH. 6]; Notes section with item (a) and numbered yogas 1-8 (8 runs off page bottom)
+obs Item 5 reads "malefic plant" -- likely "planet" in the original; transcribed as printed; noted no correction made
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-101.md -- transcription of scan page 101
+recommend stage and commit the Brihat pg-101 transcription alongside any other open batch files

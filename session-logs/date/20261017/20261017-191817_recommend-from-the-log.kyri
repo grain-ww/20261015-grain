@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261017.191817
+editor Claude Code CLI
+provider Anthropic
+product Claude Code
+role captain incense interactive
+modality text
+model unverified
+model_status active runtime unverified -- env named haiku model; honest record is unverified
+voice Kyri
+host Linux shell, one-clock zone America/New_York
+title rule: the session-log recommend line is checked before it is named, and repeated verbatim as the last chat line
+prompt Keaton: suggestions keep telling us to do what is already done; set a rule to expand the recommend line into the last chat printout line.
+think Wrote the rule into the clean slate's rules room, with a check against both remotes and the last commits before any next step is named.
+obs The rule was written where the clean slate's rules live. The field tree has its own rules room and was not changed.
+file .claude/rules/recommend-from-the-log.md -- the rule
+file session-logs/date/20261017/20261017-191817_recommend-from-the-log.kyri -- this log
+recommend keep-going -- push the rule to xy and ww as a fast-forward.

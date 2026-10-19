@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20261019.032142
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 194 transcription
+prompt Read scan pg-194.png and write part-194.md with printed English transcribed
+think Single reading pass; image is clear; printed page 151, CH. 14, entries (20)--(31)
+obs Page ends mid-sentence at entry (31) with catchword "20" -- continuation on next page
+obs No Greek, no Sanskrit, no illegible words on this page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-194.md -- transcription of scan page 194
+recommend transcribe pg-195 next, as entry (31) is incomplete at the page foot

@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.070707
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Taylor Plato Wellcome 1793 -- scan page 415 transcription
+prompt Read scan pg-415.png and transcribe printed English to part-415.md
+think Single reading pass; printed page 384, running head INTRODUCTION.
+think Page begins mid-sentence (tellectual but are participated...) and ends with footnote and catch-word "them."
+think Long-s rendered as s per instruction; Greek policy not triggered (no Greek on this page); footnote marked with * as printed.
+obs Footnote text set in smaller type at page foot; italicised phrase "immaterial bodies" rendered in markdown italics.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-415.md -- transcription output
+recommend Check part-415.md against the scan for any missed words before batch commit.

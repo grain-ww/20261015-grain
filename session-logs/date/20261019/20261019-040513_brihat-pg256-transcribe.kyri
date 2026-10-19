@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.040513
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-256 transcription
+prompt Read scan pg-256.png and write transcription to part-256.md
+think Single reading pass; page is printed page 213, running head BRIHAT JATAKA, chapter 25
+think Stanzas 14 and 15 on Drekkana lords, post-death worlds, and Salvation conditions
+think Notes (a), (b), (c) follow the stanzas; no Greek on page; no illegible words
+obs Clean print; no uncertain readings; Navamsa and Drekkana are Sanskrit terms, left as printed
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-256.md -- transcription written, one reading pass
+recommend continue to pg-257 to maintain batch sequence

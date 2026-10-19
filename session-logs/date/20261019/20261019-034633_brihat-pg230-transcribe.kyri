@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.034633
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-230 transcribe
+prompt Read scan pg-230.png and transcribe printed English to part-230.md
+think Single reading pass; printed page 187, running head BRIHAT JATAKA, CH. 21.
+obs Page contains end of a stanza on planets and imprisonment, then Notes on Mercury/Sun depression signs, and items 3-5 on Satyachariar/Yavanas/Vishnugupta and hora effects. No Greek present. Sanskrit names (Satyachariar, Yavanas, Vishnugupta, Duadasamsa, Dwadasamsa) transliterated as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-230.md -- transcription written
+recommend check-in: verify part-230.md reads cleanly against the scan before committing the batch

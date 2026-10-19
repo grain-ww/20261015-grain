@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.021759
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 105 transcription
+prompt Read scan image pg-105.png and transcribe printed English to part-105.md
+think Single reading pass; table structure preserved with markdown; note (g) names Vakra (Sanskrit, retained as printed); section 3 and 4 plus Notes (a) and (b) transcribed in full; page ends mid-sentence at bottom
+obs The table on this page lists combustion degrees for planets under the Sun; the ditto marks (,,) are kept as printed; "nterpreted" at line start appears to be a broken "i" at column edge -- kept as printed without correction
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-105.md -- transcription of scan page 105
+recommend continue with pg-106.png if the batch extends further, as page 105 ends mid-sentence in section 4

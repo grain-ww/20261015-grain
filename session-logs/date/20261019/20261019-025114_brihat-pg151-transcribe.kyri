@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.025114
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified via system-reminder
+voice Kyri
+title Brihat Jataka pg-151 transcribe
+prompt Read scan pg-151.png and transcribe printed English to part-151.md
+think Single reading pass; printed page 103, CH. 9, running head BRIHAT JATAKA.
+think Page contains: continuation of Graha Gunakara A.V. years calculation, then seven numbered reductions for planetary periods, then N.B. note.
+obs No Greek on this page. Sanskrit terms present: Gunakara, Ghatikas, Vighatikas, Astangata -- transliterated as printed.
+obs All text legible; no illegible words.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-151.md -- transcription target
+recommend check-in -- confirm part-151.md matches expectations before proceeding to next page

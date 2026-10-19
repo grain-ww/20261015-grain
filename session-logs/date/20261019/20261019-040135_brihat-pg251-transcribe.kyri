@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.040135
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status unverified
+voice Kyri
+title Brihat Jataka pg 251 transcribe
+prompt Read scan pg-251.png and transcribe to part-251.md with heading, keeping printed text as printed, no Greek, uncertain Sanskrit transliterated, illegible marked
+think Scanned page 251 is printed page 208 of Brihat Jataka, running head BRIHAT JATAKA., chapter 25. Two columns of notes (humors table) and three numbered stanzas plus footnotes (a)(b)(c). No Greek present. No Sanskrit present beyond planet and humor names already in English. Notes table has two columns side by side; rendered as flat text with spacing.
+obs Page ends mid-sentence at stanza 3 -- text continues on next page. Noted in transcription by leaving the line incomplete as printed.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-251.md -- transcription of scan page 251
+recommend transcribe pg-252 next to continue the incomplete stanza 3 text

@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.010347
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-009 transcription
+prompt Read scan pg-009.png and transcribe into part-9.md with standard heading.
+think Scan page shows text only as mirror bleed-through from the recto dedication leaf.
+think The leaf's own surface is blank; the readable text is the reversed show-through.
+obs Dedication is addressed to Tandala Seernayana Josier, celebrated astrologer of Southern India, by the Translator.
+obs No printed page number on this leaf; labeled it a dedication leaf with no number.
+obs No Greek or Sanskrit present on this leaf; no illegible words.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/brihat/part-9.md -- transcription of pg-009 dedication bleed-through
+recommend continue with pg-010 transcription, the next leaf in the Brihat batch

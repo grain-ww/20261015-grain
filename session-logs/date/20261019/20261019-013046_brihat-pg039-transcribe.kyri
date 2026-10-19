@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.013046
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-039 transcribe
+prompt Read scan pg-039.png and transcribe printed English to part-39.md
+think Scan is index page iv, three letter sections M, N, P -- index entries with chapter and stanza columns
+think No Greek characters appear on this page; Pathona entry names Virgo as English gloss only
+think Entries transcribed as printed; column alignment preserved with spaces
+obs Entry "Pathona, Greek name for Kannya, Virgo" -- Greek policy did not trigger; no Greek script present
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-39.md -- transcription of scan page 39, index sections M-N-P
+recommend check part-39.md against the prior batch draft (002-batch-021-040.md) to confirm this page is not yet included there

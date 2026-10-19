@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.041854
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-275 transcribe
+prompt Read scan pg-275.png and transcribe to part-275.md
+think Single reading pass; image shows printed page 232, CH. 27, sections 29-34 (partial)
+obs "flanuel" retained as printed (likely "flannel" misprint in source); "acelestial" retained as printed; "a a quiver" -- double "a" retained as printed; Venus/Mercury/Saturn lords noted in text
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-275.md -- transcription written, one reading pass
+recommend check part-275.md heading label matches the running series before batch commit

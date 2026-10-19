@@ -1,0 +1,12 @@
+# construction/runner.rish -- run Rishi drivers through an external runner, and pass on the verdict.
+#
+# Usage:  RISHI_BIN=<path to a working rishi binary> rishi/bin/rishi run construction/runner.rish <driver>...
+#   This tree ships no runner. RISHI_BIN names one that exists on this machine, such as the field tree's binary.
+#   The run is green only when every driver exits 0. A missing RISHI_BIN is named before any driver runs.
+
+assert (run ["sh" "-c" "printenv RISHI_BIN >/dev/null"]).ok else "runner: RISHI_BIN is not set; name a working rishi binary"
+assert (run ["sh" "-c" "[ -x $RISHI_BIN ]"]).ok else "runner: RISHI_BIN does not name an executable; set it to a working rishi binary"
+
+for-each args as driver do assert (run ["sh" "-c" "$RISHI_BIN run $1" "_" driver]).ok else "runner: a driver did not pass"
+
+say "runner: all drivers green"

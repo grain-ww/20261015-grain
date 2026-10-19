@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20261019.032629
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka pg-201 transcribe
+prompt Read scan pg-201.png and write transcription to part-201.md
+think Single reading pass; printed page 158, CH. 16, running head BRIHAT JATAKA.
+think Numbered sections 2-6 visible; un-numbered paragraphs follow some numbers (Rohini, Ardra, Aslesha follow their predecessor's number without a new numeral).
+think No Greek on this page. Sanskrit names transliterated as printed (Bharani, Krittika, Rohini, Mrigasirsha, Ardra, Punarvasu, Pushya, Aslesha, Magha, Devas, Pitris, Sastras).
+obs Heading uses printed page 158 and running head BRIHAT JATAKA. [CH. 16.
+obs "be" split across line as "b_e" in original for Pushya paragraph -- transcribed as "be" inline.
+obs "Magha" printed as "M_agha" (slight gap) -- transcribed as Magha.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-201.md -- transcription of scan pg-201
+recommend continue with pg-202 scan if present; this batch is running sequentially through the Brihat Jataka scans

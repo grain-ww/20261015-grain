@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.014614
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 60 transcription
+prompt Read scan pg-060.png and transcribe printed English to part-60.md
+think Single reading pass; heading takes printed page 19 and running head BRIHAT JATAKA from CH. II.] header
+obs Last line partially cut -- "Moolatrikona" visible but the house number before "th" after 12th is illegible; marked [illegible]th
+obs (a) footnote marker present inline after Saturn; kept as printed
+obs Greek policy not triggered -- no Greek on this page
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-60.md transcription written
+recommend continue with pg-061 -- batch sequence ongoing

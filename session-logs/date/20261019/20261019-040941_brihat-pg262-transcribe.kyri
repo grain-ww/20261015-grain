@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.040941
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-262 transcribe
+prompt Read scan pg-262.png and write transcription to part-262.md
+think One reading pass; tabular rows (9)-(12) have brace structure joining left and right columns -- rendered as flat prose pairs with Nakshatra name at end; page ends mid-sentence at sloka 7
+obs The brace pairs in the table are typographic; transcribed as plain prose sequences preserving the label and name. Greek policy not triggered -- no Greek present. Sanskrit names (Ashadha, Sravana, Bhadrapada, Aswaynja, Navamsa) kept as printed, marked uncertain by policy.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-262.md -- transcription of scan page 262, printed page 219
+recommend check part-263 booking -- the page ends mid-sentence and the next scan is needed to complete sloka 7

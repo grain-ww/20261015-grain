@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20261019.035222
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status configured default, unverified at runtime
+voice Kyri
+title Brihat Jataka pg-238 transcribe
+prompt Read scan pg-238.png and transcribe printed English to part-238.md
+think Single reading pass -- page is CH. 23, printed page 195, running head BRIHAT JATAKA
+think Page begins mid-sentence (continuation from pg-237); ends mid-sentence (continues to pg-239)
+think No Greek text present; Sanskrit terms (Chakra-sandhi, Navamsas, Rikshasandhies, etc.) left as printed
+obs Two Notes subsections on this page, one after stanza opening, one after stanza 4
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-238.md -- transcription written
+recommend continue to pg-239 to complete the chapter run

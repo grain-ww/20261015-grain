@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20261019.014150
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status runtime-confirmed
+voice Kyri
+title Brihat Jataka pg-054 transcribe
+prompt Read scan pg-054.png and transcribe printed English to part-54.md
+think Single reading pass; page is printed page 13, running head BRIHAT JATAKA, CH. I.]
+think Content: continuation of sloka on angular house natures (biped/aquatic/centiped/quadruped), notes on sign classifications, sloka 18 on Panaphara/Apoklima/house names, sloka 19 beginning on ascendant lord and Mana measurement -- page ends mid-sentence
+obs "Panaphara and Apoklima are Greek terms" -- noted but not transcribed as Greek; the terms themselves are transliterated in the main text
+obs Sanskrit terms transliterated as printed: Lagna, Kendra, Mana, Hibuka, Ambu, Sukha, Vesma, Jamitra, Trikona, Meshoorana, Karma
+obs Page ends mid-sentence after "and those" -- transcribed as printed, no invented continuation
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-54.md single reading pass, printed page 13
+recommend transcribe pg-055 next to continue the Mana table and sloka 19

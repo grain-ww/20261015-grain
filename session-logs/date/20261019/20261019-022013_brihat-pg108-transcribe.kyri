@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20261019.022013
+editor product interface
+provider Anthropic
+product Claude Code
+model claude-sonnet-4-6
+model_status verified by system-reminder
+voice Kyri
+title Brihat Jataka scan page 108 transcription
+prompt Read pg-108.png and transcribe printed English to part-108.md, heading with page label and running head, policy rules for Greek/Sanskrit, mark illegible words, one reading pass.
+think Printed page 65, running head BRIHAT JATAKA, Chapter 7 continuation. Content: Pindayurdaya table of planetary years, stanza 7 commentary, Notes (a)(b)(c). No Greek present. Sanskrit names (Satrukshetraharana, Astangata harana, Krurodaya harana, Pindayurdaya, Balarishta, Ayurdaya, Navamsa) transcribed as printed -- these are the author's own romanizations, not my transliterations, so kept as printed. The word "does" in note (c) is italicized in the original; marked with asterisks. Page ends mid-sentence at "Mercury, Jupiter," -- transcribed to that point.
+obs Table rendered as markdown pipe table. Ellipsis dots in Years/Months/Days columns rendered as "...". Fraction "7 1/2" spelled out since ASCII-first rule applies and the original uses a fraction character.
+file /tmp/claude-1000/-home-keeper-20260618-grain-incense/1d06fc51-4329-493f-a622-ef864cf58020/scratchpad/all/part-108.md -- transcription of scan page 108
+recommend check-in -- confirm part-108.md reads cleanly before committing the Brihat batch that includes page 108
